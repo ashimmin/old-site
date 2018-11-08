@@ -1,0 +1,30 @@
+# Site settings
+title:          ANDY SHIMMIN
+description:    "Interaction Design"
+baseurl:        "/yeehaw"
+url:            "https://ashimmin.github.io"
+
+# Author
+author:
+  name:         "Andy"
+  url:          https://ashimmin.github.io
+  email:        andersonrshimmin@gmail.com
+  post_id:      {{post.tile}}
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       9

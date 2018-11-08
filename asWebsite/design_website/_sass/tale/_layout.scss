@@ -1,0 +1,101 @@
+
+.container {
+  max-width: 100%;
+  width: 100%;
+
+    margin: 0 auto;
+}
+
+main,
+footer,
+.nav-container {
+  display: block;
+  position: -webkit-sticky; /* Safari */
+   position: sticky;
+  margin: 0 auto;
+  max-width: 100%; //this changes the total website width
+  width: 85%;
+
+}
+
+.nav {
+  box-shadow: 0 1px 20px -8px $shadow-color;
+  overflow: auto;
+  padding-bottom: 0%;
+
+  &-container {
+    margin: 1.5rem auto;
+    position: relative;
+    text-align: center;
+
+  }
+
+  &-title {
+    @include transition(all .2s ease-out);
+    color: $default-color;
+    display: inline-block;
+    margin: 0;
+    padding-right: 0.2rem;
+    font-weight: 50;
+letter-spacing: 2px;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 1rem 0 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  li {
+    @include transition(all .2s ease-out);
+    color: $default-color;
+    display: inline-block;
+    opacity: .6;
+    padding: 0 2rem 0 0;
+
+    &:last-child {
+      padding-right: 0;
+    }
+
+    &:hover,
+    &:focus {
+      opacity: 1;
+    }
+  }
+
+  a {
+    font-family: $sans-serif;
+    color: $default-color; //change color of nav text
+  }
+}
+
+@media (min-width: 600px) {
+  .nav {
+    &-container {
+      text-align: left;
+    }
+
+    ul {
+      bottom: 0;
+      position: absolute;
+      right: 0;
+    }
+  }
+}
+
+footer {
+  font-family: $serif-secondary;
+  padding: 2rem 0;
+  text-align: center;
+
+  span {
+    color: $default-color;
+    font-size: .8rem;
+  }
+}
