@@ -137,7 +137,21 @@ td {
   }
 
   .post-img {
-    padding-top: 56.25%;
-    max-width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+    width: 100%;
+    margin-bottom: 4%;
   }
+  img {
+    position: absolute;
+object-fit: cover;
+width: 100%;
+height: 100%;
+  }
+}
+
+.arrow-sticky{
+position: sticky;
+position: -webkit-sticky;
+  top: 10rem;
 }

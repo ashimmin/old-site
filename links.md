@@ -9,7 +9,7 @@ layout: links
     <h1 class="catalogue-title">{{ links.title }}</h1>
   <div class="catalogue-line"></div>
   <p>
-    {{ links.content | strip_html | truncatewords: 30 }}
+    {{ links.excerpt | strip_html | truncatewords: 30 }}
   </p>
 </a>
 </div>

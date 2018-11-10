@@ -8,23 +8,25 @@ layout: default
     <br>
     <br>
     <br>
-    <a onclick="window.history.back()">
-      <svg width="27px" height="14px" viewBox="0 0 27 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <div class="arrow-sticky">
+      <a onclick="window.history.back()">
+        <svg width="27px" height="14px" viewBox="0 0 27 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
           <desc>Created with Sketch.</desc>
           <defs>
-              <path d="M195.942931,287 L219.04451,287 L219.04451,288.699596 L195.952119,288.699596 L200.873522,293.632391 L199.844216,294.688432 L193,287.844216 L199.844216,281 L200.873522,282.069409 L195.942931,287 Z" id="path-1"></path>
+            <path d="M195.942931,287 L219.04451,287 L219.04451,288.699596 L195.952119,288.699596 L200.873522,293.632391 L199.844216,294.688432 L193,287.844216 L199.844216,281 L200.873522,282.069409 L195.942931,287 Z" id="path-1"></path>
           </defs>
           <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-              <g id="Links-Page-Copy" transform="translate(-193.000000, -281.000000)">
-                  <mask id="mask-2" fill="white">
-                      <use xlink:href="#path-1"></use>
-                  </mask>
-                  <use id="&lt;—" fill="#333341" xlink:href="#path-1"></use>
-              </g>
+            <g id="Links-Page-Copy" transform="translate(-193.000000, -281.000000)">
+              <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+              </mask>
+              <use id="&lt;—" fill="#333341" xlink:href="#path-1"></use>
+            </g>
           </g>
-      </svg>
-</a>
+        </svg>
+      </a>
+    </div>
   </div>
   <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-8	col-xl-6">
 
@@ -34,13 +36,15 @@ layout: default
     <br>
     <h2><b>{{ page.title }}</b></h2>
     <div class="links-title">
-      <p>{{page.link_description}}</p>
+      <p>{{ page.excerpt }}</p>
     </div>
     <br>
+    <br>
+    <Br>
+      <br>
 
-    <br>
-    <br>
-    <p> {{content}}</p>
+    <p> {{content}} </p>
+    <br><br>
     <br>
 
 

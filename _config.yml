@@ -1,7 +1,7 @@
 # Site settings
 title:       ANDY SHIMMIN
 description: "Minimal Jekyll theme for storytellers"
-baseurl:     "/"
+baseurl:     "/yeehaw"
 url:         "https://ashimmin.github.io"
 
 # Author
