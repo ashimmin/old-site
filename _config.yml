@@ -1,7 +1,6 @@
 # Site settings
 title:          ANDY SHIMMIN
 description:    "Interaction Design"
-baseurl:        "/yeehaw"
 url:            "https://ashimmin.github.io"
 
 # Author
