@@ -1,29 +1,41 @@
 # Site settings
-title:          ANDY SHIMMIN
-description:    "Interaction Design"
-url:            "https://ashimmin.github.io"
+title:       ANDY SHIMMIN
+description: "Minimal Jekyll theme for storytellers"
+baseurl:     "/yeehaw"
+url:         "https://ashimmin.github.io"
 
 # Author
 author:
-  name:         "Andy"
-  url:          https://ashimmin.github.io
-  email:        andersonrshimmin@gmail.com
-  post_id:      {{post.tile}}
+  name:      "Andy Shimmin"
+  url:       https://ashimmin.github.io
+  email:     andersonrshimmin@gmail.com
+  post_id:   {{post.tile}}
+
 
 # Build settings
-markdown:       kramdown
+markdown:    kramdown
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir:  _sass
+  style:     compressed
 
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       9
+permalink:   /:year-:month-:day/:title
+paginate:    9
+
+
+collections:
+      links:
+        output: true
+        permalink: /links/:path/
+      posts:
+
+assets:
+    sources:

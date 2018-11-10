@@ -12,7 +12,7 @@
 
     &:focus .catalogue-line,
     &:hover .catalogue-line {
-      width: 12rem; //extends to this length when hovered over
+      width: 24rem; //extends to this length when hovered over
     }
 
     &:last-child {
@@ -22,8 +22,8 @@
 
 
   &-time {
-    color: $default-tint;
-    font-family: $serif-secondary;
+    color: $default-color;
+    font-family: $serif-primary;
     letter-spacing: 0.5px;
   }
 
@@ -37,9 +37,10 @@
   }
 
   &-line {
-    @include transition(all 0.3s ease-out);
-    border-top: 0.1rem solid $serif-primary;
+     @include transition(all 0.3s ease-out);
+    border-top: 0.1vw solid $grey-2;
     display: block;
-    width: 8rem;
+    width: 80%;
+
   }
 }

@@ -1,47 +1,45 @@
-
 .container {
   max-width: 100%;
   width: 100%;
-
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
-main,
+.nav-container,
 footer,
-.nav-container {
+main {
   display: block;
-  position: -webkit-sticky; /* Safari */
-   position: sticky;
+  position: -webkit-sticky;
+  /* Safari */
+
+  position: sticky;
   margin: 0 auto;
   max-width: 100%; //this changes the total website width
   width: 85%;
-
 }
 
 .nav {
   box-shadow: 0 1px 20px -8px $shadow-color;
   overflow: auto;
-  padding-bottom: 0%;
+  padding-bottom: 0;
 
   &-container {
     margin: 1.5rem auto;
     position: relative;
     text-align: center;
-
   }
 
   &-title {
-    @include transition(all .2s ease-out);
+    @include transition(all 0.2s ease-out);
     color: $default-color;
     display: inline-block;
     margin: 0;
     padding-right: 0.2rem;
     font-weight: 50;
-letter-spacing: 2px;
+    letter-spacing: 2px;
 
-    &:hover,
-    &:focus {
-      opacity: .6;
+    &:focus,
+    &:hover {
+      opacity: 0.6;
     }
   }
 
@@ -53,18 +51,18 @@ letter-spacing: 2px;
   }
 
   li {
-    @include transition(all .2s ease-out);
+    @include transition(all 0.2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: 0.6;
     padding: 0 2rem 0 0;
 
     &:last-child {
       padding-right: 0;
     }
 
-    &:hover,
-    &:focus {
+    &:focus,
+    &:hover {
       opacity: 1;
     }
   }
@@ -74,7 +72,6 @@ letter-spacing: 2px;
     color: $default-color; //change color of nav text
   }
 }
-
 @media (min-width: 600px) {
   .nav {
     &-container {
@@ -90,12 +87,15 @@ letter-spacing: 2px;
 }
 
 footer {
-  font-family: $serif-secondary;
+  font-family: $serif-primary;
   padding: 2rem 0;
-  text-align: center;
+  padding-top: 10vh;
+    padding-bottom: 4vh;
+  text-align: left;
+
 
   span {
-    color: $default-color;
-    font-size: .8rem;
+      color: $grey-1;
+    font-size: 0.9rem;
   }
 }

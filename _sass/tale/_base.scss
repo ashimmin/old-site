@@ -43,7 +43,34 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: gray;
+  color: #EB4D65; //color of text being hovered over
+position: relative;
+
+}
+a[tooltip]:hover:after{
+content: attr(tooltip);
+font-family: $serif-primary;
+font-size: 12px;
+padding: 8px 12px;
+color: #333341;
+position: absolute;
+top: 100%;
+width: 400px;
+white-space:  pre-line;
+z-index: 20;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+-moz-box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
+box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
+background-color: #fff;
+}
+
+p{
+    color: $default-color;
+    font-size: 16px; //changes global p size
+
 }
 
 blockquote {
@@ -65,37 +92,52 @@ img {
   display: block;
   margin: 0 0 1rem;
   max-width: 100%;
+  border-radius: 1.2%;
 }
 
 td {
   vertical-align: top;
 }
+
+
+
+
+
+
 //
 .post-card {
   padding-top: 10vh;
+  width: 85%;
 
   p {
     color: $grey-2;
+    font-size: 16px;
+  }
+}
+.links-title {
+  p {
+    color: $grey-2;
+    font-size: 16px;
+    font-family: $sans-serif;
   }
 }
 
 .writing-description {
-
   .v-div {
     border-left: 1px solid $grey-2;
     overflow: hidden;
-    height: 10vh;
+    height: 78%;
     // max-height: 100%;
-    top: 0rem;
+    top: 0;
   }
+
   p {
-        margin-block-start: 0em;
-        padding-top: 0rem;
+    margin-block-start: 0;
+    padding-top: 0;
   }
 
   .post-img {
     padding-top: 56.25%;
     max-width: 100%;
-    border-radius: 50px;
   }
 }

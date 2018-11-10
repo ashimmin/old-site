@@ -3,7 +3,7 @@ layout: post
 title: "RECIPE BOX"
 author: "Andy"
 collections: links
-excerpt: The Andy equivalent to a quirky Pinterest board, or that box your parents store in the pantry or something like that. A place for food related things I find and what to try.
+link_description: A place for food related things I find and what to try.
 
 ---
 
@@ -15,8 +15,6 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
  [recipe here](https://github.com/chesterhow/tale) by Bonappetite
 
  [Pumkpin Whoopie Pies](http://lemon-sugar.com/2012/10/pumpkin-whoopie-pies.html/)
-
- [White Sandwich Bread](http://www.dinnerwithjulie.com/2012/03/04/julia-childs-white-sandwich-bread/) by Julia Child
 
 <br>
 <br>
