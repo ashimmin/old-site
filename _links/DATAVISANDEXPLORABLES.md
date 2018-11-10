@@ -10,7 +10,7 @@ excerpt: Taking complex topics, sets of numbers, or stories and simplifying them
 
 ###### EXAMPLES
 ---
-[Animating Ice Flow](http://dwtkns.com/posts/flowing-ice.html) by NYT Graphics 
+[Animating Ice Flow](http://dwtkns.com/posts/flowing-ice.html) by NYT Graphics
 
 <br>
 <br>
@@ -19,7 +19,7 @@ excerpt: Taking complex topics, sets of numbers, or stories and simplifying them
 
 ###### WHEN CONSIDERING COLOR
 ---
-Lyft's [article](https://design.lyft.com/re-approaching-color-9e604ba22c88) and [online tool](https://www.colorbox.io/) to help create "accessible UIs that scale."
+Lyft's [article](https://design.lyft.com/re-approaching-color-9e604ba22c88) and [color picking tool](https://www.colorbox.io/) for creating "accessible UIs that scale."
 <br>
 [Color Use Guidelines for Mapping and Visualization](https://web.natur.cuni.cz/~langhamr/lectures/vtfg1/mapinfo_2/barvy/colors.html) by Cindy Brewer
 <br>
