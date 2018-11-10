@@ -1,0 +1,101 @@
+* {
+  @include box-sizing;
+  line-height: 1.5;
+}
+
+body,
+html {
+  color: $default-color;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: $serif-primary;
+  font-size: 14px;
+  overflow-y: scroll;
+  @media (min-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+  font-family: $sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $default-color;
+  font-family: $serif-primary;
+  line-height: normal;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+  font-family: $sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+blockquote {
+  border-left: 0.25rem solid $grey-2;
+  color: $grey-1;
+  margin: 0.8rem 0;
+  padding: 0.5rem 1rem;
+
+  p:last-child {
+    margin-bottom: 0;
+    font-family: $sans-serif;
+  }
+  @media (min-width: 600px) {
+    padding: 0 5rem 0 1.25rem;
+  }
+}
+
+img {
+  display: block;
+  margin: 0 0 1rem;
+  max-width: 100%;
+}
+
+td {
+  vertical-align: top;
+}
+//
+.post-card {
+  padding-top: 10vh;
+
+  p {
+    color: $grey-2;
+  }
+}
+
+.writing-description {
+
+  .v-div {
+    border-left: 1px solid $grey-2;
+    overflow: hidden;
+    height: 10vh;
+    // max-height: 100%;
+    top: 0rem;
+  }
+  p {
+        margin-block-start: 0em;
+        padding-top: 0rem;
+  }
+
+  .post-img {
+    padding-top: 56.25%;
+    max-width: 100%;
+    border-radius: 50px;
+  }
+}
