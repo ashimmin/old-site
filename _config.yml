@@ -1,7 +1,7 @@
 # Site settings
 title:       ANDY SHIMMIN
 description: "Minimal Jekyll theme for storytellers"
-baseurl:     "/yeehaw"
+baseurl:     "/"
 url:         "https://ashimmin.github.io"
 
 # Author
@@ -24,7 +24,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jemoji #Uncomment this to allow emoji in your post
+
 
 # Permalinks
 permalink:   /:year-:month-:day/:title
