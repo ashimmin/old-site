@@ -14,7 +14,7 @@ do i organize by school year or calendar year? by project? is there a way to fil
 <br>
 <br>
 
-###### 2018
+###### 2018 (College Ends)
 ---
 
 <br>
@@ -30,19 +30,22 @@ do i organize by school year or calendar year? by project? is there a way to fil
 
 ###### 2016
 ---
-
+[Summer Sketchbook](/assets/Notebooks/2016summer.pdf) Notes for Wearable Technology course
+<br>
+[Summer-Fall Sketchbook](/assets/Notebooks/2016summer-fall.pdf) Notes for Wearable Tech and Haakon's Behavior course
 <br>
 <br>
 <br>
 
-###### 2015
+###### 2015 (College Starts)
 ---
+[Spring-Fall Sketchbook](/assets/Notebooks/2015spring-fall.pdf) Notes for Freshman doodles and Foundations in Interaction Design course
 
 <br>
 <br>
 <br>
 
-###### 2014
+###### 2014 (High School Ends)
 ---
 
 <br>
@@ -69,7 +72,7 @@ do i organize by school year or calendar year? by project? is there a way to fil
 <br>
 <br>
 <br>
-###### 2010
+###### 2010 (High School Starts)
 ---
 
 <br>

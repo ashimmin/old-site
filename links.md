@@ -1,5 +1,6 @@
 ---
 layout: links
+permalink: /links/
 ---
 
 {% for links in site.links %}

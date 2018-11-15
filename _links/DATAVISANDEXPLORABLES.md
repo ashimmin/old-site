@@ -32,3 +32,15 @@ Lyft's [article](https://design.lyft.com/re-approaching-color-9e604ba22c88) and 
 ###### ARTICLES
 ---
 [Graphical Perception and Graphical Methods for Analyzing Scientific Data](https://web.cs.dal.ca/~sbrooks/csci4166-6406/seminars/readings/Cleveland_GraphicalPerception_Science85.pdf) by William S. Cleveland and Robert McGill
+
+<br>
+<br>
+<br>
+
+###### MAPS AND CARTOGRAPHY
+---
+[Time based map](https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f) by Mapbox
+<br>
+[A deep dive into Google vs Apple Maps](https://www.justinobeirne.com/google-maps-moat)
+<br>
+[Catrographic Journalism](https://search.proquest.com/docview/1791140053) by Tim Wallace formerly at NYT Graphics

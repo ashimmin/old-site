@@ -37,3 +37,20 @@ excerpt: Things that have helped me collaborate well and make me think harder ab
 <br><br><br>
 ###### ARCHIVE
 ---
+A thousand Names for Joy
+<br>
+(Economics for Life)
+<br>
+(Getting Things Done) by David Allen
+<br>
+(The Four Agreements)
+<br>
+(The Diary of a Nose)
+<br>
+Blank Spots on the Map by Trevor Paglin
+<br>
+The Day of Saint Anthonys Fire by John G. Fuller
+<br>
+How to Fail at Almost Everything and Still Win Big by Scott Adams
+<br>
+The Things They Carried by Tim O'Brien
