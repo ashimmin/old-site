@@ -1,4 +1,5 @@
 <div class="row writing-description">
+  <!-- <div onClick=document.getElementById('post.url')> -->
   <div class="col-12">
     <div class="post-img">
       <img class="{{ post-img }}" src="{{post.image}}">
@@ -23,8 +24,6 @@
       </div>
       <div class="col-7">
         <div class="links-title">
-
-
           <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
         </div>
       </div>

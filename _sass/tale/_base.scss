@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
   color: $default-color;
-  font-family: $serif-primary !important;
+  font-family: $serif-primary;
   line-height: normal;
 }
 
@@ -98,6 +98,7 @@ td {
   vertical-align: top;
 }
 //
+
 .post-card {
   padding-top: 10vh;
   width: 85%;
@@ -150,3 +151,27 @@ td {
   position: -webkit-sticky;
   top: 10rem;
 }
+
+// // .night-mode {
+//   body, h1, h2 {
+//     transition: 1s all ease;
+//   }
+//
+//   /* Light mode */
+//   body.day {
+//     background: #fbfbfb;
+//   }
+//
+//   p.day, h1.day, h2.day {
+//     color: #333341;
+//   }
+//
+//   /* Dark mode */
+//   body.night {
+//     background: #333341;
+//   }
+//
+//   p.night, h1.night, h2.night {
+//     color: #fbfbfb;
+//   }
+// // }
