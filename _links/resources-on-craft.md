@@ -9,14 +9,18 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
 
 
 
-###### BREAKFAST
+###### ARTISTS I FOLLOW
 ---
 
- [recipe here](https://github.com/chesterhow/tale) by Bonappetite
+Jacob Robichaux
 
- [Pumkpin Whoopie Pies](http://lemon-sugar.com/2012/10/pumpkin-whoopie-pies.html/)
+Regine Schumann — [http://www.regineschumann.de/](http://www.regineschumann.de/)
 
- [White Sandwich Bread](http://www.dinnerwithjulie.com/2012/03/04/julia-childs-white-sandwich-bread/) by Julia Child
+Max Lamb
+
+Sabine Marcelis [http://sabinemarcelis.com/](http://sabinemarcelis.com/)
+
+pamela rosenkranz
 
 <br>
 <br>

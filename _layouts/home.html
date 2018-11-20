@@ -10,9 +10,7 @@ layout: default
     <br>
     <br>
     <br>
-    <h1>under construction</h1>
-    <br>
-    
+
     <h2><b>Interaction design for understanding, learning, and exploring.</b></h2>
     <p>I design things that help people learn and understand more effortlessly. I don't want to demand your attention on social media, so you'll find most of my updates happening on this website.</p>
 
@@ -32,6 +30,7 @@ layout: default
     <h1 class="catalogue-title">DESIGN PERSPECTIVE</h1>
     <div class="catalogue-line"></div>
     <br>
+    I've had many portfolio website attempts before this one. I was always frustrated with how tedious it was to add content, or build a look I wanted from template websites. This website is an attempt to have a website that recruiters, designers, humans and myself can use as a resource for design related material.
     <!-- <p> Each day I walk through spaces where each product, advertisement, website, and environment is demanding my own attention from me.
     Naoto Fukasawa, the founder and CEO of
             Muji, said in his book titled "Naoto Fukasawa: Embodiment," </p>
@@ -49,7 +48,7 @@ layout: default
         <div class="col-12">
           <br>
           {% for post in site.posts limit:1 %}
-          {% include writing-entry.html %}
+            <a href="{{ post.url }}">{% include writing-entry.html %}</a>
           {% endfor %}
         </div>
       </div>

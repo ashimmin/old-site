@@ -152,6 +152,26 @@ td {
   top: 10rem;
 }
 
+.scroll-content {
+  height: 100vh; //height of screen. make 75 if you want to see the footer
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-bottom: 10vh;
+}
+.scroll-content-right {
+  height: 85vh; //height of screen. make 75 if you want to see the footer
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-top:10vh;
+}
+.scroll-hide {
+  float: right;
+  height: 100%;
+  width: calc(100% + 48px);
+  overflow-y: scroll;
+  margin: 0 -32px 0 0 !important;
+  box-sizing: border-box;
+}
 // // .night-mode {
 //   body, h1, h2 {
 //     transition: 1s all ease;

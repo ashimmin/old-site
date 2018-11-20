@@ -41,3 +41,9 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
 [Lemon Blueberry Loaf](https://www.pinterest.com/pin/255227503864573575/) | Enough for 10 slices
 <br>
 <br>
+
+###### SALAD
+---
+[Winter Spinach Salad](https://www.marthastewart.com/316707/winter-spinach-salad) by Martha Stewart
+<br>
+<br>

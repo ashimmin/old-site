@@ -5,36 +5,46 @@ layout: default
 
 <div class="row">
   <div class="col-5">
-    <div class="row">
-      {% for post in site.categories.writing %}
-      <div onclick="getElementById('demo')" class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
-        <div id="sample0" onclick="javascript:setval(1)" class="post-card">
-          <a href="#" class="catalogue-item">
-            <!-- <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time> -->
-            <!-- <h1 class="catalogue-title">{{ post.title }}</h1> -->
-            <p>
+    <div class="scroll-content">
+      <div class="row">
+        {% for post in site.categories.writing %}
+        <div onclick="getElementById('demo')" class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
+          <div id="sample0" onclick="javascript:setval(1)" class="post-card">
+            <a href="#" class="catalogue-item">
+              <p>
                 {% include writing-entry.html %}
 
-              <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-            </p>
-          </a>
+                <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
+              </p>
+            </a>
+          </div>
         </div>
+        {% endfor %}
       </div>
+    </div>
+  </div>
+  <div class="col-1">
+  </div>
+  <div class="col-6">
+    <div class="scroll-content-right">
+
+      {% for category in site.categories %}
+      {% for post in category[1] limit:1 %}
+      <!-- <div class="post-img">
+        <img class="{{ post.img }}" src="{{ post.image }}">
+      </div> -->
+      <a href="{{ post.url }}">{% include writing-entry.html %}</a>
+{{post.tags}}
+      {{ post.content }}
+      {% endfor %}
       {% endfor %}
     </div>
   </div>
-  <div class="col-2">
+</div>
 
-  </div>
 
-  <div class="col-5">
 
-    <p id="demo">
-      <p>Cats</p>
-
-    </p>
-
-    <!-- <script>
+<!-- <script>
     var postTitle = '';
     var postAll= {"pTitle" : "{{site.title}}", "pImage" : "{{page.title}}", "pContent" : "post.title"};
     function setval(varval)
@@ -51,8 +61,3 @@ layout: default
     <div id="id01">
 {{pTitle}} {{pImage}} {{pContent}}
 </div> -->
-
-
-
-  </div>
-</div>

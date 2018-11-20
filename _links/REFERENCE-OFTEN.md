@@ -41,6 +41,8 @@ https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
 [The Age of Influence and Persuasion](https://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit/) by Tyler Odean of Google
 https://fs.blog/2014/04/influence-psychology-persuasion/
 
+[Habits vs Goals](https://fs.blog/2017/06/habits-vs-goals/) sent to me by Jack Cohen, with some teachings from Behavior class mixed in.
+
 
 
 <br>
