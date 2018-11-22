@@ -54,3 +54,7 @@ how to find global temperature (is it possible to have an rss embed or something
 <br>
 Tsunami Warnings (is it possible to have an rss embed or something similar here?)
 Volcanoes (is it possible to have an rss embed or something similar here?)
+
+###### VIDEOS
+---
+[Urban Planner Plays Sim City](https://www.youtube.com/watch?v=LUQaCoxybW8) by City Beautiful on Youtube.

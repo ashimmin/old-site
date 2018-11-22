@@ -99,6 +99,11 @@ td {
 }
 //
 
+.post-card-w {
+  padding-top: 10vh;
+  width: 100%;
+}
+
 .post-card {
   padding-top: 10vh;
   width: 85%;
@@ -114,12 +119,25 @@ td {
     color: $grey-2;
     font-size: 16px;
     font-family: $sans-serif;
+
+  }
+  
+  h6,
+  time {
+    text-align: right;
+    margin-bottom: 0.2rem;
+    left: 0;
   }
 }
 
 .writing-description {
+  .spacer {
+    max-width: 0;
+    padding: 1px;
+  }
+
   .v-div {
-    border-left: 1px solid $grey-2;
+    border-right: 1px solid $grey-2;
     overflow: hidden;
     height: 78%;
     // max-height: 100%;
@@ -158,19 +176,12 @@ td {
   overflow-x: hidden;
   padding-bottom: 10vh;
 }
+
 .scroll-content-right {
   height: 85vh; //height of screen. make 75 if you want to see the footer
   overflow-y: auto;
   overflow-x: hidden;
-  padding-top:10vh;
-}
-.scroll-hide {
-  float: right;
-  height: 100%;
-  width: calc(100% + 48px);
-  overflow-y: scroll;
-  margin: 0 -32px 0 0 !important;
-  box-sizing: border-box;
+  padding-top: 10vh;
 }
 // // .night-mode {
 //   body, h1, h2 {

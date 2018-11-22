@@ -9,11 +9,10 @@ layout: default
       <div class="row">
         {% for post in site.categories.writing %}
         <div onclick="getElementById('demo')" class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
-          <div id="sample0" onclick="javascript:setval(1)" class="post-card">
-            <a href="#" class="catalogue-item">
+          <div id="{{post.url}}" onclick="javascript:setval(1)" class="post-card-w">
+            <a href="{{ post.url }}" class="catalogue-item">
               <p>
                 {% include writing-entry.html %}
-
                 <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
               </p>
             </a>
@@ -23,8 +22,8 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="col-1">
-  </div>
+  <!-- <div class="col-1">
+  </div> -->
   <div class="col-6">
     <div class="scroll-content-right">
 
@@ -34,8 +33,8 @@ layout: default
         <img class="{{ post.img }}" src="{{ post.image }}">
       </div> -->
       <a href="{{ post.url }}">{% include writing-entry.html %}</a>
-{{post.tags}}
-      {{ post.content }}
+      <!-- {{post.tags}} -->
+      {{ post.content }} <!--make it so theres an x to close and an expand to view whole post. -->
       {% endfor %}
       {% endfor %}
     </div>

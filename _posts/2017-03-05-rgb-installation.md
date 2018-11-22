@@ -8,6 +8,7 @@ image: https://images.unsplash.com/photo-1493815793585-d94ccbc86df8?ixlib=rb-0.3
 
 
 
+<a name="{{post.url}}"></a>
 
 RGB-Installation-cover.png
 Here we see **Tale's** pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the `_config.yml` file!
