@@ -3,14 +3,14 @@ layout: post
 title: "READING LIST"
 author: "Andy"
 collections: links
-excerpt: Things that have helped me collaborate well and make me think harder about how I can improve every day. Some are articles from teachers, other might be advice from co-workers or friends.
+excerpt: Most of the books i've read. Finished and planned books are in the archive. Books that are important are organized accordingly.
 ---
 
 ###### ARTICLES
 ---
 [Clarke's Three Laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws "1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.                 2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.                                                       3. Any sufficiently advanced technology is indistinguishable from magic.")
 <br>
-
+[Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
 
 
 <br><br><br>
@@ -37,13 +37,17 @@ excerpt: Things that have helped me collaborate well and make me think harder ab
 <br><br><br>
 ###### ARCHIVE
 ---
+(High-ouput management by Andy Grove is a must-read management book) recommended by J Lachman
+ <br>
+(Work Rules by Laszlo Bock (Google's longtime of people ops) has a lot of great insights) recommended by J Lachman
+<br>
 A thousand Names for Joy
 <br>
 (Economics for Life)
 <br>
 (Getting Things Done) by David Allen
 <br>
-(The Four Agreements)
+The Four Agreements by Don Miguel Ruiz
 <br>
 (The Diary of a Nose)
 <br>

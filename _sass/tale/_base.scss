@@ -102,6 +102,7 @@ td {
 .post-card-w {
   padding-top: 10vh;
   width: 100%;
+  margin-left: 1px;
 }
 
 .post-card {
@@ -119,12 +120,13 @@ td {
     color: $grey-2;
     font-size: 16px;
     font-family: $sans-serif;
+    // margin-left: -10%;
 
   }
-  
+
   h6,
   time {
-    text-align: right;
+    // text-align: right;
     margin-bottom: 0.2rem;
     left: 0;
   }
@@ -133,7 +135,8 @@ td {
 .writing-description {
   .spacer {
     max-width: 0;
-    padding: 1px;
+    padding: 4px;
+    // margin-left: -4%;
   }
 
   .v-div {

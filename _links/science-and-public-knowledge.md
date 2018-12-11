@@ -44,7 +44,7 @@ how to find out what the geographic composition (soil survey?) of a city
 ###### FEEDS
 ---
 [Current air quality](https://airnow.gov/) by state. (is it possible to have an rss embed or something similar here?)
-
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/
 <br>
 earthquakes(is it possible to have an rss embed or something similar here?)
 <br>

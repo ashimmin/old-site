@@ -21,25 +21,27 @@ do i organize by school year or calendar year? by project? is there a way to fil
 <br>
 <br>
 
-###### 2017
+<!-- ###### 2017
 ---
-
+[Experience Design Sketchbook (spring)](/assets/Notebooks/2017spring.pdf) taught by Alexander Baumgardt
 <br>
 <br>
 <br>
 
 ###### 2016
 ---
-[Summer Sketchbook](/assets/Notebooks/2016summer.pdf) Notes for Wearable Technology course
+[Wearable Tech Sketchbook (summer)](/assets/Notebooks/2016summer.pdf) taught by Anouk Wipprecht
 <br>
-[Summer-Fall Sketchbook](/assets/Notebooks/2016summer-fall.pdf) Notes for Wearable Tech and Haakon's Behavior course
+[Wear-Tech and Behavior Sketchbook (fall)](/assets/Notebooks/2016summer-fall.pdf) taught by Anouk Wipprecht and Haakon Faste respectively
+<br>
+[Creative Founder Sketchbook (fall)](/assets/Notebooks/2016fall.pdf) Startup class taught by Christina Wodtke
 <br>
 <br>
 <br>
 
 ###### 2015 (College Starts)
 ---
-[Spring-Fall Sketchbook](/assets/Notebooks/2015spring-fall.pdf) Notes for Freshman doodles and Foundations in Interaction Design course
+[Spring-Fall Sketchbook](/assets/Notebooks/2015spring-fall.pdf) notes for Freshman doodles and Foundations in Interaction Design course
 
 <br>
 <br>
@@ -77,4 +79,4 @@ do i organize by school year or calendar year? by project? is there a way to fil
 
 <br>
 <br>
-<br>
+<br> -->

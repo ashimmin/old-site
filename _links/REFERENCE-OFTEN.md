@@ -39,7 +39,7 @@ https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
 [Six Harsh Truths That Will Make You A Better Person](http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) by David Wong
 <br>
 [The Age of Influence and Persuasion](https://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit/) by Tyler Odean of Google
-https://fs.blog/2014/04/influence-psychology-persuasion/
+<br>
 
 [Habits vs Goals](https://fs.blog/2017/06/habits-vs-goals/) sent to me by Jack Cohen, with some teachings from Behavior class mixed in.
 
@@ -58,7 +58,7 @@ https://fs.blog/2014/04/influence-psychology-persuasion/
 <br>
 ###### FROM OTHERS
 ---
-[Advice I received on how to ask for good feedback]({{ "/assets/Untitled.rtf" | absolute_url }}) from Jack Cohen of [Brain-Based Workplace](http://www.brainbasedworkplace.com/)
+<!-- [Advice I received on how to ask for good feedback]({{ "/assets/Untitled.rtf" | absolute_url }}) from Jack Cohen of [Brain-Based Workplace](http://www.brainbasedworkplace.com/) -->
 
 
 Jonathan Lachman's advice on being an effective communicator in meetings:
@@ -72,18 +72,13 @@ Jonathan Lachman's advice on being an effective communicator in meetings:
 8. Everyone's experience is different so 7 becomes very subjective.
 
 
-1. High-ouput management by Andy Grove is a must-read management book
-2. Work Rules by Laszlo Bock (Google's longtime of people ops) has a lot of great insights
+<br>
+<br>
 
 ---
-
-Hi Andy,
-Helpful summary! I feel the commitment to learning :)
-
- A couple quick things:
-2. Yes! And as you develop these, you might even investigate the relationship between them.
-3. I thought we'd said once/day--but you get to choose. Also, the phrasing is key. The "is there a..." way you ask it is harder to answer. Instead you might try:
+When asking how to be more effective:
+1. Use the [stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model to help level set progress of a given topic (Am I uncon comp, or am I con comp?)
+2. Adopt "personas" to be effective. (this is my blues and gray sky persona and it's good at this, this is my red-yellow persona and its good at this etc.) Note: As you develop these, you might even investigate the relationship between them.
+3. Once a day ask for feedback, starting with "is there a..."  is harder to answer. Instead you might try:
 a. ask it right after an interaction in which you were working on the problem
 b. Frame it as "I'm working on [specific growth area]. Can you tell me one thing see me doing that's working/effective here, and one thing I could more of/differently to do it more effectively?
-
-Looking forward to hearing how it goes!

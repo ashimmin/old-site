@@ -10,11 +10,12 @@ main {
   display: block;
   position: -webkit-sticky;
   /* Safari */
-
   position: sticky;
   margin: 0 auto;
   max-width: 100%; //this changes the total website width
-  width: 85%;
+  width: 100%;
+  padding-left: 7.5%;
+  padding-right: 7.5%;
 }
 
 .nav {
@@ -93,10 +94,21 @@ footer {
   padding-top: 10vh;
     padding-bottom: 4vh;
   text-align: left;
+  margin: 0 auto;
+  max-width: 100%; //this changes the total website width
+  width: 100%;
+  padding-left: 7.5%;
+  padding-right: 7.5%;
 
 
   span {
       color: $grey-1;
     font-size: 0.9rem;
+  }
+
+  a {
+      font-family: $serif-primary;
+    color: $grey-1;
+  font-size: 0.9rem;
   }
 }

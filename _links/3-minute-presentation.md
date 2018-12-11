@@ -10,6 +10,6 @@ excerpt:  Make a 3 minute presentation on something you're interested in. This i
 
 
 
-1. voltage wattage amps
+1. [Volts, Watts, Amps, Ohms](/assets/3MP/3mp01_Shimmin_Andy.pdf)
 2. complex systems in our world (cookbooks, how do they organize things, addresses, outlines, Sketch)
 3. a better keyboard/ history of keyboards

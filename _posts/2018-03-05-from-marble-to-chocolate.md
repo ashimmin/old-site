@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "From Marble to Chocolate"
+title: " From Marble to Chocolate"
 author: "Dog"
 categories: writing
 tags: [cats, dogs, art]
 permalink: m2c
-image: https://images.unsplash.com/photo-1508873881324-c92a3fc536ba?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4dd64b8d9512bfc407a50e74baab0e48&auto=format&fit=crop&w=2250&q=80
+image: https://c2.staticflickr.com/2/1749/42832150992_c62631e726_b.jpg
 ---
 
 I took a class during the fall of my Senior year called From Marble to Chocolate taught by Italian art historian Marina Pugilese. It covered a material history of modern art; from pieces made of marble all the way to chocolate. (See lick and lather by Janine Antoni) This class changed how I look at contemporary art entirely. This post is all the notes I took during the semester.
@@ -30,16 +30,15 @@ C. [Bay Area Ceramics](#bayareaceramics)
 2. [Ron Nagle](#ronnagle)
 
 D. [Space](#space)
-1. [Kurt Schwitters](#kurtschwitters)
-2. [Marcel Duchamp](#marcelduchamp)
-3. [Herbert Ferver](#herbertferver)
-4. [Damian Hirst](#damianhirst)
-5. [Helio Oiticica](#heliooticica)
-6. [Pierre Huyghe](#pierrehuyghe)
-7. [Ulla von Brandenburg](#ullavonbrandenburg)
-8. [Lutz Bacher](#lutzbacher)
-9. [Lucio Fontana](#luciofontana)
-10. [Bruce Nauman](#brucenauman)
+1. [Marcel Duchamp](#marcelduchamp)
+2. [Herbert Ferber](#herbertferber)
+3. [Damien Hirst](#damianhirst)
+4. [Helio Oiticica](#heliooiticica)
+5. [Pierre Huyghe](#pierrehuyghe)
+6. [Ulla von Brandenburg](#ullavonbrandenburg)
+7. [Lutz Bacher](#lutzbacher)
+8. [Lucio Fontana](#luciofontana)
+9. [Bruce Nauman](#brucenauman)
 
 E. [Plastic](#plastic)
 1. [Antoine Pevsner](#antoinepevsner)
@@ -65,16 +64,17 @@ G. [Nylon Hoisery](#nylonhoisery)
 H. [Final Projects](#finalprojects)
 1. [Wolfgang Tillman](#wolfgangtillman)
 2. [Dan Graham](#dangraham)
-3. [MyeongBeom Kim 먕볌 김](#myeongbeom)
+3. [MyeongBeom Kim 김명범](#myeongbeom)
 4. [Laura Owens](#lauraowens)
 5. [Sopheap Pich](#sopheappich)
 6. [Dale Chihuly](#dalechihuly)
 7. [Ben Young](#benyoung)
 8. [Folkert de Jong](#folkertdejong)
 9. [Rachel Whiteread](#rachelwhiteread)
-10. [Arlene Shechet](#arleneshechet)
-11. [Heather Dewey-Hagborg](#heatherdeweyhagborg)
-12. [Danh Vo](#danhvo)
+10. [Alina Szapocznikow](#alinaszapocznikow)
+11. [Arlene Shechet](#arleneshechet)
+12. [Heather Dewey-Hagborg](#heatherdeweyhagborg)
+13. [Danh Vo](#danhvo)
 
 ---
 <br>
@@ -93,7 +93,7 @@ In the 1970’s Overby experimented with latex on building walls
 <br>
 <br>
 <a name="juliemehretu"></a>
-###### Julie Mehretu (May-rutu)
+###### JULIE MEHRETU (May-rutu)
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/sfmomamedia/media/t/collection_images/JVL687y-cKbI.jpg)
@@ -104,7 +104,7 @@ In the 1970’s Overby experimented with latex on building walls
 <br>
 <br>
 <a name="ziliasanchez"></a>
-###### Zilia Sanches, 1999
+###### ZILIA SANCHEZ, 1999
 ----
 Builds armatures underneath and stretches the canvas over the armatures. Paints with acrylic to suggest the females body. A side view resembles ocean waves. Purposefully erotic but also reference to topologies. Working with the slash of two canvases to make forms that jut out and recess.
 
@@ -116,7 +116,7 @@ Builds armatures underneath and stretches the canvas over the armatures. Paints 
 <br>
 <br>
 <a name="nairybaghramian"></a>
-###### Nairy Baghramian
+###### NAIRY BAGHRAMIAN
 ---
 from [ArtRabbit:](https://www.artrabbit.com/events/beliebte-stellen-privileged-points-nairy-baghramian)
 <br>
@@ -132,7 +132,7 @@ Both pieces in the front and back of the same building. The white one won't be c
 <br>
 <br>
 <a name="krmmooney"></a>
-###### KRM Mooney
+###### KRM MOONEY
 ---
 Interested in constructions and the minimal qualities of material
 ![](https://wattis.org/MEDIA/00561.jpg)
@@ -156,7 +156,7 @@ ________________________________________________________________________________
 
 
 <a name="rhquaytman"></a>
-###### RH Quaytman — 2010’s
+###### RH QUAYTMAN — 2010’s
 ---
 All of her paintings on beveled wood with golden ratio dimensions. Good for putting multiple pieces together. Often references history in her works. Works in chapters, her collections of work fall under a chapter, and moves other to other chapters to make new pieces. Sometimes references past chapters.
 <br>
@@ -184,7 +184,7 @@ All of her paintings on beveled wood with golden ratio dimensions. Good for putt
 <br>
 <br>
 <a name="violafrey"></a>
-###### Viola Frey 1933-2004
+###### VIOLA FREY 1933-2004
 ---
 ![](https://idratherbemakingart.files.wordpress.com/2014/05/viola-frey.jpg)
 CCA Alum and Teacher, pop art, painting, ceramics, fires these figures in parts and assembles later on.
@@ -192,7 +192,7 @@ CCA Alum and Teacher, pop art, painting, ceramics, fires these figures in parts 
 <br>
 <br>
 <a name="ronnagle"></a>
-###### Ron Nagle (1939-present)
+###### RON NAGLE (1939-present)
 ---
 Looking at ideas of the vessel, makes tiny sculptures, slip casting, air brushing, scrap metal, wax and epoxy, polyurethane
 <br>
@@ -213,84 +213,73 @@ Looking at ideas of the vessel, makes tiny sculptures, slip casting, air brushin
 
 <a name="space"></a>
 ##### **Space 10/9/17** ---
-
-<br>
-<br>
-
-<a name="kurtschwitters"></a>
-###### Kurt Schwitters
----
-
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#915c7365240b4ef0a721a4b15c0b2c9e)
-
-“You can replicate any piece of art as long as you have a minimum of 3 different photos at different angles”
-
-**International Surrealist Exhibition, 1938, Gallérie des Beaux-Arts, Paris**
-
-Asked Duchamp to design it. “Was really weird” Mental illness, mannequins, only source of light was an oven. Each person was given a torch. People were angry because it overtook the art itself. Became more popular than the art on the wall itself.
-
 <br>
 <br>
 <br>
 <a name="marcelduchamp"></a>
-###### Marcel Duchamp
+###### MARCEL DUCHAMP
 ---
-No budget for creative installation. Asked Duchamp to invent something, earned the biggest attention of any other artist showing.
+No budget for creative installation. Asked Duchamp to invent something, earned the biggest attention of any other artist showing. <br>
+**International Surrealist Exhibition, 1938, Gallérie des Beaux-Arts, Paris**
+![](https://www.tate.org.uk/sites/default/files/styles/width-1200/public/images/duchamp_philadelphia_1.jpg)
+<small>_John D. Schiff <br>
+10 Miles of String, at “First Papers of Surrealism”, 1942. <br>
+First Papers of Surrealism exhibition [link](https://www.tate.org.uk/research/publications/tate-papers/22/duchamp-childhood-work-and-play-the-vernissage-for-first-papers-of-surrealism-new-york-1942)_</small>
+<br>
+[Kurt Schwitters] Asked Duchamp to design it. “Was really weird” Mental illness, mannequins, only source of light was an oven. Each person was given a torch. People were angry because it overtook the art itself. Became more popular than the art on the wall itself.
 
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#9445c5f92d8b439d8d2002ca3d5353af)
-
-Lucio Fontana, Spatial Environment with Black Light, 1949, paper mache painted in fluorescent colors, wood lights.
-
-Made a manifesto with students about using new technologies to make art. Went home and decided to make a new form of art with a new medium. Gallery in Milan. abstract surrealist form hanged from the ceiling. Gallery was closed by two black curtains and the wall was covered in wood. The effect was like being in space or an aquarium. Did not have the same impact as the Merzbau because it was not circulated by papers, because documentation was hard to get colors accurate to the actual thing. It was impossible to reproduce it with the right lens.
 
 <br>
 <br>
 <br>
-<a name="herbertferver"></a>
-###### Herbert Ferber
+<a name="herbertferber"></a>
+###### HERBERT FERBER
 ---
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#faf8cdebcfd14dac9deddb0bfcd5a5ff)
+![](https://assets.atlasobscura.com/article_images/2192/image)
+<small>_Sculpture as environment, 1961, retina acrylic e fiber di vetro. <br>
+Merzbau, Hannover, 1933 CA_</small>
 
-Allan Kaprxw, words. Theorized about environments. wrote an article claiming environments were derivative from jackson pollock painting. You can physically enter the environment. environments vs happenings. The spaces were meant to be modified by the public.
+Allan Kaprxw, words. Theorized about environments. wrote an article claiming environments were derivative from Jackson Pollock painting. You can physically enter the environment. environments vs happenings. The spaces were meant to be modified by the public.
 
 <br>
 <br>
 <br>
-<a name="damianhirst"></a>
-###### Damien Hirst
+<a name="damienhirst"></a>
+###### DAMIEN HIRST
 ---
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#2d90861a68b0442691564f16d87bbddf)
-
+![](http://www.damienhirst.com/images/hirstimage/DHS1819Tatecat_771_0.jpg)
+<small>_This Little Piggy Went to the Market, This Little Piggy Stayed at Home, 1996, Steel, glass, pig, formaldehyde solution, two tanks each 120c210x60cm_</small>
 <br>
 <br>
 <br>
-<a name="heliooticica"></a>
-###### Helio Oiticica 1937 Rio de Janeiro, Brazil, 1980
+<a name="heliooiticica"></a>
+###### HELIO OITICICA 1937 Rio de Janeiro, Brazil, 1980
 ---
 
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#649432caef094a178808dd51c8b9346f)
-
-
-![](https://www.notion.so/90ab8f391f4348a083702138ca416595#a7f3f5d1625b427fb8a22b40d677c6ef)
-
+![](http://www.artcritical.com/wp-content/uploads/2017/03/Oiticica_Tropicalia_2__large-1.jpg)
+<small>_Installation view of Tripicalia (1966-67)_</small>
+<br><br>
+![](https://media.wmagazine.com/photos/597b8bb23902e22681154a39/3:2/w_1352/xlarge_Helio_Oiticica-To_Organize_Delirium-3.jpg)
+<small>_Hélio Oiticica, Tropicália, 1966–67. Plants, sand, birds, and poems by Roberta Camila Salgado. César and Claudio Oiticica Collection, Rio de Janeiro.
+© César and Claudio Oiticica, Rio de Janeiro. Courtesy of the Whitney Museum and Carnegie Museum of Art, Pittsburgh. Photo by Bryan Conley_</small>
+<br><br>
 Visitors encouraged to take their shoes off and walk around the immersive exhibition. Involved in the materials and how the view interacts with them. Bringing in Exotic elements , moved to New York and was bringing in a different sense of space there.
 
 <br>
 <br>
 <br>
 <a name="pierrehuyghe"></a>
-###### Pierre Huyghe (b. 1962 Paris, France)
+###### PIERRE HUYGHE (b. 1962 Paris, France)
 ---
 
 Munster Germany, every decade they do a public art exhibition.
 
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#f92836349e1c4c8fa45d7218337da444)
 
-[Constant Displacement: Pierre Huyghe on His Work at Skulptur Projekte Münster | ARTnews](http://www.artnews.com/2017/06/26/constant-displacement-pierre-huyghe-on-his-work-at-skulptur-projekte-munster-2017/)
-
-[](https://www.notion.so/90ab8f391f4348a083702138ca416595#5f25ba9d3bd544409966efa0883d0273)
-
-*Concrete floor of ice rink, logic game, ammoniac, sand, clay, phreatic water, bacteria, algae, bees, chimera peacocks, aquarium, black switchblade glass, conus textile, GloFish, incubator, human cancer cells, genetic algorithm, augmented reality, automated ceiling structure, rain*
+[Constant Displacement: Pierre Huyghe on His Work at Skulptur Projekte Münster](http://www.artnews.com/2017/06/26/constant-displacement-pierre-huyghe-on-his-work-at-skulptur-projekte-munster-2017/)
+<br><br>
+![](http://1vze7o2h8a2b2tyahl3i0t68.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/IMG_1865-1024x768.jpeg)
+<small>_Concrete floor of ice rink, logic game, ammoniac, sand, clay, phreatic water, bacteria, algae, bees, chimera peacocks, aquarium, black switchblade glass, conus textile, GloFish, incubator, human cancer cells, genetic algorithm, augmented reality, automated ceiling structure, rain_</small>
 
 Self-organizing system to try and find or not find a symbiosis. Open for months, how does the environment evolve on its own? “An artwork is good if you can’t connect it to another experience you’ve had before.”
 <br>
@@ -298,7 +287,7 @@ Self-organizing system to try and find or not find a symbiosis. Open for months,
 <br>
 
 <a name="ullavonbrandenburg"></a>
-###### Ulla von Brandenburg (b. 1974 Karlsruhe Germany)
+###### ULLA VON BRANDENBURG (b. 1974 Karlsruhe Germany)
 ---
 
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#054438993534446fb90b09657c05426e)
@@ -313,15 +302,11 @@ Two Times Seven, 2017, Curatins, Ladders, Sound
 <br>
 
 <a name="lutzbacher"></a>
-###### Lutz Bacher (b. 1962)
+###### LUTZ BACHER (b. 1962)
 ---
-[](https://www.notion.so/90ab8f391f4348a083702138ca416595#524ccd74974d4475b87a2188e8f205aa)
-
-[](https://www.notion.so/90ab8f391f4348a083702138ca416595#348c01e4e34a4f3087f22fab19290609)
-
-Black Beauty, 2012-2013
-
-silicate, metal, mirror, vinyl, photograph, and sound
+![](http://moussemagazine.it/app/uploads/Mark-Blower-130923-Lutz-Bacher-ICA-0029.jpg)
+<small>_Black Beauty, 2012-2013 <br>
+silicate, metal, mirror, vinyl, photograph, and sound_</small>
 
 Uselessness of objects and how they exist in the space. Important conceptual artists today
 <br>
@@ -331,9 +316,13 @@ Uselessness of objects and how they exist in the space. Important conceptual art
 <br>
 <br>
 <br>
-
-###### Lucio Fontana 1950’s Neon
+<a name="luciofontana"></a>
+###### LLUCIO FONTANA 1950’s Neon
 ---
+
+Lucio Fontana, Spatial Environment with Black Light, 1949, paper mache painted in fluorescent colors, wood lights.
+
+Made a manifesto with students about using new technologies to make art. Went home and decided to make a new form of art with a new medium. Gallery in Milan. abstract surrealist form hanged from the ceiling. Gallery was closed by two black curtains and the wall was covered in wood. The effect was like being in space or an aquarium. Did not have the same impact as the Merzbau because it was not circulated by papers, because documentation was hard to get colors accurate to the actual thing. It was impossible to reproduce it with the right lens.
 
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#6015995d416a48b9a1ae49a55033f202)
 
@@ -344,12 +333,15 @@ Art in America, Marzo-Aprile 1967
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#e1864a859a97414ea8ce881a55999923)
 
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#7ecd2ea1c68c405fbc44064b1cacdd16)
-<br>
-<br>
-<br>
-###### Bruce Nauman, Green Corridor
----
 
+
+<br>
+<br>
+<br>
+<a name="brucenauman"></a>
+###### BRUCE NAUMAN
+---
+Green Corridor
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#a8b1c38e24714526a489499a8d083b4a)
 
 [](https://www.notion.so/90ab8f391f4348a083702138ca416595#89d8127bbab646cda98acac74237ed36)
@@ -360,11 +352,15 @@ Fontana, Ambiente spaziale con neon, 1967/2017
 
 martha reugine
 
-“best reviews in italy means nothing in the art world, you need abroad exposure to get anywhere.”
+<br><br>
+---
+“best reviews in Italy means nothing in the art world, you need abroad exposure to get anywhere.”
+
 
 “Foundations are powerful for granting rights of peoples arts. “you can’t reproduce this one, but you can reproduce this one” “History is history, estates of the artists can do what they want.
 
-hides paintings on the borders so if a law changes in switzerland or italy, they can move them over quickly
+hides paintings on the borders so if a law changes in Switzerland or Italy, they can move them over quickly
+---
 <br>
 <br>
 <br>
@@ -375,7 +371,7 @@ Plastic: polyethylene, PVC, nylon, plexiglass etc.
 <br>
 <br>
 <a name="antoinepevsner"></a>
-###### Antoine Pevsner
+###### ANTOINE PEVSNER
 ---
 ![](https://www.tate.org.uk/art/images/work/T/T02/T02241_10.jpg)
 <small>_Head 1923/1924_ <br> _Not inscribed
@@ -384,7 +380,7 @@ Celluloid, 3 x 1 1/2 x 2 (7.7 x 4 x 5.2), excluding celluloid base_ <br>_Present
 <br>
 <br>
 <a name="lyndabenglis"></a>
-###### Lynda Banglis
+###### LYNDA BENGLIS
 ---
 
 ![](https://www.whitehotmagazine.com/UserFiles/image/111222333444/dribs.jpg)
@@ -403,7 +399,7 @@ Celluloid, 3 x 1 1/2 x 2 (7.7 x 4 x 5.2), excluding celluloid base_ <br>_Present
 <br>
 <br>
 <a name="jeandubuffet"></a>
-###### Jean Dubuffet
+###### JEAN DUBUFFET
 ---
 ![](http://skulpturenpark-waldfrieden.de/fa/news_import/Dubuffet_Header.jpg)
 <Small>[link](http://skulpturenpark-waldfrieden.de/en/exhibitions/current/details/jean-dubuffet.html)</small>
@@ -415,7 +411,7 @@ Polystyrene sculpture in Paris, 1967. Invented the term assemblage.
 <br>
 <br>
 <a name="johnmccracken"></a>
-###### John McCracken
+###### JOHN McCRACKEN
 ---
 Fetish finish, the need for the pristine surface of a piece of art.
 
@@ -429,7 +425,7 @@ Fetish finish, the need for the pristine surface of a piece of art.
  <br>
  <br>
 <a name="dewainevalentine"></a>
-###### DeWaine Valentine
+###### DeWAINE VALENTINE
 ---
 
 unsaturated Polyester.
@@ -446,7 +442,7 @@ unsaturated Polyester.
 <br>
 <br>
 <a name="duanehanson"></a>
-###### Duane Hanson
+###### DUANE HANSON
 ---
 
 ![](https://gagosian.com/media/images/artists/duane-hanson/aCsEo_6RlDfq_2340x1316.jpg)
@@ -457,7 +453,7 @@ unsaturated Polyester.
 <br>
 
 <a name="francomazzucchelli"></a>
-###### Franco Mazzucchelli
+###### FRANCO MAZZUCCHELLI
 ---
 
 ![](https://andreabdelguercio.files.wordpress.com/2016/12/intervento_cortile-di-brera_1986-mazzucchelli.jpg)
@@ -480,7 +476,7 @@ Put in the public for them to interact and "do what they want to" with the piece
 <br>
 <br>
 <a name="ronmueck"></a>
-###### Ron Mueck
+###### RON MUECK
 ---
 ![](https://upload.wikimedia.org/wikipedia/en/2/2d/Ron_Mueck_head.jpg)
 <small>_Mask II, believed to be a self portrait. From his Wikipedia page._<small>
@@ -490,7 +486,7 @@ Put in the public for them to interact and "do what they want to" with the piece
 <br>
 <br>
 <a name="kaariupson"></a>
-###### Kaari Upson
+###### KAARI UPSON
 ---
 ![](http://www.spruethmagers.com/bilder/works/temp/upson_00019.jpg)
 <small>_KAARI UPSON<br>
@@ -514,7 +510,7 @@ Artist had to comply with the market.
 <br>
 
 <a name="pinopascali"></a>
-###### Pino Pascali
+###### PINO PASCALI
 ---
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2fb388c-0d66-4ff2-b73a-0653b9054074/3dddd1378e26b04dad2aa36cc2c97d5b.jpg?AWSAccessKeyId=ASIAT73L2G45EYVV4YNG&Expires=1542656091&Signature=NlvsZcjpUJ%2BO4yh2ZNAfcRnhUZE%3D&x-amz-security-token=FQoGZXIvYXdzEF0aDCf0inQ%2Ft%2BSCWBVneCK3A7G1sj5lUoGfNqWj%2BLtUq3ogJVZ647mlvqtGExVt1hh38FsilrKU4IpdO7lnmynkyfj8DmN4gycspCzex52jtTAyzVcjZzJNOE1gbUg8sFTEByV53WXWieLjZRqOZPlz7WQLgrfY7iauGK%2FWuEUTkrfrFlOETkORlzHU7YZSmGHpNa2RUJmPWgZPD014YgnGW1uXPArvBjcsc1d04C4v2fCnUqO7YMle34sP4pbuyrrjiNMa0JODmXC923m8YAg1DlZhPYJDoA83MKvI%2Fon%2B%2BZI9Y4ZPvDZfRavMmo0qu%2B8U5GMxdP9qOOh7%2FrdvhOAkXKIYvc9NpWqZZGSJdf85Uxq3KDaIwRY9GpC3Z%2BXIAT4cfuTTby2FJS6%2B2Y8NjGIH6wo6JrXtOgu%2BKQ2gFTJ%2FQ2oal4xxzK7r5InYDw7LussD00cIgeaRv8W8ehXQ5WOb5pCcSdC1q3OJm2l1mg68Drqj5Jgw6fZkcu9QUCpJ2Y0AmS1wAqu6B73qbzVLk6BtKuvGXZ4SyZiqJAJEZtz6Jihh1PlIJN0OArdqGvlqZVYLq6aMuKn7E%2B5t6zzYdDz9kZB%2Fg%2Fddl8so9u%2FG3wU%3D)
 <small>_One Cubic Meter of Earth, 1967, earth on wooden structure, 100 x 100 x 100 cm_</small>
@@ -523,7 +519,7 @@ Artist had to comply with the market.
 <br>
 <br>
 <a name="robertsmithson"></a>
-###### Robert Smithson [January 2, 1938 – July 20, 1973](https://www.robertsmithson.com/index_.htm)
+###### ROBERT SMITHSON [January 2, 1938 – July 20, 1973](https://www.robertsmithson.com/index_.htm)
 ---
 An American artist who used photography in relation to sculpture and land art.
 ![](https://www.robertsmithson.com/images/home.jpg)
@@ -563,7 +559,7 @@ Nylon distorted to heat, so they would heat them up and shape them around forms 
 <br>
 <br>
 <a name="francoangeli"></a>
-###### Franco Angeli
+###### FRANCO ANGELI
 ---
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a0030557-f50a-460e-8a57-a4520b166f70/20150922_1454-56014f7f05cd1.jpg?AWSAccessKeyId=ASIAT73L2G45K5SP2IZX&Expires=1542657693&Signature=Sev6v7MoDm9ZbflOE%2FcPCiro%2FqQ%3D&x-amz-security-token=FQoGZXIvYXdzEFwaDMsP2j7jmyQAOPOpcCK3A4K0nTygQdYlEiOd%2BRerK5FWdZMMwyoasWks9tUvU3TtIlPVki3oLvpIUmVMpee5iFaaE0yZ6yuOUbDVL03xNGCyI%2F4Baw7i68fK3HUf2nkLZH7gBwkUDruftyl%2FcrBmKYstsXUuHfSNwE7o7LEcb%2FTmH7d2a%2BYsX6e5xzraLxU1eEECnAiGBD8oMGUOY1Pp6OZ1D5UDW7Ycg5x58n7ZUhwn8kGu8MHoVOJ02joQXMIGXZ6MiKjfTG%2Fjf3%2BxyisvLrRakJmo0JHNB9vZCr4O4wNNnWWhK%2FD4rt0TSYPUX%2FyYvvXUin3J5rWbQdJ5jsBE%2B4n107Z3sxAoroqa5sCecsUQqXi%2BgXZpqE1AHbErrzIxm%2FHQnteFvlNhFsOO%2BrsluchRn%2FEvAeF%2Bv4k1NuCvNx8icy3svEyZXoFpiaeHBj7XHBx76fY15%2B512dAsI6g3uOhf%2FRswpbLfDYsC05OGmd8k%2BatrWNyR%2BHOPr8gzfgUhBQIACzuIWvMmiyUAJ4WezKMP6WPY72cCh3BMBhta2Y5mFiyML%2BBv5dOOBel4UYd0oAEo%2FAGNSgsYQh4Xs9eApbdU52sRDEoohOfG3wU%3D)
@@ -572,7 +568,7 @@ King solomon's Mines Canvas on nylon stockings and green veil, 1962. Communist, 
 <br>
 <br>
 <a name="kurtschwitters"></a>
-###### Kurt Schwitters
+###### KURT SCHWITTERS
 ---
 ![](https://s3-us-west-2.amazonaws.com/sfmomamedia/media/t/collection_images/t0zE7QPFdj_L.jpg)
 <small>_Seidenstrumpf, silk stocking, 1943._</small>
@@ -582,7 +578,7 @@ Used silk stocking and brought emphasis to it because it was rare to have stocki
 <br>
 <br>
 <a name="senganengundi"></a>
-###### Senga Nengundi
+###### SENGA NENGUNDI
 ---
 
 ![](https://hyperallergic.com/wp-content/uploads/2014/09/Senga-Nengudi-blackwhite-RSVP-activated.jpg)
@@ -595,7 +591,7 @@ During the second waves of feminism, performance artist on the body using stocki
 <br>
 <br>
 <a name="louisebourgeois"></a>
-###### Louise Bourgeois, (b. 1911-2010) Paris, France
+###### LOUISE BOURGEOIS, (b. 1911-2010) Paris, France
 ---
 Using stockings (soft sculptures) to point towards a gendered body or norm.
 ![](https://images.curiator.com/images/t_x/art/6160b6e663b9493725691f360a4ff5e4/louise-bourgeois-couple-1-1996.jpg)
@@ -605,7 +601,7 @@ Using stockings (soft sculptures) to point towards a gendered body or norm.
 <br>
 <br>
 <a name="alexandrabircken"></a>
-###### Alexandra Bircken (b. 1967) Cologne, Germany
+###### ALEXANDRA BIRCKEN (b. 1967) Cologne, Germany
 ---
 ![](http://www.contemporaryartsociety.org/wordpress/wp-content/uploads/2012/11/AlexandraBirckenMixedRace20124-401x226.jpg)
 <small>_Mixed Race, 2012, 90% nylon, 10% wlastane, fabric, stiffener._</small>
@@ -627,7 +623,7 @@ SNOW Francis oppenheim, david hammons, bliz-aard Ball Sale, 1983. Olafur Eliasso
 <br>
 <br>
 <a name="wolfgangtillman"></a>
-###### Wolfgang Tillman
+###### WOLFGANG TILLMAN
 ---
 
 big part of the gay advocacy scene
@@ -725,8 +721,7 @@ Styrofoam sculptor. Focuses on violent scenes, wants the viewer not to be afraid
 <br>
 <br>
 <a name="rachelwhiteread"></a>
-
-###### RACHEL WHITREAD: CONCRETE
+###### RACHEL WHITEREAD: CONCRETE
 ---
 
 Mainly a building material, almost 1000 years old.
@@ -743,6 +738,7 @@ interested in the spacial category, specifically the negative space of making a 
 <br>
 <br>
 <br>
+<a name="alinaszapocznikow"></a>
 ###### ALINA SZAPOCZNIKOW  b.1926 - 73: RESIN
 ---
 survived the wars with concentration camps with her mother
@@ -769,8 +765,8 @@ mold of a mold, 2012
 <br>
 <br>
 <br>
-
-###### HEATHER DEWEY-HAGBORG:
+<a name="heatherdeweyhagborg"></a>
+###### HEATHER DEWEY-HAGBORG: GENES
 ---
 
 studied Information Arts, using 3D printing techniques to make her art.
