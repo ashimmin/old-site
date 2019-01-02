@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1490821872962-f2e55097079b?ixlib=rb-1.2
 
 ---
 
-Inspired by [this tweet](), I wanted to challenge myself to learn something new, but to also try and visualize it in a timely manner so others can learn as well. Referencing [Blooms Taxonomy](https://upload.wikimedia.org/wikipedia/commons/2/24/Blooms_rose.svg),  I hope to understand each concept enough to apply it in a written/visual format (level 3 on the taxonomy), and I hope people who view my presentation will at least be able to comprehend the learning (level 2).
+Inspired by [this tweet](https://twitter.com/Miexriir/status/1041371285761122305), I wanted to challenge myself to learn something new, but to also try and visualize it in a timely manner so others can learn as well. Referencing [Blooms Taxonomy](https://upload.wikimedia.org/wikipedia/commons/2/24/Blooms_rose.svg),  I hope to understand each concept enough to apply it in a written/visual format (level 3 on the taxonomy), and I hope people who view my presentation will at least be able to comprehend the learning (level 2).
 
 <br>
 <br>
