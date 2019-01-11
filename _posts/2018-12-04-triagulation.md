@@ -8,7 +8,7 @@ excerpt: There is a deep feeling of satisfaction when you are solving something 
 
 ---
 
-this post is a place holder for an idea that I want to pursue furthe.
+this post is a place holder for an idea that I want to pursue further.
 
 Examples:
 
