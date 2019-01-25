@@ -11,11 +11,13 @@ excerpt: Taking complex topics, sets of numbers, or stories and simplifying them
 ###### EXAMPLES
 ---
 [Animating Ice Flow](http://dwtkns.com/posts/flowing-ice.html) by NYT Graphics
-
+<br>
+[Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/ "This was showed to me by Victor, a data scientist at Blend, about story based data visualizations. This is a particularly powerful example for me as it is wildly complex but has good animations and pacing to explain it in a thoughtful way.") on how they know what style of clothing to give you
+<br>
+[Explorable Explanations](https://explorabl.es) by Nicky Case
 <br>
 <br>
 <br>
-
 
 ###### WHEN CONSIDERING COLOR
 ---
