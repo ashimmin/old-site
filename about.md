@@ -2,6 +2,7 @@
 layout: post
 title: ""
 author: "Andy"
+baseurl: /about
 
 ---
  I design things that help people learn and understand more effortlessly. Currently looking for design job opportunities, you can view my [resume]({{ "/assets/Shimmin_Andy_Resume.pdf" | absolute_url }}), and my [portfolio]({{ "/assets/Shimmin_Andy_Portfolio_2018.pdf" | absolute_url }}) here.
