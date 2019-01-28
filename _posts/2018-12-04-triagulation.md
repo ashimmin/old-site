@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Triangulation for Decision Making"
+title: "On Process of Elimination"
 author: "Andy"
 categories: writing
 image: https://images.unsplash.com/photo-1483638746916-f2a17278b6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80

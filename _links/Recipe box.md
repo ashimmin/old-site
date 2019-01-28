@@ -35,6 +35,8 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
 <br>
 [Chicken Piccata](https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-piccata-recipe2-1913809) by Giada de Laurentiis
 <br>
+[Fettuccine Alfredo](https://www.bonappetit.com/recipe/fettuccine-alfredo) by Bon Appetit
+<br>
 <br>
 
 ###### DESSERT
@@ -50,6 +52,8 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
 [Pumkpin Whoopie Pies](http://lemon-sugar.com/2012/10/pumpkin-whoopie-pies.html/ "Pumpkin Whoopie Pies Yield:  15-20 sandwiches Prep Time:  25 minutes ♦ Bake Time:  15 minutes per batch Pumpkin Cookie Ingredients: 3 cups all-purpose flour 1 teaspoon salt 1 teaspoon baking powder 1 teaspoon baking soda 2 Tablespoons ground cinnamon!")
 <br>
 [Ginger Milk Pudding](https://www.chinasichuanfood.com/ginger-milk-pudding/) Introduced to me by Weiwei
+<br>
+[Brown Butter and Toffee Chocolate Chip Cookies](https://www.bonappetit.com/recipe/brown-butter-and-toffee-chocolate-chip-cookies) by Bon Appetit
 <br>
 <br>
 
