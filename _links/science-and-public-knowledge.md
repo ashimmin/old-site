@@ -29,6 +29,13 @@ box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
 background-color: #fff;
 }
 {% endhighlight %}
+
+<!--
+{% for post in site.posts limit:1 %}
+<a href="{{ post.url }}">{% include writing-entry.html %}</a>
+{% endfor %}  most recent writing post can go here
+-->
+
 ###### LINKS
 ---
 [Property maps](http://propertymap.sfplanning.org/ "I found googling "XState Property Map" has fairly consistent results") for SF.
