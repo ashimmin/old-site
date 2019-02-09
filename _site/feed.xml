@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-08T17:31:57-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Interfaces for online learning</title><link href="http://localhost:4000/2019-02-06/thesis" rel="alternate" type="text/html" title="Interfaces for online learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-06/thesis</id><content type="html" xml:base="http://localhost:4000/2019-02-06/thesis">&lt;p&gt;&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-09T11:21:27-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Interfaces for online learning</title><link href="http://localhost:4000/2019-02-06/thesis" rel="alternate" type="text/html" title="Interfaces for online learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-06/thesis</id><content type="html" xml:base="http://localhost:4000/2019-02-06/thesis">&lt;p&gt;&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -16,19 +16,17 @@
 &lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;In the initial research phases of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning.&lt;/p&gt;
+&lt;p&gt;In the initial research phases of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;2017-10-17/literature-review-thesis&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;video width=&quot;530&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/tasty.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/ytvids.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
 
 &lt;p&gt;We’ve all been entertained by these videos; super clean, super simple, super &lt;em&gt;delicious&lt;/em&gt;, and easy to follow. And after we finish it, we have a tendency to click on another, and another, and another. Youtube rabbit holes are an easy thing to go down, and even though educational content is abundant online, it’s usually in the form of entertainment like this. We never call Youtube rabbit holes educational.&lt;/p&gt;
 
 &lt;p&gt;But that’s okay, because if i wanted to learn about African animals except elephants I will find exactly what I need—&lt;/p&gt;
-&lt;video width=&quot;600&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/elephants.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
@@ -83,7 +81,7 @@ This became the fundamental model for what learning should include during my inv
 
 &lt;p&gt;Another is &lt;a href=&quot;http://watson.ted.com/&quot;&gt;IBM Watson’s TED website&lt;/a&gt;. Here, you can ask IBM’s Watson a question or topic and it will search every TED Talk for videos that it thinks are related to your inquiry. Just like the Google search, it clips the part of the video that is relevant to you, and starts the video from there, as you can see from the teal bar below the video. But this interface as well as Google’s suggested clip still just surfaces content for consumption, and neglects the other essential parts of a learning environment that people need.&lt;/p&gt;
 
-&lt;video width=&quot;570&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/2by2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
@@ -119,7 +117,7 @@ Meet Albert, an avid bitcoin purchaser, he knows a lot about the basics, and he�
 &lt;img src=&quot;/assets/thesis/ridic.png&quot; alt=&quot;&quot; /&gt;
 He’s really frustrated with his current attempts to learn about it on youtube and reddit, as he keeps getting video suggestions that steer him away from his topic through exaggerated titles and ostentatious thumbnails, and the lack of quality discussion in the comments prevents Albert from really diving deep into his topic.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/intro.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
@@ -132,7 +130,7 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;On Alcamy, he finds the topic he’s looking for, and see’s Unstable Currency is already a discussion category. He is able to skip the sections about bitcoin he already knows and can immediately access Unstable Currencies&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/3sections.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
@@ -147,7 +145,7 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;While watching the video, Albert has questions.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/comments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
@@ -159,27 +157,27 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;So, like Jane, who knows nothing about bitcoin, she’s curious what all the buzz is about, and is looking to learn more. She’s found some great information watching TED talks, but is looking for a place to help her unscramble her thoughts.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/janecomment.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
 
 &lt;p&gt;She starts from a beginner topic, and picks up the basics quickly. She’s can choose different ways to digest the content based on her preference. Jane jots down some notes and drags her comments to the notes section. Now, she’s interested in a certain part of the video, and grabs the scrub bar to refine the discussion a bit more.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/msdetail.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 &lt;p&gt;The media scrubber, located directly on the video timeline allows Jane the ability to look at discussion and commentary from both the macro and micro level.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/mscontext.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
 
 &lt;p&gt;So when Jane alters the scrubbers size and location, it filters the comments to just that part of the video rather than the video as a whole, allowing for more directed discussions that the long comment threads we’re used to don’t offer.&lt;/p&gt;
 
-&lt;video width=&quot;550&quot; height=&quot;364&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/thesis/scrubberuse.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
