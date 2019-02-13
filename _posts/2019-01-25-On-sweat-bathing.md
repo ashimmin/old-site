@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Sweat Bathing"
+title: "ON SWEAT BATHING (WIP)"
 author: "Andy"
 categories: writing
 image: https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=396&q=80

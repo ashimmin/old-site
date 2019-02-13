@@ -2,61 +2,25 @@
 layout: default
 ---
 
-
 <div class="row">
-  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-5">
-    <div class="scroll-content">
-      <div class="row">
-        {% for post in site.categories.writing %}
-        <div onclick="getElementById('demo')" class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
-          <div id="{{post.url}}" onclick="javascript:setval(1)" class="post-card-w">
-            <a href="{{ post.url }}" class="catalogue-item">
-              <p>
-                {% include writing-entry.html %}
-                <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-              </p>
-            </a>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
+  <div class="col-12 col-xs-1 col-sm-1	col-md-2	col-lg-3	col-xl-4">
   </div>
-  <div class="col-1">
-  </div>
-  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-5">
-    <div class="scroll-content-right">
+  <div class="col-12 col-xs-9 col-sm-9	col-md-9	col-lg-7	col-xl-6">
+    <br>
 
-      {% for category in site.categories %}
-      {% for post in category[1] limit:1 %}
-      <!-- <div class="post-img">
-        <img class="{{ post.img }}" src="{{ post.image }}">
-      </div> -->
-      <a href="{{ post.url }}">{% include writing-entry.html %}</a>
-      <!-- {{post.tags}} -->
-      {{ post.content }} <!--make it so theres an x to close and an expand to view whole post. -->
-      {% endfor %}
-      {% endfor %}
-    </div>
-  </div>
+    <h2><b>Writing</b></h2>
+    <p><a>I try to improve my vocabulary here!</a></p>
+    <br>
+    <br>
+    <br>
+    <h6> FEBRUARY 2019</h6>
+    <div class="catalogue-line"></div>
+    <br>
+    <br>
+    {% for post in site.categories.writing %}
+    {% include writing-entry.html %}
+    {% endfor %}
+    <br>
+  
 </div>
-
-
-
-<!-- <script>
-    var postTitle = '';
-    var postAll= {"pTitle" : "{{site.title}}", "pImage" : "{{page.title}}", "pContent" : "post.title"};
-    function setval(varval)
-    {
-    	// postTitle= varval;
-    	// alert("{{site.title}}", "site.author");
-      w3.displayObject("id01", postAll);
-    }
-
-    </script>
-
-
-
-    <div id="id01">
-{{pTitle}} {{pImage}} {{pContent}}
-</div> -->
+</div>

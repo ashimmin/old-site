@@ -1,41 +1,22 @@
 <div class="row writing-description">
   <!-- <div onClick=document.getElementById('post.url')> -->
-  {% if post.image %}
-  <div class="col-12">
-    <div class="post-img">
-      <img class="{{ post-img }}" src="{{post.image}}">
+<div class="col-12">
+  <div class="row">
+  <div class="col-12 col-xs-12 col-sm-12	col-md-2	col-lg-2	col-xl-2">
+
+      <time datetime="{{ post.date }}" class="catalogue-time">
+        <p>{{ post.date | date: "%Y%m%d" }} </p>
+      </time>
+    </div>
+  <div class="col-12 col-xs-12 col-sm-12	col-md-10	col-lg-10	col-xl-10">
+  <a href="{{ post.url }}">
+    <h6><b>{{ post.title }}</b></h6>
+    <div class="links-title">
+      <p>{{ post.excerpt | strip_html | truncatewords: 23 }}</p>
+    </div>
+    </a>
     </div>
   </div>
-  {% else %}
-  {% endif %}
-  <div class="col-12">
-    <div class="row">
-      <div class="col-4">
-        <div class="row">
-          <div class="col-10">
-            <div class="links-title">
-              <h6><b>{{ post.title }}</b></h6>
-              <time datetime="{{ post.date }}" class="catalogue-time">
-                <p>{{ post.date | date: "%Y%m%d" }}
-              </time></p>
-            </div>
-            <!-- //fix date to be all numbers -->
-          </div>
-          <div class="spacer">
-            <div class="v-div ">
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- <div class="col-1 ">
-        <div class="v-div spacer">
-        </div>
-      </div> -->
-      <div class="col-8">
-        <div class="links-title">
-          <p>{{ post.excerpt | strip_html | truncatewords: 23 }}</p>
-        </div>
-      </div>
-    </div>
-  </div>
+
+</div>
 </div>
