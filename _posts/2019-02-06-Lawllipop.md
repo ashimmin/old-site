@@ -2,8 +2,9 @@
 layout: post
 title: "LAWLLIPOP — APP FOR LEARNING FOREIGN LAWS"
 author: "Andy"
-categories: writing
+categories: portfolio
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
+image: https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=396&q=80
 ---
 ![](/assets/lawllipop/splash.png)
 <br>
@@ -77,9 +78,10 @@ How might we…
 ---
 <br>
 
-<video width="100%"" autoplay loop>
+<video width="70%" autoplay loop>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>
+
 <br>
 <br>
 
