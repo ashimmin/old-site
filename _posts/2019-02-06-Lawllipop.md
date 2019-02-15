@@ -81,7 +81,7 @@ How might we…
 <video width="70%" autoplay loop>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>
-
+<small>*If the video isn't playing, right click it to 'Show Controls', you can view it from there.*</small>
 <br>
 <br>
 
