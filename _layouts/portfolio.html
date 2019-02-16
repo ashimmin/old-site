@@ -11,19 +11,12 @@ layout: default
 
 <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-6">
   {% for post in site.categories.portfolio %}
-  <div onclick="getElementById('demo')" class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
-    <div id="{{post.url}}" onclick="javascript:setval(1)" class="post-card-w">
-      <a href="{{ post.url }}" class="catalogue-item">
-        <p>
-          {% include writing-entry.html %}
-          {% include writing-entryforimages.html %}
-          <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-        </p>
-      </a>
-    </div>
+  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
+    <a href="{{ post.url }}" class="catalogue-item">
+      {% include portfolio-entry.html %}
+    </a>
   </div>
-  {% endfor %}
-</div>
+{% endfor %}
 </div>
 
 

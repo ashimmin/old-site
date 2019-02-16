@@ -1,0 +1,19 @@
+---
+layout: post
+---
+
+
+<!-- <h6>Tag: {{ page.tags }}</h6>
+<div class="catalogue-line"></div> -->
+<br>
+<br>
+{% for post in site.tags[page.tags] %}
+{% include writing-entry.html %}
+{% endfor %}
+
+<br>
+<br>
+<br>
+<br>
+
+{% include archive.html %}

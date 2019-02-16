@@ -1,0 +1,35 @@
+<div class="row writing-description">
+  <!-- <div onClick=document.getElementById('post.url')> -->
+  {% if post.image %}
+  <div class="col-12">
+    <div class="post-img">
+      <img class="{{ post-img }}" src="{{post.image}}">
+    </div>
+  </div>
+  {% else %}
+  {% endif %}
+  <div class="col-12">
+    <div class="row">
+      <div class="col-6">
+        <div class="row">
+          <div class="col-10">
+            <div class="links-title">
+              <h6><b>{{ post.title }}</b></h6>
+            </div>
+          </div>
+          <!-- <div class="spacer">
+            <div class="v-div ">
+            </div>
+          </div> -->
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="links-title">
+          <div class="tag-bubble">
+          <p>{{ post.tags | strip_html | truncatewords: 23 }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
