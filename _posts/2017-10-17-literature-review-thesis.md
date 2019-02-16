@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNDERGRAD THESIS LITERATURE REVIEW"
+title: "Undergrad Thesis Literature Review"
 author: "Andy"
 categories: writing
 excerpt: Remembering to Forget to Remember—— Leveraging linked memory-retrieval systems, both cognitive and machine-based, to enhance pragmatic learning.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CONTEMPORARY ART — FROM MARBLE TO CHOCOLATE"
+title: "From Marble To Chocolate"
 categories: writing
 tags: art college material
 permalink: M2C

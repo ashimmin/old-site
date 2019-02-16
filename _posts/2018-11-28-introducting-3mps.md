@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ON 3 MINUTE PRESENTATIONS"
+title: "On 3 Minute Presentations"
 author: "Andy"
 categories: writing
 excerpt: 3 minute presentations and how I will format them. Instead of giving up when I don't understand something, I want to spend time with the concept and try to really pick it apart until I understand what it means.

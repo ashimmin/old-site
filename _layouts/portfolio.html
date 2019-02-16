@@ -1,37 +1,48 @@
 ---
 layout: default
 ---
-<br>
-<br>
-<br>
-<br>
 <div class="row">
   <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-4">
   </div>
   <!-- <div class="col-1">
 </div> -->
 
-
 <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-6">
+  <h1 class="catalogue-title">PDF PORTFOLIO</h1>
+  <div class="catalogue-line"></div>
+  <div class="row">
+    <div class="col-12">
+      <br>
+      <a href="{{ '/assets/Shimmin_Andy_Portfolio_2018.pdf' | prepend: site.baseurl }}">
+        <img src="/assets/portfolio-splash.png"></a>
+      </div>
+    </div>
+
+
   {% for post in site.categories.portfolio %}
-  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-12">
     <a href="{{ post.url }}" class="catalogue-item">
       {% include portfolio-entry.html %}
     </a>
+  {% endfor %}
+
+  <br>
+  <br>
+  <br>
+  <br>
   </div>
-{% endfor %}
-</div>
-
-
-
-<!-- <script>
-var postTitle = '';
-var postAll= {"pTitle" : "{{site.title}}", "pImage" : "{{page.title}}", "pContent" : "post.title"};
-function setval(varval)
-{
-// postTitle= varval;
-// alert("{{site.title}}", "site.author");
-w3.displayObject("id01", postAll);
+  <br>
+  <br>
+  <br>
+  <br>
+  </div>
+  <!-- <script>
+  var postTitle = '';
+  var postAll= {"pTitle" : "{{site.title}}", "pImage" : "{{page.title}}", "pContent" : "post.title"};
+  function setval(varval)
+  {
+  // postTitle= varval;
+  // alert("{{site.title}}", "site.author");
+  w3.displayObject("id01", postAll);
 }
 
 </script>

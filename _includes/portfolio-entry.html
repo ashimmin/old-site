@@ -28,10 +28,13 @@
       <div class="col-6">
         {% for tags in post.tags limit:4 %}
         {% capture tag_name %}{{ tags }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
-</a>
+      <!-- <a href="/tag/{{ tag_name }}"> -->
+        <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
+<!-- </a> -->
         {% endfor %}
       </div>
     </div>
   </div>
 </div>
+<div class="spacer">
+  </div>

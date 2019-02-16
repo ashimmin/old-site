@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "LAWLLIPOP — APP FOR LEARNING FOREIGN LAWS"
+title: "Lawllipop — App For Learning Foreign Laws"
 author: "Andy"
 categories: portfolio
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
-image: https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=396&q=80
+image: /assets/lawllipop/lawllipopsplash.png
 tags: ui ux game-design play research motion-design civic-engagement
 ---
 

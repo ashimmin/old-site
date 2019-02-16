@@ -31,10 +31,7 @@ layout: default
   </div>
   <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-8	col-xl-6">
 
-    <br>
-    <br>
-    <br>
-    <br>
+
     <div class="row writing-description">
       {% if page.image %}
       <div class="col-12">
@@ -43,38 +40,50 @@ layout: default
         </div>
       </div>
       {% else %}
+      <br>
+      <br>
+      <br>
+      <br>
       {% endif %}
     </div>
 
-    <h2><b>{{ page.title }}</b></h2>
+    <h4>{{ page.title }}</h4>
+    {% for tags in page.tags %}
+    {% capture tag_name %}{{ tags }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">
+      <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
+    </a>
+    {% endfor %}
+<br>
+    <br>
     <div class="links-title">
       <p>{{ page.excerpt }}</p>
     </div>
-    <br>
-    <br>
-    <Br>
-      <br>
-      <p> {{content}} </p>
-      <br><br>
-      <br>
 
 
-      <!--
-
-      <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
-      Evacuation
-    </a> by Crumbles Under Jumbo load
+    —
     <br>
+    <p> {{content}} </p>
+    <br><br>
+    <br>
+
+
+    <!--
+
     <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
     Evacuation
   </a> by Crumbles Under Jumbo load
+  <br>
+  <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
+  Evacuation
+</a> by Crumbles Under Jumbo load
 
 
-  <br>
-  <br>
-  <br>
-  <h1 class="catalogue-title">BOOKS</h1>
-  <div class="catalogue-line"></div>
+<br>
+<br>
+<br>
+<h1 class="catalogue-title">BOOKS</h1>
+<div class="catalogue-line"></div>
 
 
 
