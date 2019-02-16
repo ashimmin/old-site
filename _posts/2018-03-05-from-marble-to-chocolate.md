@@ -2,7 +2,7 @@
 layout: post
 title: "From Marble To Chocolate"
 categories: writing
-tags: art college material
+tags: contemporary-art college material resources
 permalink: M2C
 image: https://c2.staticflickr.com/2/1749/42832150992_c62631e726_b.jpg
 excerpt: I took a class during the fall of my Senior year called From Marble to Chocolate taught by Italian art historian Marina Pugilese. It covered a material history of modern art; from pieces made of marble all the way to chocolate. (See lick and lather by Janine Antoni) This class changed how I look at contemporary art entirely. This post is all the notes I took during the semester.

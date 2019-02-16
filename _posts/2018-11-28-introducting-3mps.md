@@ -5,6 +5,7 @@ author: "Andy"
 categories: writing
 excerpt: 3 minute presentations and how I will format them. Instead of giving up when I don't understand something, I want to spend time with the concept and try to really pick it apart until I understand what it means.
 image: https://images.unsplash.com/photo-1490821872962-f2e55097079b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=955&q=80
+tags: research learning-design presentation 3mp
 
 ---
 

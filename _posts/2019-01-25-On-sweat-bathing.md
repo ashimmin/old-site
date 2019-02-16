@@ -5,7 +5,7 @@ author: "Andy"
 categories: writing
 image: https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=396&q=80
 excerpt: I had a dream in college that I found a coffee table book on a photo documentation of wine spa resorts in snowy mountains. Like an alcohol onsen. It's been years and I still find the idea alluring. Below are my resources for bathing across many cultures.
-tags: someday-maybe sweat-bathing sauna onsen hamam research
+tags: someday-maybe sweat-bathing research
 ---
 
 Still Building this out as I read more.

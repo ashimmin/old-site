@@ -3,9 +3,9 @@ layout: post
 title: "Undergrad Thesis Literature Review"
 author: "Andy"
 categories: writing
-excerpt: Remembering to Forget to Remember—— Leveraging linked memory-retrieval systems, both cognitive and machine-based, to enhance pragmatic learning.
+excerpt: Remembering to Forget to Remember— Leveraging linked memory-retrieval systems, both cognitive and machine-based, to enhance pragmatic learning.
 image: https://images.unsplash.com/45/tkLOe7nnQ7mnMsiuijBy_hm.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80
-tags: research thesis ixd-history memory
+tags: research thesis ixd-history memory college
 ---
 Also available on [Medium](https://medium.com/cca-interaction-design-thesis/remembering-to-forget-to-remember-92122383e57)
 <br>
