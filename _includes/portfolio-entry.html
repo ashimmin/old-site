@@ -1,12 +1,16 @@
 <div class="row writing-description">
   <!-- <div onClick=document.getElementById('post.url')> -->
 
-{% if post.image %}
+  {% if post.image %}
+
   <div class="col-12">
-    <div class="post-img">
-      <img class="{{ post-img }}" src="{{ post.image }}">
-    </div>
+    <a href="{{ post.url }}">
+      <div class="post-img">
+        <img class="{{ post-img }}" src="{{ post.image }}">
+      </div>
+    </a>
   </div>
+
   {% else %}
   {% endif %}
 
@@ -28,13 +32,13 @@
       <div class="col-6">
         {% for tags in post.tags limit:4 %}
         {% capture tag_name %}{{ tags }}{% endcapture %}
-      <!-- <a href="/tag/{{ tag_name }}"> -->
-        <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
-<!-- </a> -->
+        <a href="/tag/{{ tag_name }}">
+          <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
+        </a>
         {% endfor %}
       </div>
     </div>
   </div>
 </div>
 <div class="spacer">
-  </div>
+</div>
