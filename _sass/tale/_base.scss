@@ -33,13 +33,15 @@ h6 {
   color: $default-color;
   font-family: $serif-primary;
   line-height: normal;
-  letter-spacing: -0.5px;
+  letter-spacing: 0.5px;
+
 }
 
 a {
   color: $blue;
   text-decoration: none;
   font-family: $sans-serif;
+    hanging-punctuation: first;
 }
 
 a:hover {
@@ -71,6 +73,10 @@ a[tooltip]:hover:after {
 p {
   color: $default-color;
   font-size: 16px; //changes global p size
+  // text-align: justify;
+  // hyphens: auto;
+  // text-justify: distribute;
+
 }
 
 blockquote {

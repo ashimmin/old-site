@@ -27,7 +27,7 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 
 **1,051,031** new legal permanent residents moved to U.S in 2015.
 
-Many of these immigrants didn’t know a lot of important information about laws or customs unique to that region before moving to it. My team of 5 others found that alarming and serious. There was an opportunity to assist travelers in a way that wasn't stale or unengaging.
+Many of these immigrants didn’t know a lot of important information about laws or customs unique to that region before moving to it. My group found that alarming and serious. There was an opportunity to assist travelers in a way that wasn't stale or unengaging.
 
 My team and I asked 31 international students, families, and recent visa applicants about how they felt about the information they knew prior to moving to the US.
 

@@ -8,23 +8,11 @@ layout: default
 </div> -->
 
 <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-5	col-xl-6">
+  <!-- <br>
   <br>
   <br>
-  <br>
-  <h1 class="catalogue-title">PDF PORTFOLIO</h1>
-  <div class="catalogue-line"></div>
-  <div class="row">
-    <div class="col-12">
-      <br>
-      <a href="{{ '/assets/Shimmin_Andy_Portfolio_2018.pdf' | prepend: site.baseurl }}">
-        <img src="/assets/portfolio-splash.png"></a>
-      </div>
-    </div>
-<br>
-<br>
-<br>
     <h1 class="catalogue-title">PROJECTS</h1>
-    <div class="catalogue-line"></div>
+    <div class="catalogue-line"></div> -->
   {% for post in site.categories.portfolio %}
     <!-- <a href="{{ post.url }}" class="catalogue-item"> -->
       {% include portfolio-entry.html %}
@@ -35,6 +23,15 @@ layout: default
   <br>
   <br>
   <br>
+  <h1 class="catalogue-title">PDF PORTFOLIO</h1>
+  <div class="catalogue-line"></div>
+  <div class="row">
+    <div class="col-12">
+      <br>
+      <a href="{{ '/assets/Shimmin_Andy_Portfolio_2019.pdf' | prepend: site.baseurl }}">
+        <img src="/assets/portfolio-splash.png"></a>
+      </div>
+    </div>
   </div>
   <br>
   <br>

@@ -5,7 +5,7 @@ title: ""
 author: "Andy"
 ---
 
- I design things that help people learn and understand more effortlessly. Currently looking for design job opportunities, view my [resume]({{ "/assets/Shimmin_Andy_Resume.pdf" | absolute_url }}) and [portfolio]({{ "/assets/Shimmin_Andy_Portfolio_2018.pdf" | absolute_url }}).
+ I design things that help people learn and understand effortlessly. Currently looking for new design opportunities, view my [resume]({{ "/assets/Shimmin_Andy_Resume.pdf" | absolute_url }}) and [portfolio]({{ "/assets/Shimmin_Andy_Portfolio_2018.pdf" | absolute_url }}).
  <br>
  <br>
 

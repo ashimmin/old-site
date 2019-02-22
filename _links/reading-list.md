@@ -3,7 +3,7 @@ layout: post
 title: "READING LIST"
 author: "Andy"
 collections: links
-excerpt: Most of the books i've read. Finished and planned books are in the archive. Books that are important are organized accordingly.
+excerpt: My future and past reading list. Finished and planned books are in the archive. Books that are important are organized accordingly.
 ---
 
 ###### ARTICLES

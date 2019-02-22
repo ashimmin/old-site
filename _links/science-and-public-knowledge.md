@@ -6,35 +6,6 @@ collections: links
 excerpt: A lot of helpful information exists online and I forget where it is a lot of the time. This is a place to keep those resources, or the keywords needed to Google it.
 ---
 
-sdfhsagdfkjhagk
-
-{% highlight js  linenos %}
-a[tooltip]:hover:after{
-content: attr(tooltip);
-font-family: $serif-primary;
-font-size: 12px;
-padding: 8px 12px;
-color: #333341;
-position: absolute;
-top: 100%;
-width: 400px;
-white-space:  pre-line;
-z-index: 20;
--moz-border-radius: 5px;
--webkit-border-radius: 5px;
-border-radius: 5px;
--moz-box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
--webkit-box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
-box-shadow: 0px 12px 66px rgba(0, 0, 0, 0.15);
-background-color: #fff;
-}
-{% endhighlight %}
-
-<!--
-{% for post in site.posts limit:1 %}
-<a href="{{ post.url }}">{% include writing-entry.html %}</a>
-{% endfor %}  most recent writing post can go here
--->
 
 ###### LINKS
 ---

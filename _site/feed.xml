@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T16:56:15-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/2019-02-06/thesis" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-06/thesis</id><content type="html" xml:base="http://localhost:4000/2019-02-06/thesis">&lt;p&gt;&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T10:42:07-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/2019-02-21/Blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-21/Blend</id><content type="html" xml:base="http://localhost:4000/2019-02-21/Blend">&lt;p&gt;&lt;img src=&quot;/assets/blend/home-product.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;image made by Kaitlin Sullivan at Blend&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#disclosures&quot;&gt;Disclosures Onboarding Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#okrs&quot;&gt;OKR Dashboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#product&quot;&gt;Product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fl&quot;&gt;Final Thoughts&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;For NDA reasons, I am not able to show my work on the product, but instead I can show you some side projects I was able to produce during my time at Blend.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mortgage lending is a small and overlooked “area” due to the percentage of people who interact with loan applications or lenders regularly. Blend comfortably and confidently fits in this space, assessing the needs of both mortgage lending institutions as well as those applying for a loan, and making the process more accountable for both parties and overall more fluid and stress-free. My time at Blend as the first product design intern was filled to the brim with opportunities to learn about something I had never given a second thought— and ultimately, to help make  lending better.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;disclosures&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;onboarding-tool&quot;&gt;ONBOARDING TOOL&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;Before you can make a difference, you need to know the space your working in. This was perfect to educate myself as well as the rest of my peers on a small but very important facet in the application process—disclosures.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For my first project, I created an onboarding tool as part of the new-hire onboarding experience that educated and refreshed Blend employees on a variety of mortgage and compliance related concepts. The bulk of this tool focused on an interactive demo of how mortgage disclosures— infamous for being tedious, granular, and a necessary evil for borrowers and lenders—operated within the ecosystem of lending.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/disclosurespaper.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;I needed to map my thoughts before hopping into the computer. Each color represents a different perspective. ex: orange = borrower journey, pink = Blend, blue = disclosures, etc.&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Asking around, most of the questions were general, “What are the contents of a disclosures package?” “Why do we need them?” What compliance issues do they face?”
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/disclosures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The final result had to be engaging enough for viewers to stay focused, but explained in a way so one could retain the information they were reading. The final result was a witty, interactive story of how Marc (with a “C”) borrower handled disclosures during his loan application. Feedback was clear that employees at Blend left knowing how disclosures fit into lending, how to design around them, and why they’re so important for the transparency of the loan application.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;okrs&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;okr-dashboard&quot;&gt;OKR DASHBOARD&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;OKR’s help to align a company toward actionable goals. Some may be ambitious, but they help inspire and steer employees at all levels in the right direction.&lt;/p&gt;
+
+&lt;p&gt;This project was devoted to amplifying that unity component, and making Blend’s alignment forward clear and simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/oldokr.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Blend’s OKR Dashboard at the time.&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Blends current dashboard was hyper-straightforward with an intensity that lost all clarity in the process.&lt;/p&gt;
+
+&lt;p&gt;The first major problem was automation: How can we update these screens in a way that supports some visual design adjustments and automatic updating of the objectives? Having to manually update these numbers in Sketch each week was out of the question, but so was a Tableau dashboard that had negative hierarchy.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/okrdraft.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I explored ways in which we could maximize Tableau’s potential for visual clarity and sketched ways to call out changes in the data that showed the trend of each metric we were measuring— rather than a stand-alone data point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/solution1.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After slowly crafting a proposed solution in Tableau, the design team and I collectively agreed that a successful OKR wasn’t about reorganizing the information; rather, it was about educating Blend employees on &lt;em&gt;how&lt;/em&gt; to look at the dashboard, not &lt;em&gt;what&lt;/em&gt; to look at. As Ray, a product designer, mentioned, “Treat the OKR dashboard as a service design project.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/okrfoamcore.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It became clear that there were three phases to this project: an initial “rducate” phase, the “update and inform” phase, and finally, a “take action” phase. The solution I had been working on only focused on updating and informing.&lt;/p&gt;
+
+&lt;p&gt;I worked to analyze and understand what and how Blend needed to be educated on our company objectives.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/blend/okreducation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;To address the “Educate” portion, I created an animated video describing each of the company’s OKR’s, and what they mean in a larger context.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;product&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;borrower-experience&quot;&gt;BORROWER EXPERIENCE&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/blend/blurry&quot; alt=&quot;&quot; /&gt;
+Because of NDA purposes, I’d love to talk about my work with Blend’s new product offering in person. Thank you for understanding.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;fl&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;final-thoughts&quot;&gt;FINAL THOUGHTS&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;Blend was so accommodating with my own curiosities during my internship. From working on objectives one day, to an animated demo for a client onsite the next, I was thrown into a fast-paced environment that honed my ability to make connections from all faces of the company. My biggest take away was developing an understanding of how to listen to the needs of the company, and being okay with not knowing the solution. The lending industry is extremely ingrained in archaic processes, and learning about it was a huge undertaking— designing for it even more so.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">fuseproject: Experience Design Internship</title><link href="http://localhost:4000/2019-02-20/fuseproject" rel="alternate" type="text/html" title="fuseproject: Experience Design Internship" /><published>2019-02-20T00:00:00-08:00</published><updated>2019-02-20T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-20/fuseproject</id><content type="html" xml:base="http://localhost:4000/2019-02-20/fuseproject">&lt;p&gt;Many of the projects I worked on during my internship are still under NDA. During my time at fuseproject, I was able to work on the first interactions (sweat included) for a home fitness workout machine, as well as the entire workout experience— from the technology included in the BOM all the way to the digital interfaces and its surrounding ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Additionally, I spent some time teaching myself how to 3D model to apply to a VR demo gallery concept. Fuseproject often had to share their ideas on the road or on-site. Carrying various different prototypes quickly became cumbersome. This project offered to create a VR space to show clients our products using a Google Daydream and models of some of our current projects. I worked in Blender and Unity.&lt;/p&gt;
+
+&lt;!-- Here are some of the render's I created while learning the software. Inspired by the work of [Beeple.](https://www.beeple-crap.com/)
+![](/assets/fuseproject/ring.png)
+![](/assets/fuseproject/sattleite.png)
+![](/assets/fuseproject/spin.gif)
+![](/assets/fuseproject/cave.png) --&gt;
+
+&lt;p&gt;If you are interested in learning more about my work at fuseproject, I’d be happy to talk more about it in person.&lt;/p&gt;</content><author><name>Andy</name></author><category term="ux" /><category term="visual-design" /><category term="3d-modeling" /><category term="virtual-reality" /><category term="motion-design" /><category term="physical-prototyping" /><summary type="html">Fuseproject is an integrated designing and branding firm with a focus on innovative concepts, quote from Crunchbase.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/fuseproject/fuseproject.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/2019-02-06/thesis" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-06/thesis</id><content type="html" xml:base="http://localhost:4000/2019-02-06/thesis">&lt;p&gt;&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -218,7 +336,7 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;&lt;strong&gt;1,051,031&lt;/strong&gt; new legal permanent residents moved to U.S in 2015.&lt;/p&gt;
 
-&lt;p&gt;Many of these immigrants didn’t know a lot of important information about laws or customs unique to that region before moving to it. My team of 5 others found that alarming and serious. There was an opportunity to assist travelers in a way that wasn’t stale or unengaging.&lt;/p&gt;
+&lt;p&gt;Many of these immigrants didn’t know a lot of important information about laws or customs unique to that region before moving to it. My group found that alarming and serious. There was an opportunity to assist travelers in a way that wasn’t stale or unengaging.&lt;/p&gt;
 
 &lt;p&gt;My team and I asked 31 international students, families, and recent visa applicants about how they felt about the information they knew prior to moving to the US.&lt;/p&gt;
 
@@ -1250,50 +1368,4 @@ code&lt;/p&gt;
 
 &lt;p&gt;RGB-Installation-cover.png&lt;/p&gt;
 
-&lt;!-- Working with the combination of digital and physical design presented a set of problems that I had never needed to solve for before. Only when I had to think about how the buttons change the experience of the screen did I grasp the importance of each touchpoint. Being reminded that this project can also be considered UI helps me to understand the breadth of designing for human interactions. --&gt;</content><author><name>Cat</name></author><category term="installation" /><category term="color" /><category term="art" /><category term="drawing" /><category term="interactive" /><category term="ui" /><category term="college" /><summary type="html">Channel installation for a call i took in college called Interface.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/RGB-Installation-cover.png" /></entry><entry><title type="html">On Personal Websites</title><link href="http://localhost:4000/2016-11-20/on-personal-websites" rel="alternate" type="text/html" title="On Personal Websites" /><published>2016-11-20T00:00:00-08:00</published><updated>2016-11-20T00:00:00-08:00</updated><id>http://localhost:4000/2016-11-20/on-personal-websites</id><content type="html" xml:base="http://localhost:4000/2016-11-20/on-personal-websites">&lt;p&gt;I’ve had many portfolio website attempts before this one. I was always frustrated with how tedious it was to add content, or build a look I wanted from template websites. This website is an attempt to have a website that recruiters, designers, humans(?), and myself can use as a resource for design related material.&lt;/p&gt;
-
-&lt;p&gt;When designing my website, I’ve always experienced a push and pull between what I find appealing that’s a current trend and what actually speaks to me. So many different styles can all speak to me, but any single cohesive style gets lost within every other style.&lt;/p&gt;
-
-&lt;p&gt;When I was first making my website I was heavily conflicted by what I wanted to convey, and what the audience of my website wanted to see. Recruiters have a very specific list of things they look for and if there’s too much fluff, it’s over. At some point my website stopped becoming a representation of me and became more of a hub that showed my work.&lt;/p&gt;
-
-&lt;p&gt;I dreaded working on my portfolio, and I still do, because a website is rarely the correct medium to show interaction design work to begin with. Displaying a screen on a screen, with a video of interactions, or a clip of animation. It’s extremely easy to fabricate your whole design talent.&lt;/p&gt;
-
-&lt;p&gt;I wanted to spend some time and go through each website design I’ve made for myself, to see what kind of progress I’ve made as a designer, or what I found important during those times in my life.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/oldwebsite/attempt1.png&quot; alt=&quot;&quot; /&gt;
-This was my first attempt at coding my website. Wanting to code it myself, I was way over my head. Note the personalized thumbnails. An attempt at showing attention to detail but ultimately just created tons of work with little payoff.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/oldwebsite/attempt2.png&quot; alt=&quot;&quot; /&gt;
- &lt;small&gt;home page&lt;small&gt;
- &lt;br /&gt;
- &lt;br /&gt;
-  &lt;img src=&quot;/assets/oldwebsite/attempt2_2.png&quot; alt=&quot;&quot; /&gt;
-  &lt;small&gt;writing page&lt;small&gt;
-&lt;!-- :-------------------------:|:-------------------------:
-| ![](/assets/oldwebsite/attempt2.png) | ![](/assets/oldwebsite/attempt2_2.png) |
-| &lt;small&gt;home page&lt;small&gt; | &lt;small&gt;writing page&lt;small&gt; | --&gt;&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/oldwebsite/attempt2_1.png&quot; alt=&quot;&quot; /&gt;
-This attempt at a website was much more thought out in some areas, and not so much in others. I had a friend introduce Semplice, a Wordpress theme, to me and said you could accomplish anything with it. I proceeded to meticulously design my dream site down to the pixel only to find out that Semplice in fact doesn’t do everything. I had to sacrifice a lot but the effort to even get started using Wordpress or Semplice was ten headaches combined. I finished it unsatisfied. I still think this website is very successful with just a few tweaks. Pulling it off is another story.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/oldwebsite/attempt2detail.png&quot; alt=&quot;&quot; /&gt;
-Here is a detail from a portfolio piece. I wanted to have the product images emphasize sections of information, but the tools I was using weren’t capable of such things.
-&lt;img src=&quot;/assets/oldwebsite/website_3.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/oldwebsite/website_3_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My third attempt and most recent. Using markdown made coding so much more approachable, and going for a to-the-point theme was the perfect balance of challenge and productive. For now I’m very happy with this layout, but I’ll always be a sucker for the tiny features.&lt;/p&gt;
-
-&lt;p&gt;A big change to get to this point was turning my personal “portfolio” into an informal writing section, like what this post is. By giving the appearance that I’m creating something for me, I can show a lot more works I’ve done without feeling like I’ll be dinged points for not representing immediately hirable skills all the time.&lt;/p&gt;</content><author><name>Andy</name></author><category term="ui" /><category term="visual-design" /><category term="reference" /><summary type="html">I’ve had many portfolio website attempts before this one. I was always frustrated with how tedious it was to add content, or build a look I wanted from template websites. This website is an attempt to have a website that recruiters, designers, humans(?), and myself can use as a resource for design related material.</summary></entry></feed>
+&lt;!-- Working with the combination of digital and physical design presented a set of problems that I had never needed to solve for before. Only when I had to think about how the buttons change the experience of the screen did I grasp the importance of each touchpoint. Being reminded that this project can also be considered UI helps me to understand the breadth of designing for human interactions. --&gt;</content><author><name>Cat</name></author><category term="installation" /><category term="color" /><category term="art" /><category term="drawing" /><category term="interactive" /><category term="ui" /><category term="college" /><summary type="html">Channel installation for a call i took in college called Interface.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/RGB-Installation-cover.png" /></entry></feed>

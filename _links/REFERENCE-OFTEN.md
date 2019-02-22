@@ -26,7 +26,7 @@ excerpt: Online readings, models, content that has left a lasting impression on 
 <br>
 [2x2 model](https://medium.com/carbon-five/the-2x2-method-c7a5719d8e44) for absolutely everything
 <br>
-https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
+[The Only 10 Slides You Need In Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) by Guy Kawasaki
 <br>
 <br>
 <br>
@@ -58,6 +58,7 @@ https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
 <br>
 ###### FROM OTHERS
 ---
+[Chris Hamamoto's data tracking resources](http://crypto.designing.tools/portrait.html) from his class on cryptography.
 <!-- [Advice I received on how to ask for good feedback]({{ "/assets/Untitled.rtf" | absolute_url }}) from Jack Cohen of [Brain-Based Workplace](http://www.brainbasedworkplace.com/) -->
 
 
