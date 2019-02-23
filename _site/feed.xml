@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T11:57:00-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/2019-02-21/Blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-21/Blend</id><content type="html" xml:base="http://localhost:4000/2019-02-21/Blend">&lt;p&gt;&lt;img src=&quot;/assets/blend/home-product.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;image made by Kaitlin Sullivan at Blend&lt;/em&gt;&lt;/small&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T18:39:05-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/2019-02-21/Blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-21/Blend</id><content type="html" xml:base="http://localhost:4000/2019-02-21/Blend">&lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#disclosures&quot;&gt;Disclosures Onboarding Tool&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#okrs&quot;&gt;OKR Dashboard&lt;/a&gt;&lt;/li&gt;
@@ -11,13 +6,17 @@
   &lt;li&gt;&lt;a href=&quot;#fl&quot;&gt;Final Thoughts&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/home-product.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;image made by Kaitlin Sullivan at Blend&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;
+    &lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;strong&gt;For NDA reasons, I am not able to show my work on the product, but instead I can show you some side projects I was able to produce during my time at Blend.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;For NDA reasons, I am not able to show my work on the product, but instead I can show you some side projects I was able to produce during my time at Blend.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Mortgage lending is a small and overlooked “area” due to the percentage of people who interact with loan applications or lenders regularly. Blend comfortably and confidently fits in this space, assessing the needs of both mortgage lending institutions as well as those applying for a loan, and making the process more accountable for both parties and overall more fluid and stress-free. My time at Blend as the first product design intern was filled to the brim with opportunities to learn about something I had never given a second thought— and ultimately, to help make  lending better.&lt;/p&gt;
 
