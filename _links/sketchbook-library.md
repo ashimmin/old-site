@@ -3,6 +3,7 @@ layout: post
 author: "Andy"
 title: "SKETCHBOOK LIBRARY"
 collections: links
+permalink: /sketchbook/
 excerpt: A lot of helpful information exists online and I forget where it is a lot of the time. This is a place to keep those resources, or the keywords needed to Google it.
 ---
 

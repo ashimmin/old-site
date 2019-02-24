@@ -3,7 +3,7 @@ layout: post
 title: "ON BEING A BETTER PERSON"
 author: "Andy"
 collections: links
-excerpt: My future and past reading list. Finished and planned books are in the archive. Books that are important are organized accordingly.
+excerpt: Advice that has helped me understand people on a deeper level.
 ---
 
 ###### ARTICLES

@@ -3,6 +3,7 @@ layout: post
 title: "RESOURCES ON CRAFT"
 author: "Andy"
 collections: links
+permalink: /craft/
 excerpt: There's your discipline, and there's your craft—whats the difference and why am I so attracted to learning things as a craft instead of a discipline?
 
 ---

@@ -3,6 +3,7 @@ layout: post
 author: "Andy"
 title: "SCIENCE AND PUBLIC KNOWLEDGE RESOURCES"
 collections: links
+permalink: /science/
 excerpt: A lot of helpful information exists online and I forget where it is a lot of the time. This is a place to keep those resources, or the keywords needed to Google it.
 ---
 

@@ -27,7 +27,7 @@ plugins:
 
 
 # Permalinks
-permalink:   /title #change to pretty if wanting date
+permalink:   /:title #change to pretty if wanting date
 paginate:    9
 
 

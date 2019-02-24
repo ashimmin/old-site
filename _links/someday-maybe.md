@@ -2,6 +2,7 @@
 layout: post
 title: "SOMEDAY MAYBE"
 author: "Andy"
+permalink: /maybe/
 excerpt: Things I hope to do one day. By having a list, it's easier to notice if you continually think of the same thing. Maybe it's time to work on that thing that keeps remind you it exists.
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "THREE MINUTE PRESENTATIONS"
 author: "Andy"
 collections: links
+permalink: /3mp/
 excerpt:  Make a 3 minute presentation on something you're interested in. This is a collection of brief but informative presentations to help me become more articulate with how I explain things. They range from mundane and every day, to theoretical and thought-provoking.
 ---
 
