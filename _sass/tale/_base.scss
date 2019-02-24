@@ -34,8 +34,9 @@ h6 {
   font-family: $serif-primary;
   line-height: normal;
   letter-spacing: 0.5px;
-
+margin-bottom:0px;
 }
+
 
 a {
   color: $blue;
@@ -77,6 +78,11 @@ p {
   // hyphens: auto;
   // text-justify: distribute;
 
+}
+
+hr {
+margin-top: 0.3rem;
+border-top: 0.1vw solid $grey-2;
 }
 
 blockquote {
