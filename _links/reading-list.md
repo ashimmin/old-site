@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "READING LIST"
+title: "ON BEING A BETTER PERSON"
 author: "Andy"
 collections: links
 excerpt: My future and past reading list. Finished and planned books are in the archive. Books that are important are organized accordingly.
@@ -8,34 +8,58 @@ excerpt: My future and past reading list. Finished and planned books are in the 
 
 ###### ARTICLES
 ---
-[Clarke's Three Laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws "1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.                 2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.                                                       3. Any sufficiently advanced technology is indistinguishable from magic.")
+[The Science of Why](https://startwithwhy.com/commit/the-science-of-why/) by Simon Sinek
 <br>
-[Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
+[Six Harsh Truths That Will Make You A Better Person](http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) by David Wong
+<br>
+[The Age of Influence and Persuasion](https://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit/) by Tyler Odean of Google
+<br>
+
+[Habits vs Goals](https://fs.blog/2017/06/habits-vs-goals/) sent to me by Jack Cohen, with some teachings from Behavior class mixed in.
 
 
 <br><br><br>
 ###### ESSAYS
 ---
-[The Presumptions of Science](https://authors.library.caltech.edu/62179/1/20024542.pdf "I find this article to time and time again be relevant when discussing the future of technology and its reach into other areas of human kind. In the article, he cites three areas where research has a potential for "dubious merit." Isotope fractionation, for fear of inevitable nuclear terror. The search and contact for extraterrestrial intelligence, proposing that if we get a response they are either as technologically advanced or more. And the postponing of age, which dangers an already overcrowded planet.") by Robert Sinsheimer
+
 
 <br><br><br>
 ###### BOOKS
 ---
-[International Picture Language](http://imaginarymuseum.org/MHV/PZImhv/NeurathPictureLanguage.html) by Otto Neurath
+
 <br><br><br>
 ###### VIDEOS
 ---
 
 <br><br><br>
-###### PODCASTS
+###### ADVICE FROM OTHERS
 ---
+
+Jonathan Lachman's advice on being an effective communicator in meetings:
+1. Set the table. Meetings are expensive so make sure they push the agenda forward. A way to do that is to level set with the people in that meeting beforehand, find out where they're coming from and what they care about so you can address it during that meeting.
+2. Frame the meeting. Not like "Hey what should we do?"  But rather, "I've been thinking about A+B and I would really like feedback on C/D" or something along those lines to give context to the feedback. [(See Jack Cohen's narrating the change)]()
+3. Consider who you're talking to. The devices you use to guide a meeting vary if it's a CEO or a colleague.
+4. "Weaponize" the agenda. Use it as a tool to guide the meeting if it goes on tangents: "I'd love to talk with you later about this topic but I would like to focus on X" or some parking lot type technique. Same applies to pushing ideas forward. If someone higher up requests, you can leverage the meeting in that direction if necessary. "CEO wants us to do X, and what I'm suggesting aligns with that objective."
+5. Like mentioned in 4, use diplomatic language to steer the conversation.
+6. Practice and get feedback. [(See Jack Cohen's asking for feedback)]()
+7. Measure effectiveness in terms of how much influence you've had in getting your agenda adopted/implemented over time. (Did you move the objective forward after the meeting?)
+8. Everyone's experience is different so 7 becomes very subjective.
+
+<br>
+
+When asking how to be more effective:
+1. Use the [stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model to help level set progress of a given topic (Am I uncon comp, or am I con comp?)
+2. Adopt "personas" to be effective. (this is my blues and gray sky persona and it's good at this, this is my red-yellow persona and its good at this etc.) Note: As you develop these, you might even investigate the relationship between them.
+3. Once a day ask for feedback, starting with "is there a..."  is harder to answer. Instead you might try:
+a. ask it right after an interaction in which you were working on the problem
+b. Frame it as "I'm working on [specific growth area]. Can you tell me one thing see me doing that's working/effective here, and one thing I could more of/differently to do it more effectively?
 
 <br><br><br>
 ###### PRESENTATIONS
 ---
 
 <br><br><br>
-###### ARCHIVE
+###### BOOK ARCHIVE
 ---
 (High-ouput management by Andy Grove is a must-read management book) recommended by J Lachman
  <br>

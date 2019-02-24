@@ -3,6 +3,7 @@ layout: post
 title: "RECIPE BOX"
 author: "Andy"
 collections: links
+permalink: /recipes/
 excerpt: The Andy equivalent to a quirky Pinterest board, or that box your parents store in the pantry or something like that. A place for food related things I find and what to try.
 
 ---
@@ -11,9 +12,6 @@ excerpt: The Andy equivalent to a quirky Pinterest board, or that box your paren
 
 ###### BREAKFAST
 ---
-
- [recipe here](https://github.com/chesterhow/tale) by Bonappetite
- <br>
 
  <br>
  [White Sandwich Bread](http://www.dinnerwithjulie.com/2012/03/04/julia-childs-white-sandwich-bread/) by Julia Child

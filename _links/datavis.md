@@ -3,6 +3,7 @@ layout: post
 title: "DATA VIS AND EXPLORABLES"
 author: "Andy"
 collections: links
+permalink: /datavis/
 excerpt: Taking complex topics, sets of numbers, or stories and simplifying them in an understandable and engaging way for others to read. This is where I store everything that has helped me with that.
 ---
 

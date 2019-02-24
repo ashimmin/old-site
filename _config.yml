@@ -27,14 +27,14 @@ plugins:
 
 
 # Permalinks
-permalink:   /:year-:month-:day/:title
+permalink:   /title #change to pretty if wanting date
 paginate:    9
 
 
 collections:
       links:
         output: true
-        permalink: /links/:path/
+        permalink: /:path/ #change to ""/links/:path/" if running into tagging problems
       posts:
 
 assets:
