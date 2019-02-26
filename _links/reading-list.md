@@ -3,7 +3,7 @@ layout: post
 title: "ON BEING A BETTER PERSON"
 author: "Andy"
 collections: links
-excerpt: Advice that has helped me understand people on a deeper level.
+excerpt: Advice that has helped me understand people on a deeper level. You'll find techniques to clarify thoughts or be more of a leadership oriented person in the workplace.
 ---
 
 ###### ARTICLES
