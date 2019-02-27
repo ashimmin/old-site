@@ -2,7 +2,7 @@
 layout: post
 title: "On Process of Elimination (WIP)"
 author: "Andy"
-categories: writing
+categories: 
 image: https://images.unsplash.com/photo-1483638746916-f2a17278b6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80
 excerpt: There is a deep feeling of satisfaction when you are solving something and you can rule out other information that appears relevant to a conclusion you are 100% certain of without knowing for sure at all. How do different professions interpret triangulation, and can you influence your environment to create instances of unknown knowns?
 

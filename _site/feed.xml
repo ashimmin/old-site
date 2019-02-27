@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-25T17:39:27-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/blend</id><content type="html" xml:base="http://localhost:4000/blend">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-26T17:41:57-08:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 1— Gathering My Thoughts</title><link href="http://localhost:4000/weeknote1" rel="alternate" type="text/html" title="Weeknote 1— Gathering My Thoughts" /><published>2019-02-26T00:00:00-08:00</published><updated>2019-02-26T00:00:00-08:00</updated><id>http://localhost:4000/weeknote1</id><content type="html" xml:base="http://localhost:4000/weeknote1">&lt;p&gt;This is the first week of weeknotes, to hold myself accountable for making progress in my personal interests and career, but to also to see if I can last beyond this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;where-do-i-fit-into-design&quot;&gt;WHERE DO I FIT INTO DESIGN?&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;This week was the first time in months I felt motivated by the thought of design. After attending an “AEC disruption” panel, a discussion about the confluence of architecture and design in tech, I came to a couple of realizations:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Design is a blanket term people like to use to hide their poor product decisions. So often I’m seeing people (PM’s, eng, and designers) drop words like “user testing” and “efficiency” and convincing others that what they did was intentional. I was reminded after this panel that I need to be aware of not doing the process because “that’s what you do”, but because it is necessary to have a better understanding of the problem at hand—if it’s even a problem to begin with!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are so many small efforts I can make as an individual to create change in the grander scope. What’s that one saying? The seed doesn’t see the flower it grows? I’m still making a lot of connections between ideas as I transition out of college and need to respect my current pace.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For future Andy, small things that make a big difference include: Finishing the SuperHi courses you bought, writing things down instead of keeping them in your head, continuing to read books, and forming long term habits. As much as you tell yourself you’re in sapling phase, you’re still a bright aspirational seed in the ground.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;sweat-bathing&quot;&gt;SWEAT BATHING&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;I’m still reading up on sweat bathing. I just finished Mikkel Aaland’s chapter about the Turkish Hammam in his book &lt;a href=&quot;https://www.mikkelaaland.com/sweat.html&quot;&gt;SWEAT.&lt;/a&gt; I was able to experience communal bathing at the Kabuki Spa in SF’s Japantown. This spa has a mixture of many baths, including a hot and cold pool, a dry sauna, as well as a steam room. The idea of cleaning your body as an activity outside of your home is extremely foreign to me, but definitely underrated. Speaking of bathing being weird, In 1854, The Encyclopedia Britannica wrote about something called a “bath cabinet” for sweat bathing in the home. I guess it’s so you wouldn’t have to bathe in a way that revealed yourself to others, but it looks more embarrassing than any amount of time in a communal bath, a probable cause for why it never gained popularity in America.
+&lt;img src=&quot;https://www.mikkelaaland.com/images/privatesweats.jpg?crc=23608230I&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;From &lt;a href=&quot;https://www.mikkelaaland.com/mediterranean-baths.html&quot;&gt;Chapter 2&lt;/a&gt; of Mikkel Aaland’s book SWEAT.&lt;/em&gt; &lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Anyway, I left Kabuki absolutely &lt;em&gt;radiant&lt;/em&gt;. I would love to visit other spas in the city to compare experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;data-visualization-presentation&quot;&gt;DATA VISUALIZATION PRESENTATION&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;I finished the second draft of a presentation I’ve been working on for how to visualize data. I have the structure in a good place but need to get feedback to clarify my thinking. The biggest challenge has been narrowing down all the examples I would like to include that has helped me understand DV better. Also so I’ll be able to talk about my perspective on DV without sounding like a maniac or needing 3 hours to explain everything.&lt;/p&gt;
+
+&lt;p&gt;Johannes and I also spoke about something very important to me that I’ve been revisiting all week: To study something as a craft, versus to study something as a discipline. To me, craft learning is from your own desire or interest in a topic, coming to conclusions based on your own observations and research; while a discipline is very externally driven by a “curriculum.” So a school for example. I still need to structure what I mean by craft and discipline, but for now I have a much better relationships with my craft-scaffolded knowledge.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;—
+&lt;br /&gt;
+&lt;br /&gt;
+Currently reading: Cryptonomicon — pg. 164
+&lt;br /&gt;
+Currently listening to: Caramelldansen (sorry)&lt;/p&gt;</content><author><name>Andy</name></author><category term="weeknote" /><category term="data-visualization" /><category term="sweat-bathing" /><category term="ux" /><summary type="html">This week I contemplate how I want to use design, my progress through Mikkel Aaland's SWEAT, and my presentation on visualizing data.</summary></entry><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/blend</id><content type="html" xml:base="http://localhost:4000/blend">&lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#disclosures&quot;&gt;Disclosures Onboarding Tool&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#okrs&quot;&gt;OKR Dashboard&lt;/a&gt;&lt;/li&gt;
@@ -439,19 +488,24 @@ Looking online to try and understand the laws, people are quickly faced with a s
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.mikkelaaland.com/sweat.html&quot;&gt;Sweat&lt;/a&gt; by Mikkel Aaland (Sketchnotes to come)
 &lt;br /&gt;
+&lt;a href=&quot;https://www.abebooks.com/9780894990786/Design-Turkish-Bath-Cosgrove-0894990780/plp&quot; title=&quot;In his book, Design of the Turkish Bath, he complained that Turkish baths were only accessible to the elite. “The Turkish bath by right must become a regular part of all hospitals, hotels, homes for the aged, even private homes.” He offered blueprints for building inexpensive Turkish baths in the home. But for every Cosgrove, there were a dozen politicians and writers suspicious of foreign customs, waving the flag for showers and tubs.&quot;&gt;Design of the Turkish Bath&lt;/a&gt; by J.J. Cosgrove
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;videos&quot;&gt;VIDEOS&lt;/h6&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
+
 &lt;h6 id=&quot;articles&quot;&gt;ARTICLES&lt;/h6&gt;
 &lt;hr /&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://www.travelandleisure.com/trip-ideas/spa-vacations/where-to-sauna-in-helsinki&quot;&gt;Finnish sauna experience&lt;/a&gt; by Travel &amp;amp; Leisure
 &lt;br /&gt;
 &lt;a href=&quot;https://www.sauna.fi/in-english/finnish-sauna-culture/&quot;&gt;Finnish sauna culture&lt;/a&gt; by The Finnish Sauna Society
 &lt;br /&gt;
 &lt;a href=&quot;https://nordicdesign.ca/nordic-tradition-sauna/&quot;&gt;Finnish Sauna Design&lt;/a&gt; by Nordic Design
-&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="someday-maybe" /><category term="sweat-bathing" /><category term="research" /><summary type="html">I had a dream in college that I found a coffee table book on a photo documentation of wine spa resorts in snowy mountains. Like an alcohol onsen. It's been years and I still find the idea alluring. Below are my resources for bathing across many cultures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=396&amp;q=80" /></entry><entry><title type="html">On Process of Elimination (WIP)</title><link href="http://localhost:4000/triagulation" rel="alternate" type="text/html" title="On Process of Elimination (WIP)" /><published>2018-12-04T00:00:00-08:00</published><updated>2018-12-04T00:00:00-08:00</updated><id>http://localhost:4000/triagulation</id><content type="html" xml:base="http://localhost:4000/triagulation">&lt;p&gt;this post is a place holder for an idea that I want to pursue further.&lt;/p&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://www.nickelinthemachine.com/2011/04/the-turkish-baths-in-jermyn-street/&quot; title=&quot;In 1862, the Illustrated London News reported a company by the name of London and Provincial Turkish Bath was formed for the purpose of “realizing Mr. Urquart’s wish in the establishment of a genuine ‘hammam’ or ‘hot-air bath’.” Urquart became head of the company, and under his supervision, the baths at St. Jermyn Street were built. —Taken from Sweat by Mikkel Aaland&quot;&gt;The Turkish Baths in Jermyn St., London&lt;/a&gt;— A brief history&lt;/p&gt;</content><author><name>Andy</name></author><category term="someday-maybe" /><category term="sweat-bathing" /><category term="research" /><summary type="html">I had a dream in college that I found a coffee table book on a photo documentation of wine spa resorts in snowy mountains. Like an alcohol onsen. It's been years and I still find the idea alluring. Below are my resources for bathing across many cultures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=396&amp;q=80" /></entry><entry><title type="html">On Process of Elimination (WIP)</title><link href="http://localhost:4000/triangulation" rel="alternate" type="text/html" title="On Process of Elimination (WIP)" /><published>2018-12-04T00:00:00-08:00</published><updated>2018-12-04T00:00:00-08:00</updated><id>http://localhost:4000/triangulation</id><content type="html" xml:base="http://localhost:4000/triangulation">&lt;p&gt;this post is a place holder for an idea that I want to pursue further.&lt;/p&gt;
 
 &lt;p&gt;Examples:&lt;/p&gt;
 
@@ -1269,88 +1323,4 @@ Swoon, 2006. Glaxed ceramic, hydrocal, concrete, steel&lt;/p&gt;
 &lt;h6 id=&quot;danh-vo&quot;&gt;DANH VO&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/contemporaryartgroup/wp-content/uploads/2011/10/Danh_Vo_WE_THE_PEOPLE_Photo_Nils_Klinger_41.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><category term="contemporary-art" /><category term="college" /><category term="material" /><category term="resources" /><summary type="html">I took a class during the fall of my Senior year called From Marble to Chocolate taught by Italian art historian Marina Pugilese. It covered a material history of modern art; from pieces made of marble all the way to chocolate. (See lick and lather by Janine Antoni) This class changed how I look at contemporary art entirely. This post is all the notes I took during the semester.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c2.staticflickr.com/2/1749/42832150992_c62631e726_b.jpg" /></entry><entry><title type="html">Undergrad Thesis Literature Review</title><link href="http://localhost:4000/literature-review-thesis" rel="alternate" type="text/html" title="Undergrad Thesis Literature Review" /><published>2017-10-17T00:00:00-07:00</published><updated>2017-10-17T00:00:00-07:00</updated><id>http://localhost:4000/literature-review-thesis</id><content type="html" xml:base="http://localhost:4000/literature-review-thesis">&lt;p&gt;Also available on &lt;a href=&quot;https://medium.com/cca-interaction-design-thesis/remembering-to-forget-to-remember-92122383e57&quot;&gt;Medium&lt;/a&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://sites.google.com/site/teacherknowledgeexchange/_/rsrc/1472845347886/km-to-promote-learning/strategies-and-models/seci-model-for-knowledge-creation/Picture1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt; Model from Nonaka and Takeuchi’s “The Knowledge-Creating Company” referenced from Jason L. Frand’s Personal Knowledge Management &lt;sup&gt;1&lt;/sup&gt; &lt;/small&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-The year is 1909 and anti-semitism in Europe has pressed entire Jewish communities to move to a distant, arid space called Palestine. It was during this Jewish Diaspora into what would become Israel that agricultural communities called kibbutz came to life. These kibbutz were communal villages functioning as one of the first forms of jewish city building in Israel.&lt;/p&gt;
-
-&lt;p&gt;The kibbutz emphasized “social justice and mutual aid” as a core principle for its members. Each member bore responsibility for a particular task — agriculture, quarry work, education, finance — a robust space of distributed expertise and shared knowledge, all surrounding the idea, “from each according to his ability, to each according to his needs.”&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;This “assistance network” of kibbutzim in the early 20th century can be mapped to two cognitive knowledge concepts that took shape decades later, the Memory Palace and the Personal Knowledge Base, forming overlaps about how we form networks of distributed knowledge — similar to the members of kibbutzim working on their individual tasks to benefit the greater community.&lt;/p&gt;
-
-&lt;p&gt;Let’s look first at how ideas from the past have framed ideas on personal knowledge and how to access it fluidly. Vannevar Bush, a pioneering American engineer and inventor, perhaps best known for working on the Manhattan Project and for heading the powerful U.S. Office of Scientific Research and Development.&lt;sup&gt;3&lt;/sup&gt; In the 1940’s, Bush described a tool called the Memex (short for memory index), serving a world burdened with information overload (which is almost quaint compared to today’s 24 billion megabytes of data on the World Wide Web — assuming each webpage averages 2MB of data).&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;In 1977, The Atlantic published Bush’s ideas on the Memex in an article where he argued that we might tackle information overload, or more importantly, information management by using the Memex.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://www.darpa.mil/DDM_Gallery/Memex-619-316%20-%20Copy.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt; Diagram of the Memex’s internal structure. &lt;/small&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-He describes the Memex as a piece of furniture “for individual use, which is a sort of mechanized private file and library. … [A] device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.”&lt;sup&gt;5&lt;/sup&gt; Emphasizing Bush’s “supplement to his memory” phrase, the idea was to curate what the individual wanted to store and then reference as needed. The curation of the knowledge established self-organizational systems — which leverages the individual as the filtration system to work with the content rather than just being placed in an omniscient directory (ie, the search engine). This idea was one of the first electronic concepts of what would come to be called The Personal Knowledge Base (PKB).&lt;/p&gt;
-
-&lt;p&gt;A Personal Knowledge Base is exactly what it sounds like: a tool (in Bush’s case it was physical, but it can also be a cognitive tool) to store and retrieve collected information for yourself. By placing pieces of content in your “knowledge base,” associations between content begin to develop rooms, categories, and create a neural network of references personal to that PKB’s owner. This mental process has been studied and practiced recently by a small group of people who have mastered how it works and has applied it with stunning success in competitive environments.&lt;/p&gt;
-
-&lt;p&gt;Nelson Charles Dellis, a British “memory athlete” and mountain climber, trained in physics and computer science — made his debut at the USA Memory Championship in 2010, aiming to memorize as many numbers, words, or cards as he could in a set amount of time. He set a new record in all ten available categories, memorizing 360 numbers in 15 minutes and a whole deck of cards in 61 seconds, among other events.&lt;sup&gt;6&lt;/sup&gt; He practiced for this event using a technique called the memory palace or method of loci, a mnemonic device that works by imagining a fictional room in your head where you create a series of objects to place around the “palace,” retracing your steps later to remember large quantities of information.&lt;/p&gt;
-
-&lt;p&gt;The method of loci is traced back to 95 CE with the Ancient Greeks&lt;sup&gt;7&lt;/sup&gt; — who lived in preliterate times where information was shared orally by storytellers and seers who travelled from village to village sharing memorized stories and pragmatic information.&lt;sup&gt;8&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;We use this technique subconsciously all the time. To observe the memory palace at work in your own life: Have you ever driven down a road and remembered a song you were listening to during a previous ride down that same road? Or smelled something that instantly reminded you of your childhood? That is your brain using the context of your senses as a device to recall past memories using that same sense.&lt;/p&gt;
-
-&lt;p&gt;Memories, you see, are linked to the same part of the brain that Dellis uses during his memory competitions. This technique is intuitive to our brains, and critical for learning something new, but none of our current learning resources mimic it.&lt;/p&gt;
-
-&lt;p&gt;At present, we are so often trying to remember content we’ve seen or heard from online. However, it can be extremely difficult to reproduce a search to find, for instance, information seen or heard months earlier.&lt;/p&gt;
-
-&lt;p&gt;Let’s look at this struggle in more detail. During a Q&amp;amp;A with IBM Watson’s David Cole at the Oxford Union, he stated, “If you put into a search engine… “show me African animals, excluding elephants,” what do you think it comes back with? A lot of elephants.”&lt;sup&gt;9&lt;/sup&gt; Additionally, linguists at University of Massachusetts at Amherst did a study on retrieval answers of thesaurus results based on phrase-centric language inquiries. What they found was that a language hierarchy existed in search queries. For the English language, queries that contained only nouns produced the most consistent results, adjective-based queries were the next most accurate, and last were verb-based queries. “Intuitively, if all nouns are removed from a text, it is generally hard to understand the text. If all verbs are removed from the text, it is often possible to know what the search is about.”(10) Search engines understand information from a fixed keyword-based perspective, while human understanding is context-based. We are restricted to interacting with search engines using only keywords in hopes that the search we input is simple enough to find the correct result.&lt;/p&gt;
-
-&lt;p&gt;If you search, “Painting, palette knife, earth tones with cracks of neon, abstract expressionism, SFMoMA” you are abiding by the keyword model, but still left to wade through pages of results that miss your target. You don’t want scholarly citations or what is popular in page rank: You want the actual painting you are looking for. But what if a search engine could respond to the query, “That one visit to the SFMoMA a few weeks ago when I saw an abstract expressionist painting. It was earth tone with little cracks of neon, and a palette knife was the tool they made it with,” my context-based inquiry would clarify drastically, retrieving all the information I needed about 1950’s abstract expressionist Clyfford Still. The ubiquitous search engine is a system that is ready to adopt context-based search, but instead it sticks to the established, archaic keyword-based model.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://cdn-images-1.medium.com/max/600/1*OcNfUHPEoHY7lFOPOxjKlQ.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Spatial memory lends itself to deep explorations of learning and discovery. The kibbutz, memory palace, and PKB all rely on spatial qualities as a framework, but they can also be combined with eachother. A closed loop of collecting and referencing the information (PKB), organizing and defining it (memory palace), and then distributing and connecting it with others (kibbutz). This model carries ideas from multiple disciplines, with the intent of exploring self-advocation related to mastery through local machine assistance. I find this important and captivating for individuals in the 21st century. Rising technology is developing to assist us entirely to the extent of relying on it for opinions rather than resources. In an attempt to maintain humanity alongside machines, the next step is to design the principles of AI to be a backpack rather than a tour guide. My position based on my research is that we have an opportunity to leverage contemporary machine intelligence with aspects of historically linked memory-retrieval methods — both cognitive and machine-based — to create a pragmatic design that could be applied in specific local and global contexts, including neighborhoods, classrooms, and ourselves.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Works Cited
-&lt;br /&gt;
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Frand, Jason L., and Carol G. Hixson. “Personal knowledge management: Who? What? Why?
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;When? Where? How?.” (1998),
-http://131.247.118.4/xmlui/bitstream/handle/10806/6449/PKM1.pdf?sequence=1.“The Kibbutz &amp;amp; Moshav: History &amp;amp; Overview.” History &amp;amp; Overview of the Kibbutz Movement. Accessed October 05, 2017. http://www.jewishvirtuallibrary.org/history-and-overview-of-the-kibbutz-movement.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Dennis, Michael Aaron. “Vannevar Bush.” Encyclopædia Britannica. December 26, 2016. Accessed October 05, 2017. https://www.britannica.com/biography/Vannevar-Bush.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;“The size of the World Wide Web (The Internet).” WorldWideWebSize.com | The size of the World Wide Web (The Internet) Accessed October 05, 2017. http://www.worldwidewebsize.com/.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Bush, V. As we may think. The Atlantic Monthly, July 1945, 101–108.
-13th USA Memory Championship 2010^. Accessed October 05, 2017. http://www.world-memory-statistics.com/competition.php?id=usa2010.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Cicero, Marcus Tullius., and Harry Caplan. Rhetorica ad Herennium. Cambridge, Mass.: Harvard Univ. Press, 2004.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;“Memory Palaces and the Method of Loci.” RememberEverything. October 03, 2013. Accessed October 05, 2017. https://remembereverything.org/memory-palace-the-method-of-loci/.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;“IBM Watson | Full Q&amp;amp;A | Oxford Union” YouTube video, 23:15. Posted by “OxfordUnion,” Jul 17, 2016. https://www.youtube.com/watch?v=rXVoRyIGGhU&amp;amp;t=1464s
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Jing, Yufeng, and W. Bruce Croft. “An association thesaurus for information retrieval.” In Intelligent Multimedia Information Retrieval Systems and Management-Volume 1, pp. 146–160. LE CENTRE DE HAUTES ETUDES INTERNATIONALES D’INFORMATIQUE DOCUMENTAIRE, 1994, https://ciir-publications.cs.umass.edu/getpdf.php?id=104.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Andy</name></author><category term="research" /><category term="thesis" /><category term="ixd-history" /><category term="memory" /><category term="college" /><summary type="html">Remembering to Forget to Remember— Leveraging linked memory-retrieval systems, both cognitive and machine-based, to enhance pragmatic learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/45/tkLOe7nnQ7mnMsiuijBy_hm.jpg?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1353&amp;q=80" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/contemporaryartgroup/wp-content/uploads/2011/10/Danh_Vo_WE_THE_PEOPLE_Photo_Nils_Klinger_41.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><category term="contemporary-art" /><category term="college" /><category term="material" /><category term="resources" /><summary type="html">I took a class during the fall of my Senior year called From Marble to Chocolate taught by Italian art historian Marina Pugilese. It covered a material history of modern art; from pieces made of marble all the way to chocolate. (See lick and lather by Janine Antoni) This class changed how I look at contemporary art entirely. This post is all the notes I took during the semester.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c2.staticflickr.com/2/1749/42832150992_c62631e726_b.jpg" /></entry></feed>
