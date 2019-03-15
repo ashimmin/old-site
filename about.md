@@ -6,11 +6,11 @@ author: "Andy"
 image:
 ---
 
-Andy designs for interactions and experiences in the Bay Area. When he's not designing, he's making functional ceramic ware for friends who didn't ask for them.
+Andy designs for interactions and experiences in the Bay Area🌉. When he's not designing, he's interning at a ceramic studio where he makes functional ceramic ware for friends who didn't ask for them.
 
 To fill in the little bits of free time, he's diving too deep into niche topics and insane facts; like the history of sweat bathing, or how sharks predate trees by 40 million years.
 
-He's currently looking for new design opportunities, view his [resume]({{ "/assets/Shimmin_Andy_Resume.pdf" | absolute_url }}) and [portfolio]({{ '/portfolio' | prepend: site.baseurl }}), or [contact him directly](mailto:andersonrshimmin@gmail.com).
+He's currently looking for new design opportunities: view his [resume]({{ "/assets/Shimmin_Andy_Resume.pdf" | absolute_url }}) and [portfolio]({{ '/portfolio' | prepend: site.baseurl }}), or [contact him directly](mailto:andersonrshimmin@gmail.com).
  <br>
  <br>
 
