@@ -12,6 +12,7 @@ layout: default
     <br>
 
     <h4>Interaction design for understanding, learning, and exploring.</h4>
+    <br>
     <p>I design things that help people learn and understand  effortlessly. Currently looking for new design opportunities, you can view my resume <a href="{{ '/assets/Shimmin_Andy_Resume.pdf' | prepend: site.baseurl }}">here.</a></p>
 <br>
 <br>
@@ -33,17 +34,27 @@ layout: default
         crafted many experiences for others, ranging from the the elegant and poetic speculative mobility futures with <a href=http://greenfieldlabs.com/>Ford Motors</a>, to the practicality of the future of student loan payments with <a href=http://usa.visa.com/>Visa</a>.
         In the summer of 2017 I interned as an Experience Designer at the consumer product firm <a href=http://fuseproject.com/>fuseproject</a>, where I worked on smart home fitness interfaces, and VR product demo galleries. </p> <p>In the
         summer of 2018 I collaborated on a design sprint with <a href=http://ideocolab.com/>IDEO CoLab</a> as well as designed for the consumer lending company <a href=http://blend.com/>Blend </a> as a product design intern. Here, I redesigned the
-          new hire onboarding experience, BlendU, with the help of the Organization Effectiveness team. Additionally helped design for alignment within the company through the company objectives. Made interactive presentations and data visualizations
+          new hire onboarding experience, BlendU, with the help of the Organization Effectiveness team. Additionally helped design for alignment within the company through the company objectives. Made interactive onboarding tools and data visualizations
           to emphasize strong points and areas of improvement within Blend. </p> <br>
     <br>
     <br>
     <h1 class="catalogue-title">DESIGN PERSPECTIVE</h1>
     <div class="catalogue-line"></div>
     <br>
-    I design to help people learn and understand more effortlessly. By emphasizing aspects of exploration and storytelling to guide the experience, I work to create engaging and intuitive design solutions that won't demand your attention away from you.
+    I design to help people learn and understand effortlessly. By emphasizing aspects of exploration and storytelling to guide the experience, I work to create engaging and intuitive design solutions that won't demand your attention away from you.
 
     <br>
     <br>
+    <Br>
+      <br>
+      <br>
+    <h1 class="catalogue-title">PORTFOLIO</h1>
+    <div class="catalogue-line"></div>
+    {% for post in site.categories.portfolio %}
+      <!-- <a href="{{ post.url }}" class="catalogue-item"> -->
+        {% include portfolio-entry.html %}
+      <!-- </a> -->
+    {% endfor %}
     <br>
     <br>
   </div>

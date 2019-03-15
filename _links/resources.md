@@ -56,7 +56,8 @@ excerpt: Online readings, models, content that has left a lasting impression on 
 <br>
 ###### WEB
 ---
-[Chris Hamamoto's data tracking resources](http://crypto.designing.tools/portrait.html) from his class on cryptography.
+[Chris Hamamoto's data tracking resources](http://crypto.designing.tools/portrait.html) from his class on cryptography
+[Versus (popular competitors tool)](http://versusutil.com/) by Jason Crawford of Flexport
 <!-- [Advice I received on how to ask for good feedback]({{ "/assets/Untitled.rtf" | absolute_url }}) from Jack Cohen of [Brain-Based Workplace](http://www.brainbasedworkplace.com/) -->
 
 <br>

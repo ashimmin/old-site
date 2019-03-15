@@ -9,19 +9,8 @@ excerpt: There's your discipline, and there's your craft—whats the difference 
 ---
 
 STILL UPDATING THIS SECTION
-
-###### ARTISTS I FOLLOW
----
-
-Jacob Robichaux
-
-Regine Schumann — [http://www.regineschumann.de/](http://www.regineschumann.de/)
-
-Max Lamb
-
-Sabine Marcelis [http://sabinemarcelis.com/](http://sabinemarcelis.com/)
-
-pamela rosenkranz
+<br>
+<br>
 
 <br>
 <br>
@@ -29,18 +18,29 @@ pamela rosenkranz
 
 ###### PRESENTATIONS
 ---
+[The Invention of Craft](https://www.youtube.com/watch?v=squHaZ9pinE) by Glenn Adamson
+<br>
+<br>
 
-See my post on
+###### ARTISTS I FOLLOW
+---
 
-{% assign counter = '0' %}
-{% for page in site.pages %}
-{% for tag in page.tags %}
-{% if tag == "news" and counter < '5' %}
-    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-<li><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}
-</a> ({{ counter }})</li>
-<div class="summary">{{page.summary}}</div>
+Jacob Robichaux — performance, sculpture, painting
 
-{% endif %}
-{% endfor %}
+[Regine Schumann](http://www.regineschumann.de/) — tempered acrylic and blacklight
+
+[Max Lamb]() — stone, wood, metal
+
+[Sabine Marcelis](http://sabinemarcelis.com/) — neon, frosted acrylic, metal
+
+[Pamela Rosenkranz]() — installation
+<Br>
+<br>
+###### POSTS
+---
+
+<br>
+<br>
+{% for post in site.tags.craft %}
+  {% include writing-entry.html %}
 {% endfor %}

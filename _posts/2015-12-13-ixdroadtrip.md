@@ -3,7 +3,7 @@ layout: post
 title: "Infographic: Interaction Design Road Trip"
 author: "Andy"
 categories: portfolio
-excerpt:  Week long project to make an infographic describing interaction design. Made in my Sophomore year of college.
+excerpt:  Week-long project to make an infographic describing interaction design. Made in my Sophomore year of college.
 image: /assets/ixdroadtrip/roadtrip_poster.jpg
 tags: visual-design infographic data-visualization illustration college
 ---
@@ -27,6 +27,8 @@ tags: visual-design infographic data-visualization illustration college
 It's not about going from point A to point B, It's the journey along the way that makes it worthwhile.
 
 Explaining what interaction design is has proven to be one of the more difficult tasks I've faced in school. Forget the deadlines, the learning curve, the stress; trying to give IxD an explanation that does it justice is something I can't seem to accomplish (and everybody around me as well for that matter -- professionals included). For this poster, I attempted to explain what interaction design is for non-designers.
+
+This piece was featured in Christina Wodtke's [article](https://medium.com/@cwodtke/foundations-of-interaction-design-2cd31c2c4d8e) on the Foundations of Interaction Design course she taught at CCA.
 
 <br>
 <br>
