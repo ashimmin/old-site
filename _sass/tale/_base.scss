@@ -24,7 +24,7 @@ body {
   font-family: $sans-serif;
 }
 
-h1,
+
 h2,
 h3,
 h4,
@@ -37,6 +37,12 @@ h6 {
   margin-bottom:0px;
 }
 
+h1 {
+  font-size: 100px;
+  height: 90px;
+  color: $blue;  //make a quoted blockquote version of this
+
+}
 
 a {
   color: $blue;
@@ -216,6 +222,7 @@ a {
   overflow-x: hidden;
   padding-top: 10vh;
 }
+
 
 // // .night-mode {
 //   body, h1, h2 {

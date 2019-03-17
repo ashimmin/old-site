@@ -1,15 +1,13 @@
 ---
-layout: portfolio-post
+layout: post
 title: "Undergrad Thesis: Interfaces For Online Learning"
 author: "Andy"
-categories: portfolio
+categories: 
 excerpt: There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.
 tags: learning-design visual-design motion-design research thesis college
 image: /assets/thesis/thesissplash.png
 ---
 During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it [here.]({% post_url 2017-10-17-literature-review-thesis %})
-<br>
-This is best viewed on a computer. There are a lot of videos that might not load properly on mobile.
 <br>
 <br>
 ![](/assets/thesis/splash.png)

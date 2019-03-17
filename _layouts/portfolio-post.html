@@ -4,7 +4,7 @@ layout: default
 
 <!-- rename to links later and make the links entries look at this for styling -->
 <div class="row">
-  <div class="col-12 col-xs-12 col-sm-12	col-md-6	col-lg-4	col-xl-4">
+  <div class="col-12 col-xs-12 col-sm-12	col-md-6	col-lg-4	col-xl-2">
     <br>
     <br>
     <br>
@@ -29,45 +29,30 @@ layout: default
       </a>
     </div>
   </div>
-  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-8	col-xl-6">
-
-
+  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-8	col-xl-9">
     <div class="row writing-description">
-      {% if page.image %}
-      <div class="col-12">
-        <div class="post-img">
-          <img class="{{ post-img }}" src="{{page.image}}">
-        </div>
-      </div>
-      {% else %}
-      <br>
-      <br>
-      <br>
-      <br>
-      {% endif %}
+    <Br>
     </div>
-
+<!--
     <h4>{{ page.title }}</h4>
-    {% for tags in page.tags %}
-    {% capture tag_name %}{{ tags }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">
-      <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
-    </a>
-    {% endfor %}
 <br>
     <br>
     <div class="links-title">
       <p>{{ page.excerpt }}</p>
     </div>
-
-
+ -->
     <!-- — -->
     <br>
     <p> {{content}} </p>
     <br><br>
     <br>
 
-
+    {% for tags in page.tags %}
+    {% capture tag_name %}{{ tags }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">
+      <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
+    </a>
+    {% endfor %}
     <!--
 
     <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">

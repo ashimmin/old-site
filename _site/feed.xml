@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-14T23:09:03-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T15:05:38-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;craft&quot;&gt;CRAFT&lt;/h6&gt;
 &lt;hr /&gt;
@@ -185,7 +185,7 @@ Blends current dashboard was hyper-straightforward with an intensity that lost a
 &lt;p&gt;&lt;img src=&quot;/assets/blend/solution1.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;After slowly crafting a proposed solution in Tableau, the design team and I collectively agreed that a successful OKR wasn’t about reorganizing the information; rather, it was about educating Blend employees on &lt;em&gt;how&lt;/em&gt; to look at the dashboard, not &lt;em&gt;what&lt;/em&gt; to look at. As Ray, a product designer, mentioned, “Treat the OKR dashboard as a service design project.”&lt;/p&gt;
+&lt;p&gt;After slowly crafting a proposed solution in Tableau, the design team and I collectively agreed that a successful OKR wasn’t about reorganizing the information. Rather, it was about educating Blend employees on &lt;em&gt;how&lt;/em&gt; to look at the dashboard, not &lt;em&gt;what&lt;/em&gt; to look at. As Ray, a product designer, mentioned, “Treat the OKR dashboard as a service design project.”&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/blend/okrfoamcore.jpeg&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -219,6 +219,8 @@ Because of NDA purposes, I’d love to talk about my work with Blend’s new pro
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">Pink Themed Valentines Day Dinner</title><link href="http://localhost:4000/valentines-day-dinner" rel="alternate" type="text/html" title="Pink Themed Valentines Day Dinner" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>http://localhost:4000/valentines-day-dinner</id><content type="html" xml:base="http://localhost:4000/valentines-day-dinner"></content><author><name>Andy</name></author><category term="recipes" /><category term="food" /><category term="pink" /><category term="valentines-day" /><category term="cooking" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis</id><content type="html" xml:base="http://localhost:4000/thesis">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
+&lt;br /&gt;
+This is best viewed on a computer. There are a lot of videos that might not load properly on mobile.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
@@ -418,7 +420,377 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;I would like to bring my learnings from my work here with me in my future work, as i look at making technology not something that alleviates us in the moment, but supports us over time as we grow and develop ways to make education better.&lt;/p&gt;
 
-&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop</id><content type="html" xml:base="http://localhost:4000/lawllipop">&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/splash.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis-process" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis-process</id><content type="html" xml:base="http://localhost:4000/thesis-process">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;Existing Examples of “Learning Interfaces”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prototype&quot;&gt;Prototype&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#learnings&quot;&gt;Learnings&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/ytvids.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;We’ve all been entertained by these videos; super clean, super simple, super &lt;em&gt;delicious&lt;/em&gt;, and easy to follow. And after we finish it, we have a tendency to click on another, and another, and another. Youtube rabbit holes are an easy thing to go down, and even though educational content is abundant online, it’s usually in the form of entertainment like this. We never call Youtube rabbit holes educational.&lt;/p&gt;
+
+&lt;p&gt;But that’s okay, because if i wanted to learn about African animals except elephants I will find exactly what I need—&lt;/p&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/elephants.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;It’s easy to find something online that teaches you something, but rarely is it shown through an educational lens. And that’s because an educational lens is a classroom, a teacher, other students, and the surrounding environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/thesis/medium.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt; &lt;em&gt;Medium telling me what else I might like in the footer of the website. None of these are related to what I just read.&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;And the internet isn’t that. It’s not any of those, Its a lot of “up next’s” and “suggested readings,” not based on what I’m currently doing, but based on my entire browsing history. So it needs to be up to the learner to mediate those resources online. In an age of abundant online educational media, it is important that we are able to treat these self-learning resources as something that we can shape and direct, rather than something that tells us to consume more of what it thinks we like.&lt;/p&gt;
+
+&lt;p&gt;For the past year I have been trying to answer the question:
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-can-we-assist-learners-in-navigating-through-online-resources-effectively&quot;&gt;How can we assist learners in navigating through online resources effectively?&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Through interviews with teachers, public speakers, students, academics, and hobbyists, I categorized my understanding of learning into three main questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How do we effectively find and accept quality content from online resources in a sea of junk?&lt;/li&gt;
+  &lt;li&gt;How do we organize it in a way that makes sense to us?&lt;/li&gt;
+  &lt;li&gt;and how can we discuss this with others to deepen our understanding of it?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/thesis/model.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+and they all flow together as the process of learning happens.
+This became the fundamental model for what learning should include during my investigation on this subject.&lt;/p&gt;
+
+&lt;p&gt;I researched existing examples of interfaces that have these categories, but found they tend to prioritize one, and struggle to navigate between each other.&lt;/p&gt;
+
+&lt;p&gt;Lets take a look at what interfaces do and don’t do well.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;examples&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;existing-examples-of-learning-interfaces&quot;&gt;EXISTING EXAMPLES OF “LEARNING INTERFACES”&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/thesis/laptopyt.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Youtube is a great example of how an interface that has so much content for learning, isn’t presented in a way to support it. If I go to a video to learn about something, but I’m looking for ONLY the part I care about, I have to click through the entire video to find it. There are thumbnail previews, but that’s only a visual cue, so auditory explanations are not benefitted from that. If I want to discuss this with others, I have to leave the video and scroll down to the comments. If a comment is time stamped, I click and leave the comments to see the part of the video they were talking about, only to have to scroll back down to see the discussion around the snippet of video.&lt;/p&gt;
+
+&lt;p&gt;On a slightly different note, Google has an uncommon feature when searching some questions into it&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/thesis/whistle.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;where it gives you a &lt;a href=&quot;http://lmgtfy.com/?q=how+to+whistle&quot;&gt;suggested clip&lt;/a&gt;. Google will highlight specific parts of a video and tell you which moments in the video it believes are most relevant to you.&lt;/p&gt;
+
+&lt;p&gt;Another is &lt;a href=&quot;http://watson.ted.com/&quot;&gt;IBM Watson’s TED website&lt;/a&gt;. Here, you can ask IBM’s Watson a question or topic and it will search every TED Talk for videos that it thinks are related to your inquiry. Just like the Google search, it clips the part of the video that is relevant to you, and starts the video from there, as you can see from the teal bar below the video. But this interface as well as Google’s suggested clip still just surfaces content for consumption, and neglects the other essential parts of a learning environment that people need.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/2by2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;digging deeper, I looked to different types of learning platforms to see how they dealt with this problem. It all varied based on what information you are looking for, and how deeply you want to understand it.&lt;/p&gt;
+
+&lt;p&gt;Resources like Youtube, Reddit and Quora have a wide breath of content, that is both academic and interest heavy, but are focused, based on their interfaces, on entertaining or consuming.&lt;/p&gt;
+
+&lt;p&gt;Resources that are educational and academic employ a classroom like setting, or a sequential learning style, with an emphasis on knowledge quality.&lt;/p&gt;
+
+&lt;p&gt;These two quadrants together have quality learning material, but because of the interface itself, we as learners aren’t empowered to retain this information through note taking or discussion.&lt;/p&gt;
+
+&lt;p&gt;As for the other spaces, theres not many examples. But these are the two spaces that I see the most promise in, specifically, educational interest based learning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;what-does-an-interface-for-learning-look-like&quot;&gt;What does an interface for learning look like?&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Researching possible companies in that upper right region, I partnered with a company called Alcamy, who were working on a similar problem. Alcamy is a self learning platform that curates existing learning materials online so you can find helpful learning resources all in one place.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/thesis/laptopalcamy.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Their current website, which you can visit now, uses user created categories that filter entire topics into a streamlined curriculum. Together we worked to re-create their existing interface for one that promoted more than just consumption, so that if someone wanted to learn more about bitcoin, for example, they would find value in Alcamy whether they knew a lot or not much at all.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/thesis/albert.png&quot; alt=&quot;&quot; /&gt;
+Meet Albert, an avid bitcoin purchaser, he knows a lot about the basics, and he’s trying to learn about unstable currencies for his next crypto purchase.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/thesis/ridic.png&quot; alt=&quot;&quot; /&gt;
+He’s really frustrated with his current attempts to learn about it on youtube and reddit, as he keeps getting video suggestions that steer him away from his topic through exaggerated titles and ostentatious thumbnails, and the lack of quality discussion in the comments prevents Albert from really diving deep into his topic.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/intro.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;prototype&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;prototype&quot;&gt;PROTOTYPE&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;On Alcamy, he finds the topic he’s looking for, and see’s Unstable Currency is already a discussion category. He is able to skip the sections about bitcoin he already knows and can immediately access Unstable Currencies&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/3sections.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;In the new interface, Albert has some additional tools to help him grasp this concept. and there are three columns to accompany Albert’s learning journey&lt;/p&gt;
+
+&lt;p&gt;A place for note taking, where he can write down his thoughts, drag quotes and snippets, and have a place for him to help solidify his learning.&lt;/p&gt;
+
+&lt;p&gt;Second, a space for the actual content he’s learning from, and I will talk more later about navigating through it,&lt;/p&gt;
+
+&lt;p&gt;And lastly, a place for discussion with communities interested in the same topic.&lt;/p&gt;
+
+&lt;p&gt;While watching the video, Albert has questions.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/comments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;He writes a quick conversation starter, drags it over to the discussion section, and In no time, he get’s a clarifying response from someone else interested in learning about the same topic as him.&lt;/p&gt;
+
+&lt;p&gt;With the three part interface, Albert doesn’t have to keep scrolling between commentary and video like youtube and can focus on his learning over navigating. Which is critical during points when you are just starting out, as there is so much more to take in.
+&lt;img src=&quot;/assets/thesis/jane.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, like Jane, who knows nothing about bitcoin, she’s curious what all the buzz is about, and is looking to learn more. She’s found some great information watching TED talks, but is looking for a place to help her unscramble her thoughts.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/janecomment.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;She starts from a beginner topic, and picks up the basics quickly. She’s can choose different ways to digest the content based on her preference. Jane jots down some notes and drags her comments to the notes section. Now, she’s interested in a certain part of the video, and grabs the scrub bar to refine the discussion a bit more.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/msdetail.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;The media scrubber, located directly on the video timeline allows Jane the ability to look at discussion and commentary from both the macro and micro level.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/mscontext.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;So when Jane alters the scrubbers size and location, it filters the comments to just that part of the video rather than the video as a whole, allowing for more directed discussions that the long comment threads we’re used to don’t offer.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/scrubberuse.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;She scrubs to a specific section to see what the discussion is about for that part of the video, only to find that someone asked her question! The response links her to another page, and she finds the exact quote that the commenter was referencing. she is able to copy the highlighted section directly to her notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;learnings&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;learnings&quot;&gt;LEARNINGS&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/thesis/modelonui.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My work on learning interfaces aims to empower people to create meaningful relationships with their knowledge to support a mind of deep interest and curiosity, so that even the biggest problems can be deconstructed and understood. Looking at what defines an interface that helps someone learn is my step toward that. These two scenarios were looking at learning from a digital interface, but it stems far beyond just the digital.&lt;/p&gt;
+
+&lt;p&gt;I would like to bring my learnings from my work here with me in my future work, as i look at making technology not something that alleviates us in the moment, but supports us over time as we grow and develop ways to make education better.&lt;/p&gt;
+
+&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop</id><content type="html" xml:base="http://localhost:4000/lawllipop">&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/lawllipopsplash1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;video autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;svg width=&quot;360px&quot; height=&quot;136px&quot; viewBox=&quot;0 0 360 136&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
+    &lt;!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;defs&gt;&lt;/defs&gt;
+    &lt;g id=&quot;Page-1&quot; stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot; font-weight=&quot;normal&quot;&gt;
+        &lt;text id=&quot;1,051,031&quot; font-family=&quot;ArialRoundedMTBold, Arial Rounded MT Bold&quot; font-size=&quot;79.3&quot; fill=&quot;#E67385&quot;&gt;
+            &lt;tspan x=&quot;-5&quot; y=&quot;58&quot;&gt;1,051,031&lt;/tspan&gt;
+        &lt;/text&gt;
+        &lt;text id=&quot;new-legal-permanent&quot; font-family=&quot;Helvetica&quot; font-size=&quot;24&quot; fill=&quot;#333341&quot;&gt;
+            &lt;tspan x=&quot;-1&quot; y=&quot;106&quot;&gt;new legal permanent residents &lt;/tspan&gt;
+            &lt;tspan x=&quot;-1&quot; y=&quot;135&quot;&gt;moved to U.S in 2015.&lt;/tspan&gt;
+        &lt;/text&gt;
+    &lt;/g&gt;
+&lt;/svg&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;svg width=&quot;371px&quot; height=&quot;165px&quot; viewBox=&quot;0 0 371 165&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
+    &lt;!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;defs&gt;&lt;/defs&gt;
+    &lt;g id=&quot;Page-1&quot; stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot; font-weight=&quot;normal&quot;&gt;
+        &lt;text id=&quot;1,051,031-copy&quot; font-family=&quot;ArialRoundedMTBold, Arial Rounded MT Bold&quot; font-size=&quot;79.3&quot; fill=&quot;#E67385&quot;&gt;
+            &lt;tspan x=&quot;-4.50161133&quot; y=&quot;58&quot;&gt;1,043,839&lt;/tspan&gt;
+        &lt;/text&gt;
+        &lt;text id=&quot;new-legal-permanent-copy&quot; font-family=&quot;Helvetica&quot; font-size=&quot;24&quot; fill=&quot;#333341&quot;&gt;
+            &lt;tspan x=&quot;136.179688&quot; y=&quot;106&quot;&gt; international students&lt;/tspan&gt;
+            &lt;tspan x=&quot;72.1484375&quot; y=&quot;135&quot;&gt;studied at U.S. colleges and &lt;/tspan&gt;
+            &lt;tspan x=&quot;132.183594&quot; y=&quot;164&quot;&gt;universities in 2015/16&lt;/tspan&gt;
+        &lt;/text&gt;
+    &lt;/g&gt;
+&lt;/svg&gt;&lt;/td&gt;
+&amp;lt;/table&amp;gt;
+
+
+&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;
+###### INTRODUCTION
+---
+
+**1,051,031** new legal permanent residents moved to U.S in 2015.
+
+Many of these immigrants didn’t know a lot of important information about laws or customs unique to that region before moving to it. My group found that alarming and serious. There was an opportunity to assist travelers in a way that wasn't stale or unengaging.
+
+My team and I asked 31 international students, families, and recent visa applicants about how they felt about the information they knew prior to moving to the US.
+
+&lt;br /&gt;
+&lt;br /&gt;
+# **“**
+
+#### I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.
+&lt;br /&gt;
+*Druyvee* — **International Student**
+
+&lt;br /&gt;
+## [22 of the 31]()
+survey participants said they didn’t know the laws of a new country before moving.
+
+## [16 of the 31]()
+people said they didn’t research laws before they moved.
+
+## [14 of the 31]()
+participants mentioned they wanted to know about laws around housing, drugs, and starting a business.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;capa&quot;&gt;&lt;/a&gt;
+###### COMPETITIVE ANALYSIS &amp;amp; PROBLEM AREAS
+---
+&lt;br /&gt;
+Looking online to try and understand the laws, people are quickly faced with a series of government text fields, whacky trivia, and a general scattering of the information they needed.
+&lt;br /&gt;
+&lt;br /&gt;
+![](/assets/lawllipop/Group.png)
+&lt;small&gt;_The websites for the Alcohol Policy Information System (bottom left), Justia (top left), free legal information for lawyers, and an excerpt from a California website on laws (right)_&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+## [There isn’t a place to learn laws in an easy and digestible way.]()
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+How might we…
+
+
+&amp;gt; Help people learn about the law and cultural norms when traveling to a new country?
+
+&amp;gt; Bridge divides between immigrants and the laws of a new place?
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;prototype&quot;&gt;&lt;/a&gt;
+###### PROTOTYPE
+---
+&lt;br /&gt;
+
+&lt;video width=&quot;70%&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;small&gt;*If the video isn't playing, right click it to 'Show Controls', you can view it from there.*&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+![](/assets/lawllipop/splash detail.png)
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;learning&quot;&gt;&lt;/a&gt;
+###### WHAT MAKES PLAYERS CONTINUE TO LEARN?
+---
+&lt;br /&gt;
+&lt;br /&gt;
+![](/assets/lawllipop/badge1.png)
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+![](/assets/lawllipop/badge2.png)
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+![](/assets/lawllipop/badge3.png)
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;exposure&quot;&gt;&lt;/a&gt;
+###### PUBLIC EXPOSURE
+---
+Touchpoints and consumables in airports, car rental agencies, and airline pouches will reach our audience in critical locations to spread the word about our product.
+&lt;br /&gt;
+&lt;br /&gt;
+![](/assets/lawllipop/img1.jpeg)
+![](/assets/lawllipop/img2.jpeg)
+![](/assets/lawllipop/img3.jpeg)
+&lt;/tr&gt;&lt;/table&gt;</content><author><name>Andy</name></author><category term="visual-design" /><category term="ux" /><category term="game-design" /><category term="play" /><category term="research" /><category term="motion-design" /><category term="civic-engagement" /><category term="college" /><summary type="html">Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/lawllipop/lawllipopsplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop-process" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop-process</id><content type="html" xml:base="http://localhost:4000/lawllipop-process">&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/splash.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -497,7 +869,7 @@ Looking online to try and understand the laws, people are quickly faced with a s
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;video width=&quot;70%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+&lt;video width=&quot;70%&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 &lt;p&gt;&lt;small&gt;&lt;em&gt;If the video isn’t playing, right click it to ‘Show Controls’, you can view it from there.&lt;/em&gt;&lt;/small&gt;
@@ -536,38 +908,4 @@ Looking online to try and understand the laws, people are quickly faced with a s
 &lt;br /&gt;
 &lt;img src=&quot;/assets/lawllipop/img1.jpeg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/lawllipop/img2.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/lawllipop/img3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="visual-design" /><category term="ux" /><category term="game-design" /><category term="play" /><category term="research" /><category term="motion-design" /><category term="civic-engagement" /><category term="college" /><summary type="html">Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/lawllipop/lawllipopsplash.png" /></entry><entry><title type="html">fuseproject: Experience Design Internship</title><link href="http://localhost:4000/fuseproject" rel="alternate" type="text/html" title="fuseproject: Experience Design Internship" /><published>2019-02-05T00:00:00-08:00</published><updated>2019-02-05T00:00:00-08:00</updated><id>http://localhost:4000/fuseproject</id><content type="html" xml:base="http://localhost:4000/fuseproject">&lt;p&gt;Many of the projects I worked on during my internship are still under NDA. During my time at fuseproject, I was able to work on the first interactions for a home fitness workout machine, as well as the entire workout experience— from the technology embedded in the machine, all the way to the digital interfaces and its surrounding touchpoints.&lt;/p&gt;
-
-&lt;p&gt;Additionally, I spent some time learning how to 3D model and worked on a VR Demo Gallery concept for fuseproject and their clients. Fuseproject often had to share their ideas on the road or on-site. Carrying various different prototypes quickly became cumbersome. This project offered to create a VR environment to show clients recent products using a Google Daydream. Prototypes were made in Blender and Unity.&lt;/p&gt;
-
-&lt;!-- Here are some of the render's I created while learning the software. Inspired by the work of [Beeple.](https://www.beeple-crap.com/)
-![](/assets/fuseproject/ring.png)
-![](/assets/fuseproject/sattleite.png)
-![](/assets/fuseproject/spin.gif)
-![](/assets/fuseproject/cave.png) --&gt;
-
-&lt;p&gt;If you are interested in learning more about my work at fuseproject, I’d be happy to talk more about it in person.&lt;/p&gt;</content><author><name>Andy</name></author><category term="ux" /><category term="visual-design" /><category term="3d-modeling" /><category term="virtual-reality" /><category term="motion-design" /><category term="physical-prototyping" /><summary type="html">Fuseproject is an integrated designing and branding firm with a focus on innovative concepts, quote from Crunchbase.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/fuseproject/fuseproject.png" /></entry><entry><title type="html">On Sweat Bathing (WIP)</title><link href="http://localhost:4000/On-sweat-bathing" rel="alternate" type="text/html" title="On Sweat Bathing (WIP)" /><published>2019-01-25T00:00:00-08:00</published><updated>2019-01-25T00:00:00-08:00</updated><id>http://localhost:4000/On-sweat-bathing</id><content type="html" xml:base="http://localhost:4000/On-sweat-bathing">&lt;p&gt;Still Building this out as I read more.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;books&quot;&gt;BOOKS&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.mikkelaaland.com/sweat.html&quot;&gt;Sweat&lt;/a&gt; by Mikkel Aaland (Sketchnotes to come)
-&lt;br /&gt;
-&lt;a href=&quot;https://www.abebooks.com/9780894990786/Design-Turkish-Bath-Cosgrove-0894990780/plp&quot; title=&quot;In his book, Design of the Turkish Bath, he complained that Turkish baths were only accessible to the elite. “The Turkish bath by right must become a regular part of all hospitals, hotels, homes for the aged, even private homes.” He offered blueprints for building inexpensive Turkish baths in the home. But for every Cosgrove, there were a dozen politicians and writers suspicious of foreign customs, waving the flag for showers and tubs.&quot;&gt;Design of the Turkish Bath&lt;/a&gt; by J.J. Cosgrove
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;videos&quot;&gt;VIDEOS&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;articles&quot;&gt;ARTICLES&lt;/h6&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.travelandleisure.com/trip-ideas/spa-vacations/where-to-sauna-in-helsinki&quot;&gt;Finnish sauna experience&lt;/a&gt; by Travel &amp;amp; Leisure
-&lt;br /&gt;
-&lt;a href=&quot;https://www.sauna.fi/in-english/finnish-sauna-culture/&quot;&gt;Finnish sauna culture&lt;/a&gt; by The Finnish Sauna Society
-&lt;br /&gt;
-&lt;a href=&quot;https://nordicdesign.ca/nordic-tradition-sauna/&quot;&gt;Finnish Sauna Design&lt;/a&gt; by Nordic Design
-&lt;br /&gt;
-&lt;a href=&quot;http://www.nickelinthemachine.com/2011/04/the-turkish-baths-in-jermyn-street/&quot; title=&quot;In 1862, the Illustrated London News reported a company by the name of London and Provincial Turkish Bath was formed for the purpose of “realizing Mr. Urquart’s wish in the establishment of a genuine ‘hammam’ or ‘hot-air bath’.” Urquart became head of the company, and under his supervision, the baths at St. Jermyn Street were built. —Taken from Sweat by Mikkel Aaland&quot;&gt;The Turkish Baths in Jermyn St., London&lt;/a&gt;— A brief history&lt;/p&gt;</content><author><name>Andy</name></author><category term="someday-maybe" /><category term="sweat-bathing" /><category term="research" /><category term="craft" /><summary type="html">I had a dream in college that I found a coffee table book on a photo documentation of wine spa resorts in snowy mountains. Like an alcohol onsen. It's been years and I still find the idea alluring. Below are my resources for bathing across many cultures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1415226556993-1404e0c6e727?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=396&amp;q=80" /></entry></feed>
+&lt;img src=&quot;/assets/lawllipop/img3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="visual-design" /><category term="ux" /><category term="game-design" /><category term="play" /><category term="research" /><category term="motion-design" /><category term="civic-engagement" /><category term="college" /><summary type="html">Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/lawllipop/lawllipopsplash.png" /></entry></feed>

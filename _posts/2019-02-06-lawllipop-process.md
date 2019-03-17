@@ -1,66 +1,25 @@
 ---
-layout: portfolio-post
+layout: post
 title: "Lawllipop — App For Learning Foreign Laws"
 author: "Andy"
-categories: portfolio
+categories:
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
 image: /assets/lawllipop/lawllipopsplash.png
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
 
-![](/assets/lawllipop/lawllipopsplash1.png)
-
-
+![](/assets/lawllipop/splash.png)
 <br>
 <br>
 
-|                           ||
-|:-----------------:|-------|
-| <video autoplay loop controls> <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4"/></video> |  || Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country. |
-
-<Br>
+1. [Introduction](#introduction)
+2. [Competitive Analysis & Problem Areas](#capa)
+3. [Prototype](#prototype)
+4. [What Makes Players Continue to Learn?](#learning)
+5. [Public Exposure](#exposure)
 <br>
 <br>
-
-<table>
-<tr>
-<td>
-<svg width="360px" height="136px" viewBox="0 0 360 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
-        <text id="1,051,031" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="79.3" fill="#E67385">
-            <tspan x="-5" y="58">1,051,031</tspan>
-        </text>
-        <text id="new-legal-permanent" font-family="Helvetica" font-size="24" fill="#333341">
-            <tspan x="-1" y="106">new legal permanent residents </tspan>
-            <tspan x="-1" y="135">moved to U.S in 2015.</tspan>
-        </text>
-    </g>
-</svg></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>
-<svg width="371px" height="165px" viewBox="0 0 371 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
-        <text id="1,051,031-copy" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="79.3" fill="#E67385">
-            <tspan x="-4.50161133" y="58">1,043,839</tspan>
-        </text>
-        <text id="new-legal-permanent-copy" font-family="Helvetica" font-size="24" fill="#333341">
-            <tspan x="136.179688" y="106"> international students</tspan>
-            <tspan x="72.1484375" y="135">studied at U.S. colleges and </tspan>
-            <tspan x="132.183594" y="164">universities in 2015/16</tspan>
-        </text>
-    </g>
-</svg></td>
-</table>
-
+<br>
 
 <a name="introduction"></a>
 ###### INTRODUCTION
@@ -74,11 +33,8 @@ My team and I asked 31 international students, families, and recent visa applica
 
 <br>
 <br>
-# **“**
 
-#### I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.
-<Br>
-*Druyvee* — **International Student**
+> ### [“I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.”]()
 
 <br>
 ## [22 of the 31]()
@@ -104,7 +60,7 @@ Looking online to try and understand the laws, people are quickly faced with a s
 <small>_The websites for the Alcohol Policy Information System (bottom left), Justia (top left), free legal information for lawyers, and an excerpt from a California website on laws (right)_</small>
 <br>
 <br>
-## [There isn’t a place to learn laws in an easy and digestible way.]()
+# [There isn’t a place to learn laws in an easy and digestible way.]()
 
 <br>
 <br>

@@ -30,4 +30,8 @@ Information Theory/ Number theory? Or just a competency in math to be able to id
 
 https://www.youtube.com/watch?v=BW-ko_OT6w0
 
+
+https://commonmark.org/help/tutorial/05-blockquotes.html
+use this website to get the tool tip code/idea
+
  <!-- Bicycle trip from Munich to Berlin. 117 miles stopping at-->

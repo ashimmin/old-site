@@ -6,7 +6,7 @@ author: "Andy"
 image:
 ---
 
-Andy designs for interactions and experiences in the Bay Area🌉. When he's not designing, he's interning at a ceramic studio where he makes functional ceramic ware for friends who didn't ask for them.
+Andy designs for interactions and experiences in the Bay Area. When he's not designing, he's interning at a ceramic studio where he makes functional ceramic ware for friends who didn't ask for them.
 
 To fill in the little bits of free time, he's diving too deep into niche topics and insane facts; like the history of sweat bathing, or how sharks predate trees by 40 million years.
 
