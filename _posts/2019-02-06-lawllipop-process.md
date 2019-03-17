@@ -37,14 +37,11 @@ My team and I asked 31 international students, families, and recent visa applica
 > ### [“I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.”]()
 
 <br>
-## [22 of the 31]()
-survey participants said they didn’t know the laws of a new country before moving.
+|                           |||
+|-----------------|-------|---|
+|22|16|14|
+|survey participants said they didn’t know the laws of a new country before moving.|people said they didn’t research laws before they moved.| participants mentioned they wanted to know about laws around housing, drugs, and starting a business.|
 
-## [16 of the 31]()
-people said they didn’t research laws before they moved.
-
-## [14 of the 31]()
-participants mentioned they wanted to know about laws around housing, drugs, and starting a business.
 <br>
 <br>
 <br>
