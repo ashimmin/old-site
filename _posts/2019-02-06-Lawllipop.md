@@ -35,8 +35,7 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <br>
 <br>
 <br>
-![](/assets/lawllipop/test/lawliinfo.png)
-<br>
+![](/assets/lawllipop/test/lawliintro.png)
 <br>
 <br>
 <br>
@@ -44,6 +43,10 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <video width="30%" autoplay loop controls>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>{: .center-image }
+<br>
+<br>
+![](/assets/lawllipop/test/lawliinfo.png)
+<br>
 <br>
 <br>
 <br>
