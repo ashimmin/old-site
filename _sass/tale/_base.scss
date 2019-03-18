@@ -24,7 +24,7 @@ body {
   font-family: $sans-serif;
 }
 
-
+h1,
 h2,
 h3,
 h4,
@@ -37,12 +37,7 @@ h6 {
   margin-bottom:0px;
 }
 
-h1 {
-  font-size: 100px;
-  height: 90px;
-  color: $blue;  //make a quoted blockquote version of this
 
-}
 
 a {
   color: $blue;
@@ -96,6 +91,9 @@ blockquote {
   color: $grey-1;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
+  // font-size: 100px;
+  // height: 90px;
+  // color: $blue;  //make a quoted blockquote version of this
 
   p:last-child {
     margin-bottom: 0;
