@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T17:50:20-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T18:01:51-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;craft&quot;&gt;CRAFT&lt;/h6&gt;
 &lt;hr /&gt;
@@ -625,45 +625,12 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;video autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;video autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;
+
+&lt;p&gt;Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/lawllipop/lawstat.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;svg width=&quot;487px&quot; height=&quot;205px&quot; viewBox=&quot;0 0 487 205&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
-    &lt;!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --&gt;
-    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
-    &lt;defs&gt;&lt;/defs&gt;
-    &lt;g id=&quot;Website&quot; stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;
-        &lt;text id=&quot;Super-duper-long-des-Copy-4&quot; font-family=&quot;Helvetica&quot; font-size=&quot;28.8&quot; font-weight=&quot;normal&quot; fill=&quot;#333341&quot;&gt;
-            &lt;tspan x=&quot;0&quot; y=&quot;91&quot;&gt;I know so little, I just wish I knew more &lt;/tspan&gt;
-            &lt;tspan x=&quot;0&quot; y=&quot;126&quot;&gt;about how my taxes work, what my &lt;/tspan&gt;
-            &lt;tspan x=&quot;0&quot; y=&quot;161&quot;&gt;legal housing and labor rights are.&lt;/tspan&gt;
-        &lt;/text&gt;
-        &lt;path d=&quot;M18.9763636,8.29942418 C14.8781613,9.06462315 11.9975841,12.0076519 10.3345455,17.1285988 C9.50302615,19.6596416 9.08727273,22.161216 9.08727273,24.6333973 C9.08727273,24.9277046 9.10212106,25.1778621 9.13181818,25.3838772 C9.1615153,25.5898923 9.20606031,26.0460617 9.26545455,26.7523992 L18.9763636,26.7523992 L18.9763636,46 L0,46 L0,28.2533589 C0,19.541863 1.75210369,12.8317574 5.25636364,8.12284069 C8.76062358,3.41392399 13.3339112,0.706337505 18.9763636,0 L18.9763636,8.29942418 Z M49,8.29942418 C45.733317,8.82917731 43.2536448,10.6538552 41.5609091,13.7735125 C39.8681734,16.8931698 39.0218182,20.4836649 39.0218182,24.5451056 C39.0218182,24.8982743 39.0366665,25.2514378 39.0663636,25.6046065 C39.0960608,25.9577753 39.1703024,26.340369 39.2890909,26.7523992 L49,26.7523992 L49,46 L29.9345455,46 L29.9345455,28.2533589 C29.9345455,21.2488453 31.4193791,14.9949092 34.3890909,9.49136276 C37.3588027,3.98781637 42.2290571,0.824060422 49,0 L49,8.29942418 Z&quot; id=&quot;“&quot; fill=&quot;#E15067&quot;&gt;&lt;/path&gt;
-        &lt;text id=&quot;Super-duper-long-des-Copy-3&quot; font-family=&quot;Helvetica-Oblique, Helvetica&quot; font-size=&quot;14.4&quot; font-style=&quot;italic&quot; font-weight=&quot;normal&quot; fill=&quot;#333341&quot;&gt;
-            &lt;tspan x=&quot;0&quot; y=&quot;202&quot;&gt;Druyvee&lt;/tspan&gt;
-            &lt;tspan x=&quot;53.6203125&quot; y=&quot;202&quot; font-family=&quot;Helvetica&quot;&gt;  — &lt;/tspan&gt;
-            &lt;tspan x=&quot;80.0226562&quot; y=&quot;202&quot; font-family=&quot;Helvetica-Bold, Helvetica&quot; font-weight=&quot;bold&quot;&gt;International Student&lt;/tspan&gt;
-        &lt;/text&gt;
-    &lt;/g&gt;
-&lt;/svg&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;!-- # **“** --&gt;&lt;/p&gt;
@@ -674,21 +641,6 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;svg width=&quot;535px&quot; height=&quot;84px&quot; viewBox=&quot;0 0 535 84&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
-    &lt;!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --&gt;
-    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
-    &lt;defs&gt;&lt;/defs&gt;
-    &lt;g id=&quot;Page-1&quot; stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;
-        &lt;g id=&quot;Artboard-Copy&quot; transform=&quot;translate(-46.000000, -33.000000)&quot;&gt;
-            &lt;polygon id=&quot;Fill-2&quot; stroke=&quot;#555555&quot; stroke-width=&quot;3.6&quot; fill=&quot;#D73E3E&quot; points=&quot;578 66 544.16697 66 544.16697 96.1173819 501 95.5371697 501 115 578 115 566.159168 89.4361877&quot;&gt;&lt;/polygon&gt;
-            &lt;path d=&quot;M549,57.4021867 L549,44.5984896 C549,39.2972053 543.706624,35 537.174773,35 L59.8252269,35 C59.8252269,35 55.8834846,35 48,35 L48,99 L549,99 L549,57.4021867 Z&quot; id=&quot;Fill-3&quot; stroke=&quot;#555555&quot; stroke-width=&quot;3.6&quot; fill=&quot;#EB5B5B&quot;&gt;&lt;/path&gt;
-            &lt;text id=&quot;Current-resources,-a&quot; font-family=&quot;ArialRoundedMTBold, Arial Rounded MT Bold&quot; font-size=&quot;20.4&quot; font-weight=&quot;normal&quot; fill=&quot;#FFFFFF&quot;&gt;
-                &lt;tspan x=&quot;137&quot; y=&quot;61&quot;&gt;Current resources, are text heavy, &lt;/tspan&gt;
-                &lt;tspan x=&quot;137&quot; y=&quot;84&quot;&gt;hard to navigate, and boring.&lt;/tspan&gt;
-            &lt;/text&gt;
-        &lt;/g&gt;
-    &lt;/g&gt;
-&lt;/svg&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -699,22 +651,6 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;svg width=&quot;535px&quot; height=&quot;84px&quot; viewBox=&quot;0 0 535 84&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
-    &lt;!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch --&gt;
-    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
-    &lt;defs&gt;&lt;/defs&gt;
-    &lt;g id=&quot;Page-1&quot; stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;
-        &lt;g id=&quot;Artboard&quot; transform=&quot;translate(-46.000000, -33.000000)&quot;&gt;
-            &lt;polygon id=&quot;Fill-2&quot; stroke=&quot;#555555&quot; stroke-width=&quot;3.6&quot; fill=&quot;#D73E3E&quot; points=&quot;578 66 544.16697 66 544.16697 96.1173819 501 95.5371697 501 115 578 115 566.159168 89.4361877&quot;&gt;&lt;/polygon&gt;
-            &lt;path d=&quot;M549,57.4021867 L549,44.5984896 C549,39.2972053 543.706624,35 537.174773,35 L59.8252269,35 C59.8252269,35 55.8834846,35 48,35 L48,99 L549,99 L549,57.4021867 Z&quot; id=&quot;Fill-3&quot; stroke=&quot;#555555&quot; stroke-width=&quot;3.6&quot; fill=&quot;#EB5B5B&quot;&gt;&lt;/path&gt;
-            &lt;text id=&quot;There-isn’t-a-place&quot; font-family=&quot;ArialRoundedMTBold, Arial Rounded MT Bold&quot; font-size=&quot;20.4&quot; font-weight=&quot;normal&quot; fill=&quot;#FFFFFF&quot;&gt;
-                &lt;tspan x=&quot;137&quot; y=&quot;61&quot;&gt;There isn’t a place to learn laws in &lt;/tspan&gt;
-                &lt;tspan x=&quot;137&quot; y=&quot;84&quot;&gt;an easy and digestible way.&lt;/tspan&gt;
-            &lt;/text&gt;
-        &lt;/g&gt;
-    &lt;/g&gt;
-&lt;/svg&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
