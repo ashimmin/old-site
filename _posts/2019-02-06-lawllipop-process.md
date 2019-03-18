@@ -32,11 +32,7 @@ Many of these immigrants didn’t know a lot of important information about laws
 My team and I asked 31 international students, families, and recent visa applicants about how they felt about the information they knew prior to moving to the US.
 
 <br>
-<br>
 
-> ### [“I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.”]()
-
-<br>
 |                           |||
 |-----------------|-------|---|
 |22|16|14|
@@ -44,6 +40,13 @@ My team and I asked 31 international students, families, and recent visa applica
 
 <br>
 <br>
+
+# **“**
+
+#### I know so little, I just wish I knew more about how my taxes work, what my legal housing and labor rights are.
+<Br>
+*Druyvee* — **International Student**
+
 <br>
 <br>
 <a name="capa"></a>
@@ -57,7 +60,7 @@ Looking online to try and understand the laws, people are quickly faced with a s
 <small>_The websites for the Alcohol Policy Information System (bottom left), Justia (top left), free legal information for lawyers, and an excerpt from a California website on laws (right)_</small>
 <br>
 <br>
-# [There isn’t a place to learn laws in an easy and digestible way.]()
+#### There isn’t a place to learn laws in an easy and digestible way.
 
 <br>
 <br>
@@ -80,7 +83,6 @@ How might we…
 <video width="70%" autoplay loop controls>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>
-<small>*If the video isn't playing, right click it to 'Show Controls', you can view it from there.*</small>
 <br>
 <br>
 
