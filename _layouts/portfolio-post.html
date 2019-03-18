@@ -29,38 +29,66 @@ layout: default
       </a>
     </div>
   </div>
-  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-8	col-xl-8">
-    <div class="row writing-description">
-    <Br>
-    </div>
-<!--
-    <h4>{{ page.title }}</h4>
-<br>
-    <br>
-    <div class="links-title">
-      <p>{{ page.excerpt }}</p>
-    </div>
- -->
-    <!-- — -->
-    <br>
-    <p> {{content}} </p>
-    <br><br>
-    <br>
 
-    {% for tags in page.tags %}
-    {% capture tag_name %}{{ tags }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">
-      <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
-    </a>
-    {% endfor %}
-    <!--
 
-    <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
-    Evacuation
-  </a> by Crumbles Under Jumbo load
-  <br>
+  <div class="col-12 col-xs-12 col-sm-12	col-md-12	col-lg-12	col-xl-8">
+    {% if page.image2 %}
+    <div class="col-12">
+      <div class="post-img">
+        <img class="{{ post-img }}" src="{{page.image2}}">
+      </div>
+    </div>
+    {% else %}
+    <br>
+    <br>
+    <br>
+    <br>
+    {% endif %}
+        <div class="row">
+          <div class="col-3">
+    <a href="{{ page.url }}-process" ><svg width="105px" height="69px" viewBox="0 0 105 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+        <desc>Created with Sketch.</desc>
+        <defs></defs>
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Portfolio-Page-Copy-2" transform="translate(-360.000000, -714.000000)">
+                <rect id="Rectangle-13-Copy-3" stroke="#E15067" stroke-width="4" x="362" y="716" width="101" height="58" rx="7.33333333"></rect>
+                <text id="PROCESS-BOOK" font-family="AnonymousPro-Bold, Anonymous Pro" font-size="17.3333333" font-weight="bold" fill="#E15067">
+                    <tspan x="379.382161" y="740">PROCESS</tspan>
+                    <tspan x="393.575521" y="760">BOOK</tspan>
+                </text>
+                <rect id="Rectangle-15-Copy-3" stroke="#E15067" stroke-width="4" x="365" y="781" width="97" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </svg></a>
+          </div>
+        <div class="col-7">
+          {{ page.excerpt }}
+        </div>
+  </div>
+
+      <br>
+      <p> {{content}} </p>
+      <br><br>
+      <br>
+
+      {% for tags in page.tags %}
+      {% capture tag_name %}{{ tags }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}">
+        <code class="highligher-rouge">{{ tag_name | truncate: 20 }}</code>&nbsp;
+      </a>
+      {% endfor %}
+
+    </div>
+  </div>
+  <!--
+
   <a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
   Evacuation
+</a> by Crumbles Under Jumbo load
+<br>
+<a href="http://example.com/WORLD/africa/kenya.elephants.ap/index.html" tooltip="Read more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuationRead more about failed elephant evacuation">
+Evacuation
 </a> by Crumbles Under Jumbo load
 
 

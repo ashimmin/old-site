@@ -5,43 +5,49 @@ author: "Andy"
 categories:
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
 image: /assets/lawllipop/lawllipopsplash.png
+image2: /assets/lawllipop/lawllipopsplash1.png
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
 
-![](/assets/lawllipop/lawllipopsplash1.png)
-
-
 <br>
 <br>
-
-
-<video autoplay loop controls> <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4"/></video>
-
-Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
-
-
-![](/assets/lawllipop/lawstat.png)
-
-
-
-<svg width="487px" height="205px" viewBox="0 0 487 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="734px" height="422px" viewBox="0 0 734 422" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Super-duper-long-des-Copy-4" font-family="Helvetica" font-size="28.8" font-weight="normal" fill="#333341">
-            <tspan x="0" y="91">I know so little, I just wish I knew more </tspan>
-            <tspan x="0" y="126">about how my taxes work, what my </tspan>
-            <tspan x="0" y="161">legal housing and labor rights are.</tspan>
-        </text>
-        <path d="M18.9763636,8.29942418 C14.8781613,9.06462315 11.9975841,12.0076519 10.3345455,17.1285988 C9.50302615,19.6596416 9.08727273,22.161216 9.08727273,24.6333973 C9.08727273,24.9277046 9.10212106,25.1778621 9.13181818,25.3838772 C9.1615153,25.5898923 9.20606031,26.0460617 9.26545455,26.7523992 L18.9763636,26.7523992 L18.9763636,46 L0,46 L0,28.2533589 C0,19.541863 1.75210369,12.8317574 5.25636364,8.12284069 C8.76062358,3.41392399 13.3339112,0.706337505 18.9763636,0 L18.9763636,8.29942418 Z M49,8.29942418 C45.733317,8.82917731 43.2536448,10.6538552 41.5609091,13.7735125 C39.8681734,16.8931698 39.0218182,20.4836649 39.0218182,24.5451056 C39.0218182,24.8982743 39.0366665,25.2514378 39.0663636,25.6046065 C39.0960608,25.9577753 39.1703024,26.340369 39.2890909,26.7523992 L49,26.7523992 L49,46 L29.9345455,46 L29.9345455,28.2533589 C29.9345455,21.2488453 31.4193791,14.9949092 34.3890909,9.49136276 C37.3588027,3.98781637 42.2290571,0.824060422 49,0 L49,8.29942418 Z" id="“" fill="#E15067"></path>
-        <text id="Super-duper-long-des-Copy-3" font-family="Helvetica-Oblique, Helvetica" font-size="14.4" font-style="italic" font-weight="normal" fill="#333341">
-            <tspan x="0" y="202">Druyvee</tspan>
-            <tspan x="53.6203125" y="202" font-family="Helvetica">  — </tspan>
-            <tspan x="80.0226562" y="202" font-family="Helvetica-Bold, Helvetica" font-weight="bold">International Student</tspan>
-        </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2">
+            <rect id="Mask" fill="#4280E5" x="371" y="218" width="357" height="198" rx="18"></rect>
+            <path d="M383.92174,216.006399 C552.997035,220.159159 539.997242,417 677.995043,417 C815.992843,417 418.321972,417 389.655112,417 C360.988251,417 367.677185,345.459905 367.677185,280.733152 C367.677185,216.006399 380.102074,215.912582 383.92174,216.006399 Z" id="Path-15" fill="#A2B8EA" opacity="0.319746377"></path>
+            <rect id="Mask" stroke="#6799EA" stroke-width="11" x="371" y="218" width="357" height="198" rx="18"></rect>
+            <text id="1,051,031-copy" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="64" font-weight="normal" fill="#FFFFFF">
+                <tspan x="397.71875" y="288">1,043,839</tspan>
+            </text>
+            <text id="new-legal-permanent-copy" font-family="Helvetica" font-size="24" font-weight="normal" fill="#FFFFFF">
+                <tspan x="462.179688" y="333"> international students</tspan>
+                <tspan x="398.148438" y="362">studied at U.S. colleges and </tspan>
+                <tspan x="458.183594" y="391">universities in 2015/16</tspan>
+            </text>
+            <circle id="Oval-4-Copy-32" fill="#587FD9" cx="344" cy="369" r="5"></circle>
+            <rect id="Mask" fill="#4280E5" x="6" y="36" width="357" height="179" rx="18"></rect>
+            <path d="M18.9217396,34.0057942 C187.997035,37.766005 174.997242,216 312.995043,216 C450.992843,216 53.321972,216 24.6551117,216 C-4.01174859,216 2.67718547,151.222401 2.67718547,92.6140978 C2.67718547,34.0057942 15.1020745,33.9208454 18.9217396,34.0057942 Z" id="Path-15" fill="#A2B8EA" opacity="0.319746377"></path>
+            <rect id="Mask" stroke="#6799EA" stroke-width="11" x="6" y="36" width="357" height="179" rx="18"></rect>
+            <text id="1,051,031" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="64" font-weight="normal" fill="#FFFFFF">
+                <tspan x="21" y="108">1,051,031</tspan>
+            </text>
+            <text id="new-legal-permanent" font-family="Helvetica" font-size="24" font-weight="normal" fill="#FFFFFF">
+                <tspan x="19" y="153">new legal permanent residents </tspan>
+                <tspan x="19" y="182">moved to U.S in 2015.</tspan>
+            </text>
+            <circle id="Oval-4-Copy-28" fill="#587FD9" cx="383" cy="5" r="5"></circle>
+            <circle id="Oval-4-Copy-29" fill="#587FD9" opacity="0.557404891" cx="407" cy="27" r="9"></circle>
+            <circle id="Oval-4-Copy-30" fill="#587FD9" cx="12" cy="246" r="5"></circle>
+            <circle id="Oval-4-Copy-31" fill="#587FD9" opacity="0.557404891" cx="607" cy="164" r="9"></circle>
+        </g>
     </g>
 </svg>
+
+<br>
 <br>
 <br>
 <!-- # **“** -->
@@ -98,28 +104,62 @@ Lawllipop is a social gaming platform that informs immigrants of important laws 
 <br>
 <br>
 
-#### How might we…
-> #### Help people learn about the law and cultural norms when traveling to a new country?
 
-
-> #### Bridge divides between immigrants and the laws of a new place?
+<svg width="721px" height="320px" viewBox="0 0 721 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Page-Copy-2" transform="translate(-237.000000, -3167.000000)">
+            <rect id="Mask" fill="#4280E5" x="243" y="3204" width="480" height="116" rx="18"></rect>
+            <path d="M243,3231 C388,3241.00255 478,3276 531,3321 C531,3321 306.982768,3321 268.451135,3321 C229.919503,3321 238.910217,3279.00134 238.910217,3241.00255 C238.910217,3203.00376 237.922277,3230.64972 243,3231 Z" id="Path-15" fill="#A2B8EA" opacity="0.319746377"></path>
+            <rect id="Mask" stroke="#6799EA" stroke-width="11" x="243" y="3204" width="480" height="116" rx="18"></rect>
+            <rect id="Mask" fill="#4280E5" x="472" y="3339" width="480" height="116" rx="18"></rect>
+            <path d="M557,3340 C657,3393.03448 748,3441 918,3456 C934,3456 535.982768,3456 497.451135,3456 C458.919503,3456 467.910217,3428.00509 467.910217,3376.00255 C467.910217,3324 527.445268,3324.3258 557,3340 Z" id="Path-15" fill="#A2B8EA" opacity="0.319746377"></path>
+            <rect id="Mask" stroke="#6799EA" stroke-width="11" x="472" y="3339" width="480" height="116" rx="18"></rect>
+            <text id="Help-people-learn-ab" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="271" y="3241">Help people learn about laws and </tspan>
+                <tspan x="271" y="3270">cultural norms when traveling to a </tspan>
+                <tspan x="271" y="3299">new country?</tspan>
+            </text>
+            <text id="Bridge-divides-betwe-Copy-3" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="509" y="3393">Bridge divides between immigrants </tspan>
+                <tspan x="509" y="3422">and the laws of a new place?</tspan>
+            </text>
+            <circle id="Oval-4-Copy-7" fill="#FFFFFF" cx="506" cy="3179" r="6"></circle>
+            <circle id="Oval-4-Copy-35" fill="#587FD9" cx="789" cy="3315" r="5"></circle>
+            <circle id="Oval-4-Copy-37" fill="#587FD9" cx="918" cy="3482" r="5"></circle>
+            <circle id="Oval-4-Copy-36" fill="#587FD9" cx="819.5" cy="3305.5" r="2.5"></circle>
+            <circle id="Oval-4-Copy-33" fill="#587FD9" opacity="0.557404891" cx="271" cy="3361" r="9"></circle>
+            <circle id="Oval-4-Copy-34" fill="#587FD9" opacity="0.557404891" cx="763" cy="3226" r="9"></circle>
+            <circle id="Oval-4-Copy-15" fill="#FFFFFF" opacity="0.81006567" cx="562" cy="3170" r="3"></circle>
+            <g id="Group-4-Copy-3" transform="translate(509.000000, 3308.000000)">
+                <rect id="Rectangle-18" stroke="#C79D36" stroke-width="7" fill="#F7C446" x="0" y="0" width="178" height="40" rx="1"></rect>
+                <text id="HOW-MIGHT-WE…" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="18" y="26">HOW MIGHT WE…</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
 
 <br>
 <br>
 <br>
 <br>
 
-<video width="70%" autoplay loop controls>
+<video width="65%" autoplay loop controls>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>
 
 <br>
 <br>
 
-![](/assets/lawllipop/splash detail.png)
-<br>
-<br>
-<br>
+
+
+
+![](/assets/lawllipop/splashdetail.svg)
+
 <br>
 <br>
 <br>
