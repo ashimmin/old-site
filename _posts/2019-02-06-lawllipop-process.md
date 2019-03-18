@@ -5,6 +5,7 @@ author: "Andy"
 categories:
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
 image: /assets/lawllipop/lawllipopsplash.png
+permalink: /lawllipop-process
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
 
