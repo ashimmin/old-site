@@ -34,9 +34,7 @@ layout: default
     {% if page.image2 %}
     <div class="col-12">
       <div class="post-img">
-              <div class="center-image">
         <img class="{{ post-img }}" src="{{page.image2}}">
-      </div>
       </div>
     </div>
     {% else %}
@@ -47,7 +45,7 @@ layout: default
     {% endif %}
         <div class="row">
           <div class="col-3">
-    <a href="{{ page.url | append: '-process' }}" ><svg width="105px" height="69px" viewBox="0 0 105 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <a href="{{ page.url | append: '-process' | relative_url }}" ><svg width="105px" height="69px" viewBox="0 0 105 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
         <desc>Created with Sketch.</desc>
         <defs></defs>

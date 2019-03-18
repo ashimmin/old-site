@@ -8,7 +8,8 @@ image: /assets/lawllipop/lawllipopsplash.png
 image2: /assets/lawllipop/test/lawliintro.png
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
-
+![](/assets/lawllipop/lawscreens1.png)
+![](/assets/lawllipop/lawscreens2.png)
 <br>
 <br>
 <br>
@@ -42,8 +43,7 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <br>
 <br>
 <br>
-![](/assets/lawllipop/lawscreens1.png)
-![](/assets/lawllipop/lawscreens2.png)
+
 ![](/assets/lawllipop/img1.jpeg)
 ![](/assets/lawllipop/img2.jpeg)
 ![](/assets/lawllipop/img3.jpeg)
