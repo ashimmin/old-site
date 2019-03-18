@@ -5,7 +5,7 @@ author: "Andy"
 categories: portfolio
 excerpt:  Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.
 image: /assets/lawllipop/lawllipopsplash.png
-image2: /assets/lawllipop/lawllipopsplash1.png
+image2: /assets/lawllipop/test/lawliintro.png
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
 
@@ -26,29 +26,14 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <Br>
 <br>
 <br>
-<br>
-<br>
-<br>
 ![](/assets/lawllipop/test/lawlihmw.png)
 <br>
 <br>
-<br>
-<br>
-<br>
-![](/assets/lawllipop/test/lawliintro.png)
-<br>
-<br>
-<br>
-<br>
+![](/assets/lawllipop/test/lawliinfo.png)
+
 <video width="30%" autoplay loop controls>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>{: .center-image }
-<br>
-<br>
-![](/assets/lawllipop/test/lawliinfo.png)
-<br>
-<br>
-<br>
 <br>
 ![](/assets/lawllipop/test/lawlifeatures.png)
 <br>
@@ -65,4 +50,4 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <br>
 <Br>
 <Br>
-![](/assets/lawllipop/test/lawlilogo.png){: .center-image}{:height="20%" width="20%"}
+![](/assets/lawllipop/test/lawllipopsplash1.png){: .center-image}{:height="30%" width="30%"}
