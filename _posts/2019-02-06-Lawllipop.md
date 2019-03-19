@@ -14,7 +14,7 @@ tags: visual-design ux game-design play research motion-design civic-engagement 
 <br>
 <br>
 <br>
-![](/assets/lawllipop/test/lawllipopstat1.png)
+![](/assets/lawllipop/test/lawlistats.png)
 <br>
 <br>
 <br>
