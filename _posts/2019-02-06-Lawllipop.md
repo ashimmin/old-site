@@ -8,46 +8,37 @@ image: /assets/lawllipop/lawllipopsplash.png
 image2: /assets/lawllipop/test/lawliintro.png
 tags: visual-design ux game-design play research motion-design civic-engagement college
 ---
-![](/assets/lawllipop/lawscreens1.png)
-![](/assets/lawllipop/lawscreens2.png)
-<br>
-<br>
-<br>
-<br>
-![](/assets/lawllipop/test/lawlistats.png)
-<br>
-<br>
+
 <br>
 <Br>
-![](/assets/lawllipop/test/lawlipopquote.png)
-<br>
-<Br>
-![](/assets/lawllipop/test/lawlicurrentweb.png)
-<br>
-<Br>
-<br>
 <br>
 ![](/assets/lawllipop/test/lawlihmw.png)
 <br>
 <br>
-![](/assets/lawllipop/test/lawliinfo.png)
-
+<br>
+<Br>
+![](/assets/lawllipop/test/experience.png)
+<br>
 <video width="30%" autoplay loop controls>
   <source src="/assets/lawllipop/gameplay.mp4" type="video/mp4" />
 </video>{: .center-image }
-<br>
-![](/assets/lawllipop/test/lawlifeatures.png)
-<br>
+![](/assets/lawllipop/test/lawliinfo.png)
 <br>
 <br>
 <br>
 <br>
 <br>
+![](/assets/lawllipop/test/whyplay.png)
+<br>
+<br>
+<br>
+![](/assets/lawllipop/test/research.png)
+<br>
+<br>
+![](/assets/lawllipop/test/lawlistats.png)
+![](/assets/lawllipop/test/lawlicurrentweb.png)
+![](/assets/lawllipop/test/lawlipopquote.png)
 
-![](/assets/lawllipop/img1.jpeg)
-![](/assets/lawllipop/img2.jpeg)
-![](/assets/lawllipop/img3.jpeg)
-<br>
-<Br>
+
 <Br>
 ![](/assets/lawllipop/test/lawllipopsplash1.png){: .center-image}{:height="30%" width="30%"}

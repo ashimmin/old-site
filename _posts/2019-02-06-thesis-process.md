@@ -3,14 +3,14 @@ layout: post
 title: "Undergrad Thesis: Interfaces For Online Learning"
 author: "Andy"
 categories: portfolio
-excerpt: There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.
+excerpt: Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they sometime blur the line between education and entertainment. In this study, I surveyed existing literature on personal knowledge bases, information storage, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.
 tags: learning-design visual-design motion-design research thesis college
 image: /assets/thesis/thesissplash.png
 ---
 During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it [here.]({% post_url 2017-10-17-literature-review-thesis %})
 <br>
 <br>
-![](/assets/thesis/splash.png)
+<!-- ![](/assets/thesis/splash.png) -->
 <br>
 <br>
 

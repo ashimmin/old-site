@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-18T17:16:16-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-24T21:48:04-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h6 id=&quot;craft&quot;&gt;CRAFT&lt;/h6&gt;
+&lt;h6 id=&quot;design&quot;&gt;DESIGN&lt;/h6&gt;
 &lt;hr /&gt;
 &lt;p&gt;I’ve been talking with Wei wei a lot about the benefits of a Twitter presence. I know I’ve been overthinking the whole thing when catch myself staring into space thinking about what unique perspective I would bring to Twitter.
 &lt;br /&gt;
@@ -111,119 +111,131 @@ Anyway, I left Kabuki absolutely &lt;em&gt;radiant&lt;/em&gt;. I would love to v
 &lt;br /&gt;
 Currently reading: Cryptonomicon — pg. 164
 &lt;br /&gt;
-Currently listening to: Caramelldansen (sorry)&lt;/p&gt;</content><author><name>Andy</name></author><category term="weeknote" /><category term="data-visualization" /><category term="sweat-bathing" /><category term="ux" /><summary type="html">This week I contemplate how I want to use design, my progress through Mikkel Aaland's SWEAT, and my presentation on visualizing data.</summary></entry><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/blend</id><content type="html" xml:base="http://localhost:4000/blend">&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#disclosures&quot;&gt;Disclosures Onboarding Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#okrs&quot;&gt;OKR Dashboard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#product&quot;&gt;Product&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fl&quot;&gt;Final Thoughts&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+Currently listening to: Caramelldansen (sorry)&lt;/p&gt;</content><author><name>Andy</name></author><category term="weeknote" /><category term="data-visualization" /><category term="sweat-bathing" /><category term="ux" /><summary type="html">This week I contemplate how I want to use design, my progress through Mikkel Aaland's SWEAT, and my presentation on visualizing data.</summary></entry><entry><title type="html">Blend: Transparency to Consumer Lending</title><link href="http://localhost:4000/blend" rel="alternate" type="text/html" title="Blend: Transparency to Consumer Lending" /><published>2019-02-21T00:00:00-08:00</published><updated>2019-02-21T00:00:00-08:00</updated><id>http://localhost:4000/blend</id><content type="html" xml:base="http://localhost:4000/blend">&lt;!-- 1. [Introduction](#introduction)
+2. [Disclosures Onboarding Tool](#disclosures)
+3. [OKR Dashboard](#okrs)
+4. [Product](#product)
+5. [Final Thoughts](#fl) --&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/blend/home-product.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;image made by Kaitlin Sullivan at Blend&lt;/em&gt;&lt;/small&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+![](/assets/blend/home-product.png)
+&lt;small&gt;*image made by Kaitlin Sullivan at Blend*&lt;/small&gt;
+&lt;br&gt;
+&lt;br&gt; --&gt;
+&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;For NDA reasons, I am not able to show my work on the product, but instead I can show you some side projects I was able to produce during my time at Blend.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Mortgage lending is a small and overlooked “area” due to the percentage of people who interact with loan applications or lenders regularly. Blend comfortably and confidently fits in this space, assessing the needs of both mortgage lending institutions as well as those applying for a loan, and making the process more accountable for both parties and overall more fluid and stress-free. My time at Blend as the first product design intern was filled to the brim with opportunities to learn about something I had never given a second thought— and ultimately, to help make  lending better.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
+&lt;p&gt;As Blend’s first product design intern, I was tasked to work on two primary projects to help bring clarity to the company’s complex problem space.
+&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;a name=&quot;disclosures&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;onboarding-tool&quot;&gt;ONBOARDING TOOL&lt;/h6&gt;
+&lt;h6 id=&quot;interactive-onboarding-product&quot;&gt;INTERACTIVE ONBOARDING PRODUCT&lt;/h6&gt;
 &lt;hr /&gt;
-&lt;p&gt;Before you can make a difference, you need to know the space your working in. This was perfect to educate myself as well as the rest of my peers on a small but very important facet in the application process—disclosures.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;For my first project, I self-directed and created a new-hire onboarding product to introduce and simplify complex compliance topics during first week orientation. To begin, I interviewed various departments about their current misunderstandings related to compliance, and used those findings to address those areas in an engaging and playful interactive tool that could be easily shared around the office. Feedback was clear that employees at Blend finished knowing how disclosures fit into lending, how to design around them, and why they’re so important for the transparency of the loan application. To assist in updating people in the long term, I created a component library of illustrations for articles and resources to be presented in a more engaging format.&lt;/p&gt;
 
-&lt;p&gt;For my first project, I created an onboarding tool as part of the new-hire onboarding experience that educated and refreshed Blend employees on a variety of mortgage and compliance related concepts. The bulk of this tool focused on an interactive demo of how mortgage disclosures— infamous for being tedious, granular, and a necessary evil for borrowers and lenders—operated within the ecosystem of lending.&lt;/p&gt;
+&lt;!-- Before you can make a difference, you need to know the space your working in. This was perfect to educate myself as well as the rest of my peers on a small but very important facet in the application process—disclosures.
+&lt;br&gt;
+&lt;br&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/blend/disclosurespaper.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;I needed to map my thoughts before hopping into the computer. Each color represents a different perspective. ex: orange = borrower journey, pink = Blend, blue = disclosures, etc.&lt;/em&gt;&lt;/small&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+For my first project, I created an onboarding tool as part of the new-hire onboarding experience that educated and refreshed Blend employees on a variety of mortgage and compliance related concepts. The bulk of this tool focused on an interactive demo of how mortgage disclosures— infamous for being tedious, granular, and a necessary evil for borrowers and lenders—operated within the ecosystem of lending. --&gt;
 
-&lt;p&gt;Asking around, most of the questions were general, “What are the contents of a disclosures package?” “Why do we need them?” What compliance issues do they face?”
-&lt;br /&gt;
+&lt;!-- Asking around, most of the questions were general, “What are the contents of a disclosures package?” “Why do we need them?” What compliance issues do they face?” --&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/blend/disclosures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The final result had to be engaging enough for viewers to stay focused, but explained in a way so one could retain the information they were reading. The final result was a witty, interactive story of how Marc (with a “C”) borrower handled disclosures during his loan application. Feedback was clear that employees at Blend left knowing how disclosures fit into lending, how to design around them, and why they’re so important for the transparency of the loan application.&lt;/p&gt;
-
 &lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+video goes here
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/disclosurespaper.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;I needed to map my thoughts before hopping into the computer. Each color represents a different perspective. ex: orange = borrower journey, pink = Blend, blue = disclosures, etc.&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;a name=&quot;okrs&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h6 id=&quot;okr-dashboard&quot;&gt;OKR DASHBOARD&lt;/h6&gt;
 &lt;hr /&gt;
-&lt;p&gt;OKR’s help to align a company toward actionable goals. Some may be ambitious, but they help inspire and steer employees at all levels in the right direction.&lt;/p&gt;
 
-&lt;p&gt;This project was devoted to amplifying that unity component, and making Blend’s alignment forward clear and simple.&lt;/p&gt;
+&lt;p&gt;My second project was to redesign the company’s OKR dashboard to align the company toward their quarterly goals. This dashboard needed to be easy to update regularly, but also needed some visual treatment that was beyond the capabilities of Google Slides or Tableau. The final result was a multi-touchpoint service initiative that informed the company of &lt;em&gt;why&lt;/em&gt; Blend chose their product goals, and to provide metrics that had both meaning and direction— something that a simple dashboard refresh wouldn’t have been able to accomplish.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/blend/oldokr.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;Blend’s OKR Dashboard at the time.&lt;/em&gt;&lt;/small&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Blends current dashboard was hyper-straightforward with an intensity that lost all clarity in the process.&lt;/p&gt;
-
-&lt;p&gt;The first major problem was automation: How can we update these screens in a way that supports some visual design adjustments and automatic updating of the objectives? Having to manually update these numbers in Sketch each week was out of the question, but so was a Tableau dashboard that had negative hierarchy.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/blend/okrdraft.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/blend/solution1.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Refreshed OKR dashboard, part of the Update &amp;amp; Inform step&lt;/em&gt;&lt;/small&gt;
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I explored ways in which we could maximize Tableau’s potential for visual clarity and sketched ways to call out changes in the data that showed the trend of each metric we were measuring— rather than a stand-alone data point.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/blend/solution1.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;After slowly crafting a proposed solution in Tableau, the design team and I collectively agreed that a successful OKR wasn’t about reorganizing the information. Rather, it was about educating Blend employees on &lt;em&gt;how&lt;/em&gt; to look at the dashboard, not &lt;em&gt;what&lt;/em&gt; to look at. As Ray, a product designer, mentioned, “Treat the OKR dashboard as a service design project.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/blend/okrfoamcore.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;It became clear that there were three phases to this project: an initial “educate” phase, the “update and inform” phase, and finally, a “take action” phase. The solution I had been working on only focused on updating and informing.&lt;/p&gt;
-
-&lt;p&gt;I worked to analyze and understand what and how Blend needed to be educated on our company objectives.&lt;/p&gt;
 
 &lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/blend/okreducation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
-
-&lt;p&gt;To address the “Educate” portion, I created an animated video describing each of the company’s OKR’s, and what they mean in a larger context.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;A video educating employees on current goals and what they mean.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/okrwireframe.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/oldokr.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Blend’s OKR Dashboard at the time.&lt;/em&gt;&lt;/small&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;a name=&quot;product&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;borrower-experience&quot;&gt;BORROWER EXPERIENCE&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/blend/blurry&quot; alt=&quot;&quot; /&gt;
-Because of NDA purposes, I’d love to talk about my work with Blend’s new product offering in person. Thank you for understanding.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/okrfoamcore.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Three phases to understanding OKRs: educate, update &amp;amp; inform, take action.&lt;/em&gt;&lt;/small&gt;
 &lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a name=&quot;fl&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;final-thoughts&quot;&gt;FINAL THOUGHTS&lt;/h6&gt;
 &lt;hr /&gt;
-&lt;p&gt;Blend was so accommodating with my own curiosities during my internship. From working on objectives one day, to an animated demo for a client onsite the next, I was thrown into a fast-paced environment that honed my ability to make connections from all faces of the company. My biggest take away was developing an understanding of how to listen to the needs of the company, and being okay with not knowing the solution. The lending industry is extremely ingrained in archaic processes, and learning about it was a huge undertaking— designing for it even more so.
+&lt;p&gt;Blend was accommodating with my own curiosities during my internship. From working on visualizations with the data team one day, to an animated prototype demo for a client onsite the next, I was thrown into a fast-paced environment that honed my ability to make connections from all faces of the company. My biggest take away was developing an understanding of how to listen to the needs of the company, and being okay with not knowing the solution. The lending industry is extremely ingrained in archaic processes, and learning about it was a huge undertaking— designing for it even more so.
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">Pink Themed Valentines Day Dinner</title><link href="http://localhost:4000/valentines-day-dinner" rel="alternate" type="text/html" title="Pink Themed Valentines Day Dinner" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>http://localhost:4000/valentines-day-dinner</id><content type="html" xml:base="http://localhost:4000/valentines-day-dinner"></content><author><name>Andy</name></author><category term="recipes" /><category term="food" /><category term="pink" /><category term="valentines-day" /><category term="cooking" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis</id><content type="html" xml:base="http://localhost:4000/thesis">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">Pink Themed Valentines Day Dinner</title><link href="http://localhost:4000/valentines-day-dinner" rel="alternate" type="text/html" title="Pink Themed Valentines Day Dinner" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>http://localhost:4000/valentines-day-dinner</id><content type="html" xml:base="http://localhost:4000/valentines-day-dinner"></content><author><name>Andy</name></author><category term="recipes" /><category term="food" /><category term="pink" /><category term="valentines-day" /><category term="cooking" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary></entry><entry><title type="html">Interfaces For Online Learning</title><link href="http://localhost:4000/thesis" rel="alternate" type="text/html" title="Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis</id><content type="html" xml:base="http://localhost:4000/thesis">&lt;!-- &lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;
+###### INTRODUCTION
+--- --&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/msthesis.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;The media scrubber is a dynamic filter that overlays onto the video’s play bar. Moving its position or changing its length will filter the discussion based on that specific section of media.&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
-This is best viewed on a computer. There are a lot of videos that might not load properly on mobile.
+&lt;br /&gt;&lt;/p&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/thesis4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/thesis/videodemo.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/thesis/model.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;final-thoughts&quot;&gt;FINAL THOUGHTS&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;My work on interfaces for learning aims to empower people to create meaningful relationships with their knowledge to support a mind of deep interest and curiosity, so that even the biggest problems can be deconstructed and understood. The final prototypes I created are a glimpse at the possibility of what screen-based learning could be, but the future for learning goes beyond the screen to enhance how one learns.&lt;/p&gt;
+
+&lt;p&gt;If you would like to read about this project in depth, click &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt; If you want to read about my research, click &lt;a href=&quot;/thesis-process&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they sometime blur the line between education and entertainment. In this study, I surveyed existing literature on personal knowledge bases, information storage, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis-process" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis-process</id><content type="html" xml:base="http://localhost:4000/thesis-process">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;!-- ![](/assets/thesis/splash.png) --&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -420,248 +432,37 @@ He’s really frustrated with his current attempts to learn about it on youtube 
 
 &lt;p&gt;I would like to bring my learnings from my work here with me in my future work, as i look at making technology not something that alleviates us in the moment, but supports us over time as we grow and develop ways to make education better.&lt;/p&gt;
 
-&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis-process" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis-process</id><content type="html" xml:base="http://localhost:4000/thesis-process">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/splash.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;Existing Examples of “Learning Interfaces”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#prototype&quot;&gt;Prototype&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#learnings&quot;&gt;Learnings&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
-&lt;hr /&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/ytvids.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;We’ve all been entertained by these videos; super clean, super simple, super &lt;em&gt;delicious&lt;/em&gt;, and easy to follow. And after we finish it, we have a tendency to click on another, and another, and another. Youtube rabbit holes are an easy thing to go down, and even though educational content is abundant online, it’s usually in the form of entertainment like this. We never call Youtube rabbit holes educational.&lt;/p&gt;
-
-&lt;p&gt;But that’s okay, because if i wanted to learn about African animals except elephants I will find exactly what I need—&lt;/p&gt;
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/elephants.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;It’s easy to find something online that teaches you something, but rarely is it shown through an educational lens. And that’s because an educational lens is a classroom, a teacher, other students, and the surrounding environment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/thesis/medium.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt; &lt;em&gt;Medium telling me what else I might like in the footer of the website. None of these are related to what I just read.&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;And the internet isn’t that. It’s not any of those, Its a lot of “up next’s” and “suggested readings,” not based on what I’m currently doing, but based on my entire browsing history. So it needs to be up to the learner to mediate those resources online. In an age of abundant online educational media, it is important that we are able to treat these self-learning resources as something that we can shape and direct, rather than something that tells us to consume more of what it thinks we like.&lt;/p&gt;
-
-&lt;p&gt;For the past year I have been trying to answer the question:
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;how-can-we-assist-learners-in-navigating-through-online-resources-effectively&quot;&gt;How can we assist learners in navigating through online resources effectively?&lt;/h2&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Through interviews with teachers, public speakers, students, academics, and hobbyists, I categorized my understanding of learning into three main questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;How do we effectively find and accept quality content from online resources in a sea of junk?&lt;/li&gt;
-  &lt;li&gt;How do we organize it in a way that makes sense to us?&lt;/li&gt;
-  &lt;li&gt;and how can we discuss this with others to deepen our understanding of it?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/model.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-and they all flow together as the process of learning happens.
-This became the fundamental model for what learning should include during my investigation on this subject.&lt;/p&gt;
-
-&lt;p&gt;I researched existing examples of interfaces that have these categories, but found they tend to prioritize one, and struggle to navigate between each other.&lt;/p&gt;
-
-&lt;p&gt;Lets take a look at what interfaces do and don’t do well.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a name=&quot;examples&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;existing-examples-of-learning-interfaces&quot;&gt;EXISTING EXAMPLES OF “LEARNING INTERFACES”&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/laptopyt.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Youtube is a great example of how an interface that has so much content for learning, isn’t presented in a way to support it. If I go to a video to learn about something, but I’m looking for ONLY the part I care about, I have to click through the entire video to find it. There are thumbnail previews, but that’s only a visual cue, so auditory explanations are not benefitted from that. If I want to discuss this with others, I have to leave the video and scroll down to the comments. If a comment is time stamped, I click and leave the comments to see the part of the video they were talking about, only to have to scroll back down to see the discussion around the snippet of video.&lt;/p&gt;
-
-&lt;p&gt;On a slightly different note, Google has an uncommon feature when searching some questions into it&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/thesis/whistle.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;where it gives you a &lt;a href=&quot;http://lmgtfy.com/?q=how+to+whistle&quot;&gt;suggested clip&lt;/a&gt;. Google will highlight specific parts of a video and tell you which moments in the video it believes are most relevant to you.&lt;/p&gt;
-
-&lt;p&gt;Another is &lt;a href=&quot;http://watson.ted.com/&quot;&gt;IBM Watson’s TED website&lt;/a&gt;. Here, you can ask IBM’s Watson a question or topic and it will search every TED Talk for videos that it thinks are related to your inquiry. Just like the Google search, it clips the part of the video that is relevant to you, and starts the video from there, as you can see from the teal bar below the video. But this interface as well as Google’s suggested clip still just surfaces content for consumption, and neglects the other essential parts of a learning environment that people need.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/2by2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;digging deeper, I looked to different types of learning platforms to see how they dealt with this problem. It all varied based on what information you are looking for, and how deeply you want to understand it.&lt;/p&gt;
-
-&lt;p&gt;Resources like Youtube, Reddit and Quora have a wide breath of content, that is both academic and interest heavy, but are focused, based on their interfaces, on entertaining or consuming.&lt;/p&gt;
-
-&lt;p&gt;Resources that are educational and academic employ a classroom like setting, or a sequential learning style, with an emphasis on knowledge quality.&lt;/p&gt;
-
-&lt;p&gt;These two quadrants together have quality learning material, but because of the interface itself, we as learners aren’t empowered to retain this information through note taking or discussion.&lt;/p&gt;
-
-&lt;p&gt;As for the other spaces, theres not many examples. But these are the two spaces that I see the most promise in, specifically, educational interest based learning.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;h2 id=&quot;what-does-an-interface-for-learning-look-like&quot;&gt;What does an interface for learning look like?&lt;/h2&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Researching possible companies in that upper right region, I partnered with a company called Alcamy, who were working on a similar problem. Alcamy is a self learning platform that curates existing learning materials online so you can find helpful learning resources all in one place.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/laptopalcamy.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Their current website, which you can visit now, uses user created categories that filter entire topics into a streamlined curriculum. Together we worked to re-create their existing interface for one that promoted more than just consumption, so that if someone wanted to learn more about bitcoin, for example, they would find value in Alcamy whether they knew a lot or not much at all.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/thesis/albert.png&quot; alt=&quot;&quot; /&gt;
-Meet Albert, an avid bitcoin purchaser, he knows a lot about the basics, and he’s trying to learn about unstable currencies for his next crypto purchase.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/thesis/ridic.png&quot; alt=&quot;&quot; /&gt;
-He’s really frustrated with his current attempts to learn about it on youtube and reddit, as he keeps getting video suggestions that steer him away from his topic through exaggerated titles and ostentatious thumbnails, and the lack of quality discussion in the comments prevents Albert from really diving deep into his topic.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/intro.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;a name=&quot;prototype&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;prototype&quot;&gt;PROTOTYPE&lt;/h6&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;On Alcamy, he finds the topic he’s looking for, and see’s Unstable Currency is already a discussion category. He is able to skip the sections about bitcoin he already knows and can immediately access Unstable Currencies&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/3sections.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;In the new interface, Albert has some additional tools to help him grasp this concept. and there are three columns to accompany Albert’s learning journey&lt;/p&gt;
-
-&lt;p&gt;A place for note taking, where he can write down his thoughts, drag quotes and snippets, and have a place for him to help solidify his learning.&lt;/p&gt;
-
-&lt;p&gt;Second, a space for the actual content he’s learning from, and I will talk more later about navigating through it,&lt;/p&gt;
-
-&lt;p&gt;And lastly, a place for discussion with communities interested in the same topic.&lt;/p&gt;
-
-&lt;p&gt;While watching the video, Albert has questions.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/comments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;He writes a quick conversation starter, drags it over to the discussion section, and In no time, he get’s a clarifying response from someone else interested in learning about the same topic as him.&lt;/p&gt;
-
-&lt;p&gt;With the three part interface, Albert doesn’t have to keep scrolling between commentary and video like youtube and can focus on his learning over navigating. Which is critical during points when you are just starting out, as there is so much more to take in.
-&lt;img src=&quot;/assets/thesis/jane.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, like Jane, who knows nothing about bitcoin, she’s curious what all the buzz is about, and is looking to learn more. She’s found some great information watching TED talks, but is looking for a place to help her unscramble her thoughts.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/janecomment.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;She starts from a beginner topic, and picks up the basics quickly. She’s can choose different ways to digest the content based on her preference. Jane jots down some notes and drags her comments to the notes section. Now, she’s interested in a certain part of the video, and grabs the scrub bar to refine the discussion a bit more.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/msdetail.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;The media scrubber, located directly on the video timeline allows Jane the ability to look at discussion and commentary from both the macro and micro level.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/mscontext.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;So when Jane alters the scrubbers size and location, it filters the comments to just that part of the video rather than the video as a whole, allowing for more directed discussions that the long comment threads we’re used to don’t offer.&lt;/p&gt;
-
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/thesis/scrubberuse.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-
-&lt;p&gt;She scrubs to a specific section to see what the discussion is about for that part of the video, only to find that someone asked her question! The response links her to another page, and she finds the exact quote that the commenter was referencing. she is able to copy the highlighted section directly to her notes.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a name=&quot;learnings&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;learnings&quot;&gt;LEARNINGS&lt;/h6&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/thesis/modelonui.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My work on learning interfaces aims to empower people to create meaningful relationships with their knowledge to support a mind of deep interest and curiosity, so that even the biggest problems can be deconstructed and understood. Looking at what defines an interface that helps someone learn is my step toward that. These two scenarios were looking at learning from a digital interface, but it stems far beyond just the digital.&lt;/p&gt;
-
-&lt;p&gt;I would like to bring my learnings from my work here with me in my future work, as i look at making technology not something that alleviates us in the moment, but supports us over time as we grow and develop ways to make education better.&lt;/p&gt;
-
-&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">There are a lot of resources and teaching styles that aim to educate, but they’re often presented as a form of entertainment rather than emphasizing the learning. This project investigated the qualities of the digital that assist or hinder learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop</id><content type="html" xml:base="http://localhost:4000/lawllipop">&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/lawscreens1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/lawllipop/lawscreens2.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/lawllipop/test/lawlistats.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/lawllipop/test/lawlipopquote.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/lawllipop/test/lawlicurrentweb.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they sometime blur the line between education and entertainment. In this study, I surveyed existing literature on personal knowledge bases, information storage, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop</id><content type="html" xml:base="http://localhost:4000/lawllipop">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/lawllipop/test/lawlihmw.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;/assets/lawllipop/test/lawliinfo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/lawllipop/test/experience.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
 &lt;video width=&quot;30%&quot; autoplay=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot; class=&quot;center-image&quot;&gt;
   &lt;source src=&quot;/assets/lawllipop/gameplay.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/lawllipop/test/lawlifeatures.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/test/lawliinfo.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/lawllipop/test/whyplay.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/lawllipop/test/research.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/lawllipop/test/lawlistats.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/lawllipop/test/lawlicurrentweb.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/lawllipop/test/lawlipopquote.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/img1.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/lawllipop/img2.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/lawllipop/img3.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/lawllipop/test/lawllipopsplash1.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; height=&quot;30%&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="visual-design" /><category term="ux" /><category term="game-design" /><category term="play" /><category term="research" /><category term="motion-design" /><category term="civic-engagement" /><category term="college" /><summary type="html">Lawllipop is a social gaming platform that informs immigrants of important laws and regional customs. Play with your friends to learn about the essential information you need when traveling to a foreign country.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/lawllipop/lawllipopsplash.png" /></entry><entry><title type="html">Lawllipop — App For Learning Foreign Laws</title><link href="http://localhost:4000/lawllipop-process" rel="alternate" type="text/html" title="Lawllipop — App For Learning Foreign Laws" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/lawllipop-process</id><content type="html" xml:base="http://localhost:4000/lawllipop-process">&lt;p&gt;&lt;img src=&quot;/assets/lawllipop/splash.png&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
