@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-25T18:53:07-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-31T19:12:47-07:00</updated><id>http://localhost:4000/</id><title type="html">ANDY SHIMMIN</title><subtitle>Interaction Designer</subtitle><author><name>Andy Shimmin</name><email>andersonrshimmin@gmail.com</email></author><entry><title type="html">Weeknote 3— Professional Twitter &amp;amp; Math</title><link href="http://localhost:4000/weeknote3" rel="alternate" type="text/html" title="Weeknote 3— Professional Twitter &amp; Math" /><published>2019-03-12T00:00:00-07:00</published><updated>2019-03-12T00:00:00-07:00</updated><id>http://localhost:4000/weeknote3</id><content type="html" xml:base="http://localhost:4000/weeknote3">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;design&quot;&gt;DESIGN&lt;/h6&gt;
 &lt;hr /&gt;
@@ -26,7 +26,7 @@ I wish I knew even the slightest how to go about solving this problem. It took m
 &lt;p&gt;—
 &lt;br /&gt;
 &lt;br /&gt;
-Currently reading: Cryptonomicon — pg. 247
+Currently reading: Cryptonomicon — pg. 441
 &lt;br /&gt;
 Currently listening to: Kazuashita - Gang Gang Dance&lt;/p&gt;</content><author><name>Andy</name></author><category term="weeknote" /><category term="ux" /><category term="math" /><summary type="html">This week I build out my someday maybe collection, and contemplate a Twitter presence.</summary></entry><entry><title type="html">Weeknote 2— Craft and Revision</title><link href="http://localhost:4000/weeknote2" rel="alternate" type="text/html" title="Weeknote 2— Craft and Revision" /><published>2019-03-08T00:00:00-08:00</published><updated>2019-03-08T00:00:00-08:00</updated><id>http://localhost:4000/weeknote2</id><content type="html" xml:base="http://localhost:4000/weeknote2">&lt;h6 id=&quot;craft&quot;&gt;CRAFT&lt;/h6&gt;
 &lt;hr /&gt;
@@ -124,17 +124,31 @@ Currently listening to: Caramelldansen (sorry)&lt;/p&gt;</content><author><name>
 &lt;small&gt;*image made by Kaitlin Sullivan at Blend*&lt;/small&gt;
 &lt;br&gt;
 &lt;br&gt; --&gt;
-&lt;p&gt;&lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;p&gt;As Blend’s first product design intern, I was tasked to work on two primary projects to help bring clarity to the company’s complex problem space.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;a name=&quot;disclosures&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h6 id=&quot;interactive-onboarding-product&quot;&gt;INTERACTIVE ONBOARDING PRODUCT&lt;/h6&gt;
 &lt;hr /&gt;
-&lt;p&gt;For my first project, I self-directed and created a new-hire onboarding product to introduce and simplify complex compliance topics during first week orientation. To begin, I interviewed various departments about their current misunderstandings related to compliance, and used those findings to address those areas in an engaging and playful interactive tool that could be easily shared around the office. Feedback was clear that employees at Blend finished knowing how disclosures fit into lending, how to design around them, and why they’re so important for the transparency of the loan application. To assist in updating people in the long term, I created a component library of illustrations for articles and resources to be presented in a more engaging format.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/blend/discvid.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Employees at Blend progressed at their own pace, with the option to explore specific areas of the process that were more confusing.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For this project, I created a new-hire onboarding product with the Organization Effectiveness team to introduce complex compliance topics during first week orientation. To begin, I interviewed employees about their current understanding related to these topics, and addressed those areas in an engaging and playful interactive tool that could be easily shared.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blend/disclosures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To assist the Org Effectiveness team with onboarding after I transition off the project, I created an Sketch-based illustration library for them to use to generate visual elements for the different chapters of the onboarding experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/blend/illus.gif&quot; alt=&quot;&quot; /&gt;
+&lt;!-- ![](/assets/blend/headerfooter.gif) --&gt;
+&lt;img src=&quot;/assets/blend/illusexamples.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt; &lt;em&gt;All illustrations were drawn in Sketch.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;!-- Before you can make a difference, you need to know the space your working in. This was perfect to educate myself as well as the rest of my peers on a small but very important facet in the application process—disclosures.
 &lt;br&gt;
@@ -143,20 +157,11 @@ Currently listening to: Caramelldansen (sorry)&lt;/p&gt;</content><author><name>
 For my first project, I created an onboarding tool as part of the new-hire onboarding experience that educated and refreshed Blend employees on a variety of mortgage and compliance related concepts. The bulk of this tool focused on an interactive demo of how mortgage disclosures— infamous for being tedious, granular, and a necessary evil for borrowers and lenders—operated within the ecosystem of lending. --&gt;
 
 &lt;!-- Asking around, most of the questions were general, “What are the contents of a disclosures package?” “Why do we need them?” What compliance issues do they face?” --&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/blend/disclosures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/blend/discvid.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
+&lt;strong&gt;MAKING SENSE OF LOAN ORIGINATION&lt;/strong&gt;
 &lt;img src=&quot;/assets/blend/disclosurespaper.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;I needed to map my thoughts before hopping into the computer. Each color represents a different perspective. ex: orange = borrower journey, pink = Blend, blue = disclosures, etc.&lt;/em&gt;&lt;/small&gt;
+&lt;small&gt;&lt;em&gt;Journey map of the loan origination process. Each color represents a different perspective. ex: orange = the borrower’s journey, pink = Blend’s influence, blue = disclosures, and so on&lt;/em&gt;&lt;/small&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -166,40 +171,54 @@ For my first project, I created an onboarding tool as part of the new-hire onboa
 &lt;h6 id=&quot;okr-dashboard&quot;&gt;OKR DASHBOARD&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;My second project was to redesign the company’s OKR dashboard to align the company toward their quarterly goals. This dashboard needed to be easy to update regularly, but also needed some visual treatment that was beyond the capabilities of Google Slides or Tableau. The final result was a multi-touchpoint service initiative that informed the company of &lt;em&gt;why&lt;/em&gt; Blend chose their product goals, and to provide metrics that had both meaning and direction— something that a simple dashboard refresh wouldn’t have been able to accomplish.&lt;/p&gt;
+&lt;video width=&quot;100%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/blend/okreducation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;!-- &lt;small&gt;*A video educating employees on Blend's current goals and what they mean.*&lt;/small&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal on this project was to redesign the company’s OKR dashboard to help align the company toward their quarterly goals. The final result was a multi-touchpoint service initiative that informed the employees &lt;strong&gt;&lt;em&gt;why&lt;/em&gt;&lt;/strong&gt; Blend chose these specific product goals, and to provide metrics that had both meaning and direction.&lt;/p&gt;
+
+&lt;!-- &lt;br&gt;This became much more of a service design project rather than just a visual refresh of the existing dashboard. --&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/blend/solution1.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;Refreshed OKR dashboard, part of the Update &amp;amp; Inform step&lt;/em&gt;&lt;/small&gt;
+&lt;small&gt;&lt;em&gt;The refreshed OKR dashboard gives priority and trajectory to current goals, instead of a single data point.&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;video width=&quot;100%&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
-  &lt;source src=&quot;/assets/blend/okreducation.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  Your browser does not support the video tag.
-&lt;/video&gt;
-&lt;p&gt;&lt;small&gt;&lt;em&gt;A video educating employees on current goals and what they mean.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;This dashboard needed to be easy to update regularly, but also needed some visual treatment that was beyond the capabilities of Google Slides or Tableau, the current software Blend was using to visualize their OKRs.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;WIREFRAMES&lt;/strong&gt;
 &lt;img src=&quot;/assets/blend/okrwireframe.png&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/blend/oldokr.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;Blend’s OKR Dashboard at the time.&lt;/em&gt;&lt;/small&gt;
+&lt;small&gt;&lt;em&gt;The above images are wireframes I created to test different ways of showing metrics. The left column is what the visualization will look like, the right column is the background image used for the Tableau dashboard.&lt;/em&gt;&lt;/small&gt;
+&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/blend/okrfoamcore.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;&lt;em&gt;Three phases to understanding OKRs: educate, update &amp;amp; inform, take action.&lt;/em&gt;&lt;/small&gt;
+&lt;!-- ![](/assets/blend/oldokr.png) --&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/blend/beforeafter.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Blend’s OKR Dashboard before the refresh. Equal hierarchy, and no easy way to understand what is shown.&lt;/em&gt;&lt;/small&gt;
 &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- ![](/assets/blend/okrfoamcore.jpeg)
+&lt;small&gt;*Three phases I identified to understanding OKRs: education, updating &amp; informing, taking action.*&lt;/small&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h6 id=&quot;final-thoughts&quot;&gt;FINAL THOUGHTS&lt;/h6&gt;
 &lt;hr /&gt;
 &lt;p&gt;Blend was accommodating with my own curiosities during my internship. From working on visualizations with the data team one day, to an animated prototype demo for a client onsite the next, I was thrown into a fast-paced environment that honed my ability to make connections from all faces of the company. My biggest take away was developing an understanding of how to listen to the needs of the company, and being okay with not knowing the solution. The lending industry is extremely ingrained in archaic processes, and learning about it was a huge undertaking— designing for it even more so.
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">Pink Themed Valentines Day Dinner</title><link href="http://localhost:4000/valentines-day-dinner" rel="alternate" type="text/html" title="Pink Themed Valentines Day Dinner" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>http://localhost:4000/valentines-day-dinner</id><content type="html" xml:base="http://localhost:4000/valentines-day-dinner"></content><author><name>Andy</name></author><category term="recipes" /><category term="food" /><category term="pink" /><category term="valentines-day" /><category term="cooking" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary></entry><entry><title type="html">Interfaces For Online Learning</title><link href="http://localhost:4000/thesis" rel="alternate" type="text/html" title="Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis</id><content type="html" xml:base="http://localhost:4000/thesis">&lt;!-- &lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Andy</name></author><category term="product-design" /><category term="ux" /><category term="data-visualization" /><category term="motion-design" /><category term="instructional-design" /><category term="visual-design" /><category term="research" /><category term="learning-design" /><summary type="html">As a Product Design intern at Blend, a white-label SaaS company, I worked on two primary projects to help bring clarity to the consumer lending space. One was a product that visualizes complex compliance topics for new hires, and the other a new dashboard for the company's objectives. I worked on other projects during my time at Blend, feel free to ask about my work in further detail!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/blend/blend_splash.png" /></entry><entry><title type="html">Pink Themed Valentines Day Dinner</title><link href="http://localhost:4000/valentines-day-dinner" rel="alternate" type="text/html" title="Pink Themed Valentines Day Dinner" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>http://localhost:4000/valentines-day-dinner</id><content type="html" xml:base="http://localhost:4000/valentines-day-dinner"></content><author><name>Andy</name></author><category term="recipes" /><category term="food" /><category term="pink" /><category term="valentines-day" /><category term="cooking" /><summary type="html">Sample of projects as Blend's first product design intern working on their white-label SaaS platform, helping to deliver speed and transparency to the consumer lending ecosystem.</summary></entry><entry><title type="html">Interfaces For Online Learning</title><link href="http://localhost:4000/thesis" rel="alternate" type="text/html" title="Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis</id><content type="html" xml:base="http://localhost:4000/thesis">&lt;!-- &lt;a name=&quot;introduction&quot;&gt;&lt;/a&gt;
 ###### INTRODUCTION
 --- --&gt;
 &lt;video width=&quot;100%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
@@ -215,7 +234,8 @@ For my first project, I created an onboarding tool as part of the new-hire onboa
   &lt;source src=&quot;/assets/thesis/thesis4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
-&lt;p&gt;&lt;br /&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;The media scrubber is a dynamic filter that overlays onto the video’s play bar. Moving its position or changing its length will filter the discussion based on that specific section of media.&lt;/em&gt; &lt;/small&gt;
+&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;video width=&quot;100%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
@@ -235,7 +255,9 @@ For my first project, I created an onboarding tool as part of the new-hire onboa
 
 &lt;p&gt;My work on interfaces for learning aims to empower people to create meaningful relationships with their knowledge to support a mind of deep interest and curiosity, so that even the biggest problems can be deconstructed and understood. The final prototypes I created are a glimpse at the possibility of what screen-based learning could be, but the future for learning goes beyond the screen to enhance how one learns.&lt;/p&gt;
 
-&lt;h4 id=&quot;if-you-would-like-to-read-about-this-project-in-depth-click-here-if-you-want-to-read-about-my-research-click-here&quot;&gt;If you would like to read about this project in depth, click &lt;a href=&quot;/thesis-process&quot;&gt;here.&lt;/a&gt; If you want to read about my research, click &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;&lt;/h4&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they sometime blur the line between education and entertainment. In this study, I surveyed existing literature on personal knowledge bases, information storage, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis-process" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis-process</id><content type="html" xml:base="http://localhost:4000/thesis-process">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
+&lt;h4 id=&quot;if-you-would-like-to-see-more-prototypes-and-use-cases-click-here&quot;&gt;If you would like to see more prototypes and use cases, click &lt;a href=&quot;/thesis-process&quot;&gt;here.&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;if-you-want-to-read-more-about-my-secondary-research-click-here&quot;&gt;If you want to read more about my secondary research, click &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;&lt;/h4&gt;</content><author><name>Andy</name></author><category term="learning-design" /><category term="visual-design" /><category term="motion-design" /><category term="research" /><category term="thesis" /><category term="college" /><summary type="html">Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they sometime blur the line between education and entertainment. In this study, I surveyed existing literature on personal knowledge bases, information storage, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/thesis/thesissplash.png" /></entry><entry><title type="html">Undergrad Thesis: Interfaces For Online Learning</title><link href="http://localhost:4000/thesis-process" rel="alternate" type="text/html" title="Undergrad Thesis: Interfaces For Online Learning" /><published>2019-02-06T00:00:00-08:00</published><updated>2019-02-06T00:00:00-08:00</updated><id>http://localhost:4000/thesis-process</id><content type="html" xml:base="http://localhost:4000/thesis-process">&lt;p&gt;During the initial research phase of this project, I wrote an essay about linked memory-retrieval systems, both cognitive and machine-based, that help enhance pragmatic learning. Read it &lt;a href=&quot;/literature-review-thesis&quot;&gt;here.&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;!-- ![](/assets/thesis/splash.png) --&gt;
