@@ -62,3 +62,8 @@ excerpt: Online readings, models, content that has left a lasting impression on 
 
 <br>
 <br>
+###### GOOD PORTFLIOS
+---
+[Christian Leban](http://www.christianleban.com/) <br>
+[NIRLA](http://nirla.work/) <br>
+[use this website for the tool tip code/idea to apply to your portfolio](https://commonmark.org/help/tutorial/05-blockquotes.html)
